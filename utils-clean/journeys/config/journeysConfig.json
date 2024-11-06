@@ -1,0 +1,51 @@
+{
+  "i18n": {
+    "title": {
+      "text": "journeys_list_title",
+      "fontColor": "#333333"
+    },
+    "description": {
+      "text": "journeys_list_description",
+      "fontColor": "#333333"
+    },
+    "inProgress": {
+      "text": "journeys_list_in_progress",
+      "fontColor": "#333333"
+    },
+    "completed": {
+      "text": "journeys_list_completed",
+      "fontColor": "#333333"
+    }
+  },
+  "colors": {
+    "background": "#ffffff"
+  },
+  "cta": [
+    {
+      "type": "button",
+      "action": "ADD",
+      "backgroundColor": "#E0E6FC",
+      "fontColor": "#5577F1",
+      "text": "journeys_list_btn_add",
+      "textDesktop": "journeys_list_btn_add",
+      "textTablet": "journeys_list_btn_add",
+      "url": "",
+      "disabledBackgroundColor": "#ffaaff",
+      "disabledFontColor": "#ffffff"
+    }
+  ],
+  "hasAvailableJourneys": true,
+  "journeys": [
+    "orchid",
+    "seaGreen",
+    "steelBlue",
+    "mediumPurple",
+    "cadeBlue",
+    "lightSeaGreen",
+    "indianRed",
+    "darkKhaki",
+    "coral",
+    "sandyBrown"
+  ],
+  "version": "1.0.global"
+}

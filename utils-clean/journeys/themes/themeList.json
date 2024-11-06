@@ -1,0 +1,101 @@
+{
+  "default": {
+    "background": "#B771B1",
+    "cardOverlay":"#885491",
+    "previewOverlay":"#9B579D",
+    "finishedBackground":"#B771B1",
+    "hintBackground":"#734B7D",
+    "path":"#C982C3",
+    "highlightedStep":"#C982C3"
+  },
+  "orchid": {
+    "background": "#B771B1",
+    "finishedBackground":"#B771B1",
+    "cardOverlay":"#995DA6",
+    "previewOverlay":"#995DA6",
+    "path":"#C982C3",
+    "highlightedStep":"#C982C3",
+    "hintBackground":"#734B7D"
+  },
+  "mediumPurple": {
+    "background":"#8971AF",
+    "finishedBackground":"#8971AF",
+    "cardOverlay":"#6D62AA",
+    "previewOverlay":"#6D62AA",
+    "path":"#A086C7",
+    "highlightedStep":"#A086C7",
+    "hintBackground":"#524673"
+  },
+  "steelBlue": {
+    "background":"#627CA9",
+    "finishedBackground":"#627CA9",
+    "cardOverlay":"#476DAF",
+    "previewOverlay":"#476DAF",
+    "path":"#728CBC",
+    "highlightedStep":"#728CBC",
+    "hintBackground":"#464D73"
+  },
+  "cadetBlue": {
+    "background":"#6290AB",
+    "finishedBackground":"#6290AB",
+    "cardOverlay":"#337295",
+    "previewOverlay":"#337295",
+    "path":"#73A7C4",
+    "highlightedStep":"#73A7C4",
+    "hintBackground":"#465B73"
+  },
+  "lightSeaGreen": {
+    "background":"#5AA3A3",
+    "finishedBackground":"#5AA3A3",
+    "cardOverlay":"#407F90",
+    "previewOverlay":"#407F90",
+    "path":"#6BB8B8",
+    "highlightedStep":"#6BB8B8",
+    "hintBackground":"#466573"
+  },
+  "seaGreen": {
+    "background":"#61AC6D",
+    "finishedBackground":"#61AC6D",
+    "cardOverlay":"#468667",
+    "previewOverlay":"#468667",
+    "path":"#6FC07C",
+    "highlightedStep":"#6FC07C",
+    "hintBackground":"#3F5B50"
+  },
+  "darkKhaki": {
+    "background":"#99AB66",
+    "finishedBackground":"#99AB66",
+    "cardOverlay":"#728E5E",
+    "previewOverlay":"#728E5E",
+    "path":"#AFC17B",
+    "highlightedStep":"#AFC17B",
+    "hintBackground":"#51654B"
+  },
+  "sandyBrown": {
+    "background":"#AA8D63",
+    "finishedBackground":"#AA8D63",
+    "cardOverlay":"#877653",
+    "previewOverlay":"#877653",
+    "path":"#BB9D72",
+    "highlightedStep":"#BB9D72",
+    "hintBackground":"#5E5643"
+  },
+  "coral": {
+    "background":"#D5945B",
+    "finishedBackground":"#D5945B",
+    "cardOverlay":"#986C4E",
+    "previewOverlay":"#986C4E",
+    "path":"#DEA06A",
+    "highlightedStep":"#DEA06A",
+    "hintBackground":"#6C5344"
+  },
+  "indianRed": {
+    "background":"#CB6064",
+    "finishedBackground":"#CB6064",
+    "cardOverlay":"#9E515C",
+    "previewOverlay":"#9E515C",
+    "path":"#E07377",
+    "highlightedStep":"#E07377",
+    "hintBackground":"#7A404D"
+  }
+}

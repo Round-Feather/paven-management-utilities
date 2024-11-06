@@ -1,0 +1,377 @@
+[
+  {
+    "Key": "Cg0iC25zQ29tbW9uRGV2EhYKC2dvYWxzQ29uZmlnEICAgOzO4L8JEhAKBXBhZ2VzEICAgKyo1LQJ",
+    "Properties": [
+      {
+        "Name": "elements",
+        "Value": [
+          {
+            "Key": null,
+            "Properties": [
+              {
+                "Name": "text",
+                "Value": "G_BUYCAR_onb_page10_title",
+                "NoIndex": false
+              },
+              {
+                "Name": "type",
+                "Value": "title",
+                "NoIndex": false
+              }
+            ]
+          },
+          {
+            "Key": null,
+            "Properties": [
+              {
+                "Name": "text",
+                "Value": "G_BUYCAR_onb_page10_subtitle",
+                "NoIndex": false
+              },
+              {
+                "Name": "type",
+                "Value": "description",
+                "NoIndex": false
+              }
+            ]
+          },
+          {
+            "Key": null,
+            "Properties": [
+              {
+                "Name": "colors",
+                "Value": {
+                  "Key": null,
+                  "Properties": [
+                    {
+                      "Name": "quintenaryColor",
+                      "Value": "#E0E6FC",
+                      "NoIndex": false
+                    },
+                    {
+                      "Name": "secondaryColor",
+                      "Value": "#EF436C",
+                      "NoIndex": false
+                    },
+                    {
+                      "Name": "tertiaryColor",
+                      "Value": "#5577F1",
+                      "NoIndex": false
+                    },
+                    {
+                      "Name": "defaultColor",
+                      "Value": "#5577F1",
+                      "NoIndex": false
+                    },
+                    {
+                      "Name": "primaryColor",
+                      "Value": "#2C36A7",
+                      "NoIndex": false
+                    },
+                    {
+                      "Name": "quaternaryColor",
+                      "Value": "#97ABF6",
+                      "NoIndex": false
+                    }
+                  ]
+                },
+                "NoIndex": false
+              },
+              {
+                "Name": "iconUrl",
+                "Value": "https://images.ctfassets.net/pmoql4aw53io/24FVmjDVHDdyxKIzHnM9hl/d6ad854bf1cfc6e1cac27c1b417a86b4/Magic-Number-Icon.png",
+                "NoIndex": false
+              },
+              {
+                "Name": "text",
+                "Value": "G_BUYCAR_onb_page11_chart_title",
+                "NoIndex": false
+              },
+              {
+                "Name": "type",
+                "Value": "chart",
+                "NoIndex": false
+              },
+              {
+                "Name": "variable",
+                "Value": "totalUpfront",
+                "NoIndex": false
+              },
+              {
+                "Name": "chartElements",
+                "Value": [
+                  {
+                    "Key": null,
+                    "Properties": [
+                      {
+                        "Name": "lottieUrl",
+                        "Value": "TODO",
+                        "NoIndex": false
+                      },
+                      {
+                        "Name": "text",
+                        "Value": "G_BUYCAR_onb_page11_checking",
+                        "NoIndex": false
+                      },
+                      {
+                        "Name": "variable",
+                        "Value": "Checking",
+                        "NoIndex": false
+                      },
+                      {
+                        "Name": "color",
+                        "Value": "#518895",
+                        "NoIndex": false
+                      }
+                    ]
+                  },
+                  {
+                    "Key": null,
+                    "Properties": [
+                      {
+                        "Name": "color",
+                        "Value": "#46A8AF",
+                        "NoIndex": false
+                      },
+                      {
+                        "Name": "text",
+                        "Value": "G_BUYCAR_onb_page11_savings",
+                        "NoIndex": false
+                      },
+                      {
+                        "Name": "variable",
+                        "Value": "Savings",
+                        "NoIndex": false
+                      }
+                    ]
+                  },
+                  {
+                    "Key": null,
+                    "Properties": [
+                      {
+                        "Name": "color",
+                        "Value": "#4375B4",
+                        "NoIndex": false
+                      },
+                      {
+                        "Name": "text",
+                        "Value": "G_BUYCAR_onb_page11_brokerage",
+                        "NoIndex": false
+                      },
+                      {
+                        "Name": "variable",
+                        "Value": "Brokerage",
+                        "NoIndex": false
+                      }
+                    ]
+                  }
+                ],
+                "NoIndex": false
+              }
+            ]
+          }
+        ],
+        "NoIndex": false
+      },
+      {
+        "Name": "images",
+        "Value": {
+          "Key": null,
+          "Properties": [
+            {
+              "Name": "webBackgroundPhoneUrl",
+              "Value": "https://assets.ctfassets.net/pmoql4aw53io/5aPr7MDL3oCiNXnAqbJCAK/686403ed0edb295d816a580fb3f5964e/Magic-Number-buying-car.json",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundTabletType",
+              "Value": "image",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundTabletUrl",
+              "Value": "https://images.ctfassets.net/pmoql4aw53io/3wLMK6pINpoWht7uOOv2gy/b293ce99c4f5ef1ebe933f54b8634c66/Magic-Tablet.png",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundType",
+              "Value": "image",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundUrl",
+              "Value": "https://images.ctfassets.net/pmoql4aw53io/1HqjvdHwipTiIMbfBI2ddV/e25790c6457ba313f8b4f0f79eecb996/Buying-a-car-Magic-Number__1_.png",
+              "NoIndex": false
+            },
+            {
+              "Name": "backgroundType",
+              "Value": "lottie",
+              "NoIndex": false
+            },
+            {
+              "Name": "backgroundUrl",
+              "Value": "https://assets.ctfassets.net/pmoql4aw53io/5aPr7MDL3oCiNXnAqbJCAK/686403ed0edb295d816a580fb3f5964e/Magic-Number-buying-car.json",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundPhoneType",
+              "Value": "lottie",
+              "NoIndex": false
+            }
+          ]
+        },
+        "NoIndex": false
+      },
+      {
+        "Name": "page",
+        "Value": "buyCarMagicNumber",
+        "NoIndex": false
+      },
+      {
+        "Name": "type",
+        "Value": "magicNumber",
+        "NoIndex": false
+      },
+      {
+        "Name": "webBackgroundColor",
+        "Value": "#F9F0FA",
+        "NoIndex": false
+      },
+      {
+        "Name": "backgroundColor",
+        "Value": "#F9F0FA",
+        "NoIndex": false
+      }
+    ]
+  },
+  {
+    "Key": "Cg0iC25zQ29tbW9uRGV2EhYKC2dvYWxzQ29uZmlnEICAgOzO4L8JEhAKBXBhZ2VzEICAgLSbmrYL",
+    "Properties": [
+      {
+        "Name": "elements",
+        "Value": [
+          {
+            "Key": null,
+            "Properties": [
+              {
+                "Name": "text",
+                "Value": "G_BUYCAR_onb_page9_crunch_title",
+                "NoIndex": false
+              },
+              {
+                "Name": "type",
+                "Value": "title",
+                "NoIndex": false
+              }
+            ]
+          },
+          {
+            "Key": null,
+            "Properties": [
+              {
+                "Name": "text",
+                "Value": "G_BUYCAR_onb_page9_crunch_subtitle",
+                "NoIndex": false
+              },
+              {
+                "Name": "type",
+                "Value": "description",
+                "NoIndex": false
+              }
+            ]
+          },
+          {
+            "Key": null,
+            "Properties": [
+              {
+                "Name": "mobileUrl",
+                "Value": "https://assets.ctfassets.net/pmoql4aw53io/1Hr85eAioT6XURWDcIGKrQ/e92cfc8b9ef4ca9bf228036ee2075296/Chart-buying-car.json",
+                "NoIndex": false
+              },
+              {
+                "Name": "webUrl",
+                "Value": "https://assets.ctfassets.net/pmoql4aw53io/1Hr85eAioT6XURWDcIGKrQ/e92cfc8b9ef4ca9bf228036ee2075296/Chart-buying-car.json",
+                "NoIndex": false
+              },
+              {
+                "Name": "type",
+                "Value": "loadingLottie",
+                "NoIndex": false
+              }
+            ]
+          }
+        ],
+        "NoIndex": false
+      },
+      {
+        "Name": "images",
+        "Value": {
+          "Key": null,
+          "Properties": [
+            {
+              "Name": "webBackgroundUrl",
+              "Value": "https://images.ctfassets.net/pmoql4aw53io/SpWQE1m9qeEcdmeKTT7ym/c1f19d03fdfed214d3bf8e2ef87a9a5a/Buying-a-car-Crunching-Numbers.png",
+              "NoIndex": false
+            },
+            {
+              "Name": "backgroundType",
+              "Value": "lottie",
+              "NoIndex": false
+            },
+            {
+              "Name": "backgroundUrl",
+              "Value": "https://assets.ctfassets.net/pmoql4aw53io/5aPr7MDL3oCiNXnAqbJCAK/686403ed0edb295d816a580fb3f5964e/Magic-Number-buying-car.json",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundPhoneType",
+              "Value": "image",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundPhoneUrl",
+              "Value": "https://assets.ctfassets.net/pmoql4aw53io/5aPr7MDL3oCiNXnAqbJCAK/686403ed0edb295d816a580fb3f5964e/Magic-Number-buying-car.json",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundTabletType",
+              "Value": "image",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundTabletUrl",
+              "Value": "https://images.ctfassets.net/pmoql4aw53io/41KJ8j6xPdATBcVlj1FKFi/a8db2a095c65738c10077e4791461ff4/Crunching-Tablet.png",
+              "NoIndex": false
+            },
+            {
+              "Name": "webBackgroundType",
+              "Value": "image",
+              "NoIndex": false
+            }
+          ]
+        },
+        "NoIndex": false
+      },
+      {
+        "Name": "page",
+        "Value": "buyCarCrunchingNumbers",
+        "NoIndex": false
+      },
+      {
+        "Name": "type",
+        "Value": "crunchingNumbers",
+        "NoIndex": false
+      },
+      {
+        "Name": "webBackgroundColor",
+        "Value": "#F9F0FA",
+        "NoIndex": false
+      },
+      {
+        "Name": "backgroundColor",
+        "Value": "#F9F0FA",
+        "NoIndex": false
+      }
+    ]
+  }
+]

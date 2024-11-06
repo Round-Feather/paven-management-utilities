@@ -1,0 +1,184 @@
+[
+  {
+    "id": "5346946210332672",
+    "parent": "goals,G_BUYCAR",
+    "data": {
+      "conclusionSteps": [
+        {
+          "extendedInput": false,
+          "order": 1,
+          "page": "buyCarCrunchingNumbers",
+          "type": "crunchingNumbers"
+        },
+        {
+          "extendedInput": false,
+          "order": 2,
+          "page": "buyCarMagicNumber",
+          "type": "magicNumber"
+        }
+      ],
+      "steps": [
+        {
+          "extendedInput": false,
+          "order": 1,
+          "page": "lander",
+          "type": "lander"
+        },
+        {
+          "extendedInput": false,
+          "order": 2,
+          "page": "dilemma",
+          "type": "content"
+        },
+        {
+          "extendedInput": false,
+          "order": 3,
+          "page": "bulletNotes",
+          "type": "bulletNotes"
+        },
+        {
+          "extendedInput": false,
+          "order": 4,
+          "page": "purchasePrice",
+          "type": "inputPage"
+        },
+        {
+          "extendedInput": false,
+          "order": 5,
+          "page": "downpayment",
+          "type": "inputPage"
+        },
+        {
+          "extendedInput": false,
+          "order": 6,
+          "page": "purchaseInYears",
+          "type": "inputPage"
+        },
+        {
+          "extendedInput": false,
+          "order": 7,
+          "page": "upfrontIntro",
+          "type": "bulletNotes"
+        },
+        {
+          "extendedInput": false,
+          "order": 8,
+          "page": "upfrontCost",
+          "type": "summary"
+        },
+        {
+          "extendedInput": false,
+          "order": 9,
+          "page": "editUpfrontCosts",
+          "type": "editPage"
+        },
+        {
+          "extendedInput": false,
+          "order": 10,
+          "page": "editPlan",
+          "type": "editPage"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6416700073312256",
+    "parent": "goals,G_BUYHOME",
+    "data": {
+      "steps": [
+        {
+          "extendedInput": false,
+          "order": 1,
+          "page": "lander",
+          "type": "lander"
+        },
+        {
+          "extendedInput": false,
+          "order": 2,
+          "page": "dilemma",
+          "type": "content"
+        },
+        {
+          "extendedInput": false,
+          "order": 3,
+          "page": "bulletNotes",
+          "type": "bulletNotes"
+        },
+        {
+          "extendedInput": false,
+          "order": 4,
+          "page": "purchasePrice",
+          "type": "inputPage"
+        },
+        {
+          "extendedInput": false,
+          "order": 5,
+          "page": "downpayment",
+          "type": "inputPage"
+        },
+        {
+          "extendedInput": false,
+          "order": 6,
+          "page": "purchaseInYears",
+          "type": "inputPage"
+        },
+        {
+          "extendedInput": false,
+          "order": 7,
+          "page": "upfrontIntro",
+          "type": "bulletNotes"
+        },
+        {
+          "extendedInput": false,
+          "order": 8,
+          "page": "upfrontCost",
+          "type": "summary"
+        },
+        {
+          "extendedInput": false,
+          "order": 9,
+          "page": "editUpfrontCosts",
+          "type": "editPage"
+        },
+        {
+          "extendedInput": false,
+          "order": 10,
+          "page": "editPlan",
+          "type": "editPage"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5241022988681216",
+    "parent": "goals,G_EMFUND",
+    "data": {
+      "steps": [
+        {
+          "extendedInput": false,
+          "order": 1,
+          "page": "emfLander",
+          "type": "lander"
+        },
+        {
+          "extendedInput": false,
+          "order": 2,
+          "page": "emfCheckingExpenses",
+          "type": "content"
+        },
+        {
+          "extendedInput": false,
+          "order": 3,
+          "page": "emfHowItWorks",
+          "type": "bulletNotes"
+        },
+        {
+          "extendedInput": false,
+          "order": 4,
+          "page": "emfSetExpenses",
+          "type": "inputPage"
+        }
+      ]
+    }
+  }
+]

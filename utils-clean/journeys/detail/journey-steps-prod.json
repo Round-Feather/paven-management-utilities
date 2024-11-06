@@ -1,0 +1,2648 @@
+{
+  "journey_paven_101": [
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_p101_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_p101_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_p101_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_p101_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/568I80o7WBI63nux9NkzU7",
+      "id": "568I80o7WBI63nux9NkzU7",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_p101_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_p101_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_p101_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_p101_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "content/article/6Kg8c6DAxy9XRvvHb2djs7",
+      "id": "6Kg8c6DAxy9XRvvHb2djs7",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_p101_action1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_p101_action1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_p101_action1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_p101_action1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/budget",
+      "id": "budget1",
+      "type": "budget"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_p101_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_p101_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_p101_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_p101_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/48iNpsQ4joTaOyNd63p5FB",
+      "id": "48iNpsQ4joTaOyNd63p5FB",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_p101_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_p101_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_p101_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_p101_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1gd9ZmQkYFEtWHRWxNeOAb",
+      "id": "1gd9ZmQkYFEtWHRWxNeOAb",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_p101_content4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_p101_content4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_p101_content4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_p101_content4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/owseBAvFJG0YhuvrzfRpI",
+      "id": "owseBAvFJG0YhuvrzfRpI",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_p101_action2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_p101_action2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_p101_action2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_p101_action2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/emergency-fund/onboarding",
+      "id": "EMFonb",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_p101_content5_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_p101_content5_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_p101_content5_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_p101_content5_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "content/article/76J6kwosrb6kJSeNFzcrvc",
+      "id": "76J6kwosrb6kJSeNFzcrvc",
+      "type": "content"
+    },
+    {
+      "icons": "link",
+      "i18n": {
+        "stepText": {
+          "text": "journey_p101_extlink1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_p101_extlink1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_p101_extlink1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_p101_extlink1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "https://short.paven.io/e/paven101",
+      "id": "https://short.paven.io/e/paven101",
+      "type": "link"
+    }
+  ],
+  "journey_planning_for_retirement": [
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "content/article/47QR0n9uXSwDxxjlubB371",
+      "id": "47QR0n9uXSwDxxjlubB371",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_action1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_action1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_action1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_action1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/retirement/onboarding",
+      "id": "retirementSetup",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/538vC9iVAtSJ7UjPXfbobj",
+      "id": "538vC9iVAtSJ7UjPXfbobj",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_action2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_action2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_action2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_action2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/budget",
+      "id": "budget1",
+      "type": "budget"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/simulator/article/4m9ObHleGYAHetpJwNzLRF",
+      "id": "4m9ObHleGYAHetpJwNzLRF",
+      "type": "simulator"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_action3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_action3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_action3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_action3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/retirement/vehicle/401/pretax",
+      "id": "401kvehicle",
+      "type": "vehicle"
+    },
+    {
+      "icons": "simulator",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/simulator/article/6RCplWXPy3wJ3UMlPOBXr4",
+      "id": "6RCplWXPy3wJ3UMlPOBXr4",
+      "type": "simulator"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_action4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_action4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_action4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_action4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/goal/retirement/vehicle/ira/traditional",
+      "id": "iraVehicle",
+      "type": "vehicle"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_content4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_content4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_content4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_content4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/4h0YqeMkXe0K25pSD5ldlq",
+      "id": "4h0YqeMkXe0K25pSD5ldlq",
+      "type": "content"
+    },
+    {
+      "icons": "link",
+      "i18n": {
+        "stepText": {
+          "text": "journey_prf_extlink1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_prf_extlink1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_prf_extlink1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_prf_extlink1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "https://short.paven.io/e/fidelity",
+      "id": "https://short.paven.io/e/fidelity",
+      "type": "link"
+    }
+  ],
+  "journey_building_resilience": [
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "content/article/10BCj5GYLPT2pnrmRa8G01",
+      "id": "10BCj5GYLPT2pnrmRa8G01",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_action1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_action1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_action1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_action1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/emergency-fund/onboarding",
+      "id": "EMFonb",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "content/article/50oWn84kkJSaZggoQnXRnf",
+      "id": "50oWn84kkJSaZggoQnXRnf",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_action2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_action2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_action2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_action2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/emergency-fund/preview",
+      "id": "EMFpreview",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "content/video/5IF7kT4n1IXck9Nd1VG97T",
+      "id": "5IF7kT4n1IXck9Nd1VG97T",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/4EsmZO7BgpndMdnjSkEEzo",
+      "id": "4EsmZO7BgpndMdnjSkEEzo",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_action3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_action3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_action3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_action3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/budget",
+      "id": "/budget",
+      "type": "budget"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_action4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_action4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_action4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_action4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/debt-management/onboarding",
+      "id": "debtMan",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_content4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_content4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_content4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_content4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "content/article/18eeWEl9E5yU3nSTmnirKy",
+      "id": "18eeWEl9E5yU3nSTmnirKy",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_content5_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_content5_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_content5_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_content5_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/video/5jOozhjZCKKw1hmEmx8g32",
+      "id": "5jOozhjZCKKw1hmEmx8g32",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_content6_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_content6_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_content6_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_content6_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/tqFTtOIQPrXOcvksLcj3B",
+      "id": "tqFTtOIQPrXOcvksLcj3B",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_benefit2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_benefit2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_benefit2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_benefit2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1gd9ZmQkYFEtWHRWxNeOAb",
+      "id": "1gd9ZmQkYFEtWHRWxNeOAb",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_benefit3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_benefit3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_benefit3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_benefit3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/7ytYA6U1nLLJROygso7ygy",
+      "id": "7ytYA6U1nLLJROygso7ygy",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_br_action5_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_br_action5_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_br_action5_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_br_action5_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/emergency-fund/preview",
+      "id": "EMFpreview2",
+      "type": "goal"
+    }
+  ],
+  "journey_estate_planning_life_insurance": [
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/2GsW4fbTdPK4dUzW0i2d7o",
+      "id": "2GsW4fbTdPK4dUzW0i2d7o",
+      "type": "content"
+    },
+    {
+      "icons": "link",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_extlink1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_extlink1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_extlink1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_extlink1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "https://short.paven.io/e/metlife",
+      "id": "https://short.paven.io/e/metlife",
+      "type": "link"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/article/7v5rl31FZ0PsuMYNzrMbk",
+      "id": "7v5rl31FZ0PsuMYNzrMbk",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/article/6LItN1K4USGOcLBAoJkV1K",
+      "id": "6LItN1K4USGOcLBAoJkV1K",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_action1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_action1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_action1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_action1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/retirement/onboarding",
+      "id": "retirementSetup",
+      "type": "goal"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_benefit2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_benefit2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_benefit2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_benefit2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/article/KqhuSFoODJlrEVoBt3Eqa",
+      "id": "KqhuSFoODJlrEVoBt3Eqa",
+      "type": "content"
+    },
+    {
+      "icons": "link",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_extlink2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_extlink2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_extlink2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_extlink2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "https://short.paven.io/e/lifeatenrollment",
+      "id": "https://short.paven.io/e/lifeatenrollment",
+      "type": "link"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/article/7zTpUZJ7Ct0NdhwEfpjrcW",
+      "id": "7zTpUZJ7Ct0NdhwEfpjrcW",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_benefit3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_benefit3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_benefit3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_benefit3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/article/1gd9ZmQkYFEtWHRWxNeOAb",
+      "id": "1gd9ZmQkYFEtWHRWxNeOAb",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_content4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_content4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_content4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_content4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/article/7CyAK9Stc3Fne5WRF607Nh",
+      "id": "7CyAK9Stc3Fne5WRF607Nh",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_epli_action3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_epli_action3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_epli_action3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_epli_action3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/emergency-fund/onboarding",
+      "id": "EMFSetup",
+      "type": "goal"
+    }
+  ],
+  "journey_first_time_homebuyers": [
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_fthb_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_fthb_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_fthb_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_fthb_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/7JR0r8UbRsSnOzjVrIFRco",
+      "id": "7JR0r8UbRsSnOzjVrIFRco",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_fthb_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_fthb_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_fthb_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_fthb_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1bnU0IlpXboAmaOQcjI9vp",
+      "id": "1bnU0IlpXboAmaOQcjI9vp",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_fthb_action1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_fthb_action1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_fthb_action1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_fthb_action1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/buying-home/onboarding/",
+      "id": "buying-home",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_fthb_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_fthb_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_fthb_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_fthb_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/5XB7BD2a0wB4sGb4oSOrlO",
+      "id": "5XB7BD2a0wB4sGb4oSOrlO",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_fthb_action2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_fthb_action2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_fthb_action2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_fthb_action2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "goal/emergency-fund/preview",
+      "id": "Savingsvehicle",
+      "type": "goal"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_fthb_action3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_fthb_action3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_fthb_action3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_fthb_action3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/buying-home/preview/",
+      "id": "buying-home-preview",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_fthb_content4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_fthb_content4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_fthb_content4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_fthb_content4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/6ax6mGZEAkzbPF8W8yxwtI",
+      "id": "6ax6mGZEAkzbPF8W8yxwtI",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_fthb_content5_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_fthb_content5_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_fthb_content5_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_fthb_content5_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/7jo8Iuggs9cu3vFjhtVjnJ",
+      "id": "7jo8Iuggs9cu3vFjhtVjnJ",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_fthb_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_fthb_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_fthb_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_fthb_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1gd9ZmQkYFEtWHRWxNeOAb",
+      "id": "1gd9ZmQkYFEtWHRWxNeOAb",
+      "type": "content"
+    }
+  ],
+  "journey_caring_for_your_family": [
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/3KYnw2do1wxFB6Q1yqiXlb",
+      "id": "3KYnw2do1wxFB6Q1yqiXlb",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_benefit2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_benefit2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_benefit2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_benefit2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/64aMo59ItbNMLRXqGbdATJ",
+      "id": "64aMo59ItbNMLRXqGbdATJ",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_benefit3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_benefit3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_benefit3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_benefit3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/34nlgdxtAqTq2Z8Z3WDxBh",
+      "id": "34nlgdxtAqTq2Z8Z3WDxBh",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_action2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_action2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_action2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_action2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/emergency-fund/onboarding",
+      "id": "EMFonb",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/7uhXBF090dFidOiHYMXhU7",
+      "id": "7uhXBF090dFidOiHYMXhU7",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/3hojfRCz5EwIG4gmFoyjf7",
+      "id": "3hojfRCz5EwIG4gmFoyjf7",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/3NgcOMUKLm38mDzlmYLwF1",
+      "id": "3NgcOMUKLm38mDzlmYLwF1",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_benefit4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_benefit4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_benefit4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_benefit4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1t7PMBzjZvmyyMBNqIwe5O",
+      "id": "1t7PMBzjZvmyyMBNqIwe5O",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_benefit5_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_benefit5_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_benefit5_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_benefit5_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/5ubss1n8Gur0R55hMiXIfS",
+      "id": "5ubss1n8Gur0R55hMiXIfS",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_benefit6_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_benefit6_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_benefit6_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_benefit6_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/4C5n9JJZcO99mE9SZwhp4v",
+      "id": "4C5n9JJZcO99mE9SZwhp4v",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cfyf_action1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cfyf_action1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cfyf_action1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cfyf_action1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/budget",
+      "id": "budget1",
+      "type": "budget"
+    }
+  ],
+  "journey_planning_for_a_baby": [
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/64aMo59ItbNMLRXqGbdATJ",
+      "id": "64aMo59ItbNMLRXqGbdATJ",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/69HWThvcmOpiObXsKJQuZ6",
+      "id": "69HWThvcmOpiObXsKJQuZ6",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_action1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_action1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_action1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_action1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/budget",
+      "id": "budget1",
+      "type": "budget"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_action2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_action2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_action2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_action2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/emergency-fund/onboarding",
+      "id": "EMFonb",
+      "type": "goal"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_benefit2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_benefit2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_benefit2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_benefit2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/34nlgdxtAqTq2Z8Z3WDxBh",
+      "id": "34nlgdxtAqTq2Z8Z3WDxBh",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_benefit3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_benefit3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_benefit3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_benefit3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/xkQal080XFEz669YXK0a6",
+      "id": "xkQal080XFEz669YXK0a6",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/3XqFf1ZUg5WbOKoEFksZ5Z",
+      "id": "3XqFf1ZUg5WbOKoEFksZ5Z",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/5QCbiymJdeZtNQV75taLwk",
+      "id": "5QCbiymJdeZtNQV75taLwk",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_action3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_action3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_action3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_action3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/kids-education/onboarding",
+      "id": "KidsEd",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_content4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_content4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_content4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_content4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/3NgcOMUKLm38mDzlmYLwF1",
+      "id": "3NgcOMUKLm38mDzlmYLwF1",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_pfab_benefit4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_pfab_benefit4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_pfab_benefit4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_pfab_benefit4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1gd9ZmQkYFEtWHRWxNeOAb",
+      "id": "1gd9ZmQkYFEtWHRWxNeOAb",
+      "type": "content"
+    }
+  ],
+  "journey_combining_finances": [
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cf_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cf_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cf_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cf_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/UvrcaNa1cwMe969OptsKb",
+      "id": "UvrcaNa1cwMe969OptsKb",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cf_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cf_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cf_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cf_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/4EsmZO7BgpndMdnjSkEEzo",
+      "id": "4EsmZO7BgpndMdnjSkEEzo",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cf_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cf_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cf_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cf_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/73tv9gq3kDZmNgHYMLNffi",
+      "id": "73tv9gq3kDZmNgHYMLNffi",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cf_action1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cf_action1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cf_action1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cf_action1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/budget",
+      "id": "budget1",
+      "type": "budget"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cf_action2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cf_action2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cf_action2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cf_action2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/emergency-fund/onboarding",
+      "id": "EMFonb",
+      "type": "goal"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cf_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cf_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cf_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cf_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/31ruEEMupheznUg7mPmaxb",
+      "id": "31ruEEMupheznUg7mPmaxb",
+      "type": "content"
+    },
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cf_action3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cf_action3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cf_action3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cf_action3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/debt-management/onboarding",
+      "id": "debtMan",
+      "type": "goal"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_cf_benefit2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_cf_benefit2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_cf_benefit2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_cf_benefit2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1gd9ZmQkYFEtWHRWxNeOAb",
+      "id": "1gd9ZmQkYFEtWHRWxNeOAb",
+      "type": "content"
+    }
+
+  ],
+  "journey_raising_kids": [
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/34nlgdxtAqTq2Z8Z3WDxBh",
+      "id": "34nlgdxtAqTq2Z8Z3WDxBh",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1bdWT8RvNQbiT3EfBsrRAb",
+      "id": "1bdWT8RvNQbiT3EfBsrRAb",
+      "type": "content"
+    },  
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_benefit2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_benefit2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_benefit2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_benefit2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/6kme83naKSDtUu6H5PkHcR",
+      "id": "6kme83naKSDtUu6H5PkHcR",
+      "type": "content"
+    },  
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_benefit3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_benefit3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_benefit3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_benefit3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/7CyAK9Stc3Fne5WRF607Nh",
+      "id": "7CyAK9Stc3Fne5WRF607Nh",
+      "type": "content"
+    },  
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_benefit4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_benefit4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_benefit4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_benefit4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1t7PMBzjZvmyyMBNqIwe5O",
+      "id": "1t7PMBzjZvmyyMBNqIwe5O",
+      "type": "content"
+    }, 
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/3XqFf1ZUg5WbOKoEFksZ5Z",
+      "id": "3XqFf1ZUg5WbOKoEFksZ5Z",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/5QCbiymJdeZtNQV75taLwk",
+      "id": "5QCbiymJdeZtNQV75taLwk",
+      "type": "content"
+    }, 
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_content4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_content4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_content4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_content4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/5sfGe7uhXm82Iuv7r3YOwf",
+      "id": "5sfGe7uhXm82Iuv7r3YOwf",
+      "type": "content"
+    }, 
+    {
+      "icons": "action",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_action1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_action1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_action1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_action1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": false,
+      "url": "/goal/kids-education/onboarding",
+      "id": "kidsEd",
+      "type": "goal"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_benefit5_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_benefit5_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_benefit5_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_benefit5_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/7yvOMQbfERtvQcFITk8PkD",
+      "id": "7yvOMQbfERtvQcFITk8PkD",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_rk_content5_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_rk_content5_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_rk_content5_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_rk_content5_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/3NgcOMUKLm38mDzlmYLwF1",
+      "id": "3NgcOMUKLm38mDzlmYLwF1",
+      "type": "content"
+    }
+  ],
+  "journey_aging_parents": [
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_benefit1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_benefit1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_benefit1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_benefit1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/5ubss1n8Gur0R55hMiXIfS",
+      "id": "5ubss1n8Gur0R55hMiXIfS",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_content1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_content1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_content1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_content1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/lgplrc82hSFd738pBG3DF",
+      "id": "lgplrc82hSFd738pBG3DF",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_benefit2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_benefit2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_benefit2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_benefit2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/lgplrc82hSFd738pBG3DF",
+      "id": "lgplrc82hSFd738pBG3DF",
+      "type": "content"
+    },
+    {
+      "icons": "link",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_extlink1_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_extlink1_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_extlink1_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_extlink1_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "https://short.paven.io/e/LyraHealth",
+      "id": "LyraHealth",
+      "type": "link"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_benefit3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_benefit3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_benefit3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_benefit3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/1duNyvJJQXqpJzwPwiAgHa",
+      "id": "1duNyvJJQXqpJzwPwiAgHa",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_benefit4_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_benefit4_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_benefit4_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_benefit4_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/6XCEwyemBBRWG7qJLT0z0g",
+      "id": "6XCEwyemBBRWG7qJLT0z0g",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_content2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_content2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_content2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_content2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/5XBV6xh1fOgzCvcHuTxUJA",
+      "id": "5XBV6xh1fOgzCvcHuTxUJA",
+      "type": "content"
+    },
+    {
+      "icons": "link",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_extlink2_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_extlink2_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_extlink2_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_extlink2_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "https://short.paven.io/e/PeoplePortalLegalPlans",
+      "id": "LegalPlansPP",
+      "type": "link"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_benefit5_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_benefit5_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_benefit5_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_benefit5_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/KqhuSFoODJlrEVoBt3Eqa",
+      "id": "KqhuSFoODJlrEVoBt3Eqa",
+      "type": "content"
+    },
+    {
+      "icons": "read",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_content3_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_content3_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_content3_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_content3_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/7v5rl31FZ0PsuMYNzrMbk",
+      "id": "7v5rl31FZ0PsuMYNzrMbk",
+      "type": "content"
+    },
+    {
+      "icons": "benefit",
+      "i18n": {
+        "stepText": {
+          "text": "journey_ap_benefit6_step_text",
+          "fontColor": "#ffffff"
+        },
+        "hintTitle": {
+          "text": "journey_ap_benefit6_step_hint_title",
+          "fontColor": "#ffffff"
+        },
+        "hintDescription": {
+          "text": "journey_ap_benefit6_step_hint_desc",
+          "fontColor": "#ffffff"
+        },
+        "toastDescription": {
+          "text": "journey_ap_benefit6_step_toast",
+          "fontColor": "#ffffff"
+        }
+      },
+      "canSkip": true,
+      "url": "/content/article/2GsW4fbTdPK4dUzW0i2d7o",
+      "id": "2GsW4fbTdPK4dUzW0i2d7o",
+      "type": "content"
+    }
+  ]
+  }

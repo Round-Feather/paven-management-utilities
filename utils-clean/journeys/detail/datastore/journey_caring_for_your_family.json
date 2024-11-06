@@ -1,0 +1,1202 @@
+{
+  "properties": {
+    "journeyId": {
+      "stringValue": "journey_caring_for_your_family"
+    },
+    "i18n": {
+      "entityValue": {
+        "properties": {
+          "title": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_cfyf_title"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "description": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_cfyf_description"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "progress": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_progress"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "doneCheckmark": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_done_checkmark"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "doneCheckmarkChecked": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_done_checkmark_checked"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "previewTitle": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_cfyf_preview_title"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "previewDescription": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_cfyf_preview_description"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "previewProgress": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_preview_progress"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "finishedTitle": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_cfyf_finished_title"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "finishedDescription": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_cfyf_finished_description"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "images": {
+      "entityValue": {
+        "properties": {
+          "icon": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg"
+                },
+                "tablet": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+                }
+              }
+            }
+          },
+          "preview": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png"
+                },
+                "tablet": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+                }
+              }
+            }
+          },
+          "previewHighlighted": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                },
+                "tablet": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                }
+              }
+            }
+          },
+          "introBackground": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                },
+                "tablet": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                }
+              }
+            }
+          },
+          "finishedBackground": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json"
+                },
+                "tablet": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json"
+                },
+                "mobile": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json"
+                }
+              }
+            }
+          },
+          "headerBackground": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/48H9TRCqzRoo9obxxzJybJ/704abdc13a245d34e212326efbf608da/Caring_for_your_family-Web_Icon__1_.json"
+                },
+                "tablet": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/48H9TRCqzRoo9obxxzJybJ/704abdc13a245d34e212326efbf608da/Caring_for_your_family-Web_Icon__1_.json"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+                }
+              }
+            }
+          },
+          "bottomBackground": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json"
+                },
+                "tablet": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json"
+                },
+                "mobile": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "highlighted": {
+      "booleanValue": true
+    },
+    "done": {
+      "booleanValue": false
+    },
+    "cta": {
+      "arrayValue": {
+        "values": [
+          [
+            {
+              "entityValue": {
+                "properties": {
+                  "type": {
+                    "stringValue": "button"
+                  },
+                  "action": {
+                    "stringValue": "DEEP_LINK"
+                  },
+                  "backgroundColor": {
+                    "stringValue": "#141414"
+                  },
+                  "fontColor": {
+                    "stringValue": "#FFFFFF"
+                  },
+                  "text": {
+                    "stringValue": "journey_preview_btn"
+                  },
+                  "textDesktop": {
+                    "stringValue": "journey_preview_btn"
+                  },
+                  "textTablet": {
+                    "stringValue": "journey_preview_btn"
+                  },
+                  "disabledBackgroundColor": {
+                    "stringValue": "#ffaaff"
+                  },
+                  "disabledFontColor": {
+                    "stringValue": "#ffffff"
+                  },
+                  "url": {
+                    "stringValue": "/journey_caring_for_your_family"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "type": {
+                    "stringValue": "button"
+                  },
+                  "action": {
+                    "stringValue": "next"
+                  },
+                  "backgroundColor": {
+                    "stringValue": "#141414"
+                  },
+                  "fontColor": {
+                    "stringValue": "#FFFFFF"
+                  },
+                  "text": {
+                    "stringValue": "journey_next_btn"
+                  },
+                  "textDesktop": {
+                    "stringValue": "journey_next_btn"
+                  },
+                  "textTablet": {
+                    "stringValue": "journey_next_btn"
+                  },
+                  "disabledBackgroundColor": {
+                    "stringValue": "#ffaaff"
+                  },
+                  "disabledFontColor": {
+                    "stringValue": "#ffffff"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "type": {
+                    "stringValue": "button"
+                  },
+                  "action": {
+                    "stringValue": "close"
+                  },
+                  "backgroundColor": {
+                    "stringValue": "#141414"
+                  },
+                  "fontColor": {
+                    "stringValue": "#FFFFFF"
+                  },
+                  "text": {
+                    "stringValue": "journey_close_btn"
+                  },
+                  "textDesktop": {
+                    "stringValue": "journey_close_btn"
+                  },
+                  "textTablet": {
+                    "stringValue": "journey_close_btn"
+                  },
+                  "disabledBackgroundColor": {
+                    "stringValue": "#ffaaff"
+                  },
+                  "disabledFontColor": {
+                    "stringValue": "#ffffff"
+                  }
+                }
+              }
+            }
+          ]
+        ]
+      }
+    },
+    "theme": {
+      "stringValue": "orchid"
+    },
+    "steps": {
+      "arrayValue": {
+        "values": [
+          [
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit1_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit1_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit1_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit1_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "benefit"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/3KYnw2do1wxFB6Q1yqiXlb"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "3KYnw2do1wxFB6Q1yqiXlb"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit2_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit2_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit2_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit2_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "benefit"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/64aMo59ItbNMLRXqGbdATJ"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "64aMo59ItbNMLRXqGbdATJ"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit3_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit3_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit3_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit3_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "benefit"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/34nlgdxtAqTq2Z8Z3WDxBh"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "34nlgdxtAqTq2Z8Z3WDxBh"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_action2_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_action2_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_action2_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_action2_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "action"
+                  },
+                  "canSkip": {
+                    "booleanValue": false
+                  },
+                  "url": {
+                    "stringValue": "/goal/emergency-fund/onboarding"
+                  },
+                  "type": {
+                    "stringValue": "goal"
+                  },
+                  "id": {
+                    "stringValue": "EMFonb"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content1_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content1_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content1_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content1_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "read"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/7uhXBF090dFidOiHYMXhU7"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "7uhXBF090dFidOiHYMXhU7"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content2_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content2_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content2_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content2_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "read"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/3hojfRCz5EwIG4gmFoyjf7"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "3hojfRCz5EwIG4gmFoyjf7"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content3_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content3_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content3_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_content3_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "read"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/3NgcOMUKLm38mDzlmYLwF1"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "3NgcOMUKLm38mDzlmYLwF1"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit4_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit4_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit4_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit4_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "benefit"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/1t7PMBzjZvmyyMBNqIwe5O"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "1t7PMBzjZvmyyMBNqIwe5O"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit5_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit5_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit5_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit5_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "benefit"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/5ubss1n8Gur0R55hMiXIfS"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "5ubss1n8Gur0R55hMiXIfS"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit6_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit6_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit6_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_benefit6_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "benefit"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/4C5n9JJZcO99mE9SZwhp4v"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "4C5n9JJZcO99mE9SZwhp4v"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_action1_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_action1_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_action1_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_cfyf_action1_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "action"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/budget"
+                  },
+                  "type": {
+                    "stringValue": "budget"
+                  },
+                  "id": {
+                    "stringValue": "budget1"
+                  }
+                }
+              }
+            }
+          ]
+        ]
+      }
+    },
+    "date": {
+      "stringValue": "1724333159459"
+    },
+    "shareAlias": {
+      "stringValue": "caringForYourFamily"
+    }
+  }
+}

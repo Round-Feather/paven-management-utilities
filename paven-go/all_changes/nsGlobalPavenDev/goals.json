@@ -1,0 +1,509 @@
+[
+  {
+    "id": "G_BUYCAR",
+    "data": {
+      "colors": {
+        "customStatusBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "customStatusTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "hoverColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFEAFFFC"
+        },
+        "progressProjectedColor": {
+          "darkModeHex": "#4A6877",
+          "lightModeHex": "#4A6877"
+        },
+        "progressProjectedTextBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressProjectedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#4A6877"
+        },
+        "progressSavedColor": {
+          "darkModeHex": "#BB6BD9",
+          "lightModeHex": "#A249A6"
+        },
+        "progressSavedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#A249A6"
+        },
+        "progressStatusCompletedTitleColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressTotalColor": {
+          "darkModeHex": "#E0E0E0",
+          "lightModeHex": "#FFFFFF"
+        }
+      },
+      "goalCalculationOrder": 2,
+      "i18nKeys": {
+        "keyCustomStatusText": "",
+        "keyDescription": "goal_descr_buy_car",
+        "keyDescriptionWeb": "goal_descr_buy_car_web",
+        "keyGoalCompletedMessage": "GL_BCAR_completed_message",
+        "keyGoalCompletedProgress": "GL_BCAR_completed_progress",
+        "keyGoalCompletedTitle": "GL_BCAR_completed_title",
+        "keyGoalNotAddedDescription": "GL_BCAR_not_added_description",
+        "keyGoalNotAddedTitle": "GL_BCAR_not_added_title",
+        "keyGoalOnboardedActualProgress": "GL_BCAR_onboarded_actual_progress",
+        "keyGoalOnboardedTitle": "GL_BCAR_onboarded_title",
+        "keyTitle": "goal_buy_car"
+      },
+      "imageUrl": "https://storage.googleapis.com/paven-dev-visual-assets/goals/house.png",
+      "imageWebUrl": "https://storage.googleapis.com/paven-dev-visual-assets/goals/house.png",
+      "keyDescription": "goal_descr_buy_car",
+      "keyDescriptionWeb": "goal_descr_buy_car_web",
+      "keyTitle": "goal_buy_car",
+      "landerThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/lander/house.png",
+      "landerWebThumbnail": "\t\nhttps://storage.googleapis.com/paven-common-public-assets/visual-assets/life_path/web/buyhome_C_OOF.svg",
+      "tag": "goal-buying-a-car",
+      "v3GoalIndicator": true,
+      "vehicleDisplayOrder": [
+        "CHK",
+        "SAV",
+        "IVT"
+      ],
+      "vehiclePriorities": [
+        {
+          "type": "CHK"
+        },
+        {
+          "type": "SAV"
+        },
+        {
+          "type": "IVT"
+        }
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": "G_BUYHOME",
+    "data": {
+      "colors": {
+        "customStatusBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "customStatusTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "hoverColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFEAFFFC"
+        },
+        "progressProjectedColor": {
+          "darkModeHex": "#4A6877",
+          "lightModeHex": "#4A6877"
+        },
+        "progressProjectedTextBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressProjectedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#4A6877"
+        },
+        "progressSavedColor": {
+          "darkModeHex": "#BB6BD9",
+          "lightModeHex": "#A249A6"
+        },
+        "progressSavedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#A249A6"
+        },
+        "progressStatusCompletedTitleColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressTotalColor": {
+          "darkModeHex": "#E0E0E0",
+          "lightModeHex": "#FFFFFF"
+        }
+      },
+      "goalCalculationOrder": 3,
+      "i18nKeys": {
+        "keyCustomStatusText": "",
+        "keyDescription": "goal_descr_buy_home",
+        "keyDescriptionWeb": "goal_descr_buy_home_web",
+        "keyGoalCompletedMessage": "GL_BHOUSE_completed_message",
+        "keyGoalCompletedProgress": "GL_BHOUSE_completed_progress",
+        "keyGoalCompletedTitle": "GL_BHOUSE_completed_title",
+        "keyGoalNotAddedDescription": "GL_BHOUSE_not_added_description",
+        "keyGoalNotAddedTitle": "GL_BHOUSE_not_added_title",
+        "keyGoalOnboardedActualProgress": "GL_BHOUSE_onboarded_actual_progress",
+        "keyGoalOnboardedTitle": "GL_BHOUSE_onboarded_title",
+        "keyTitle": "goal_buy_home"
+      },
+      "imageUrl": "https://storage.googleapis.com/paven-dev-visual-assets/goals/house.png",
+      "imageWebUrl": "https://storage.googleapis.com/paven-dev-visual-assets/goals/house.png",
+      "keyDescription": "goal_descr_buy_home",
+      "keyDescriptionWeb": "goal_descr_buy_home_web",
+      "keyTitle": "goal_buy_home",
+      "landerThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/lander/house.png",
+      "landerWebThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/life_path/web/buyhome_C_OOF.svg",
+      "tag": "goal-buying-a-home",
+      "v3GoalIndicator": true,
+      "vehicleDisplayOrder": [
+        "IVT",
+        "CHK",
+        "SAV"
+      ],
+      "vehiclePriorities": [
+        {
+          "type": "IVT"
+        },
+        {
+          "type": "CHK"
+        },
+        {
+          "type": "SAV"
+        }
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": "G_DEBT",
+    "data": {
+      "colors": {
+        "customStatusBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#F2E7D5"
+        },
+        "customStatusTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#8F6B00"
+        },
+        "hoverColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFF9EEFC"
+        },
+        "progressProjectedColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressProjectedTextBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFF9EE"
+        },
+        "progressProjectedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#2C36A7"
+        },
+        "progressSavedColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#F2C94C"
+        },
+        "progressSavedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#8F6B00"
+        },
+        "progressStatusCompletedTitleColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressTotalColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#E0E0E0"
+        }
+      },
+      "i18nKeys": {
+        "keyCustomStatusText": "GL_DEBT_onboarded_eta",
+        "keyDescription": "goal_descr_debt",
+        "keyDescriptionWeb": "goal_descr_debt_web",
+        "keyGoalCompletedMessage": "GL_DEBT_completed_message",
+        "keyGoalCompletedProgress": "GL_DEBT_completed_progress",
+        "keyGoalCompletedTitle": "GL_DEBT_completed_title",
+        "keyGoalNotAddedDescription": "GL_DEBT_not_added_description",
+        "keyGoalNotAddedTitle": "GL_DEBT_not_added_title",
+        "keyGoalOnboardedActualProgress": "GL_DEBT_onboarded_actual_progress",
+        "keyGoalOnboardedTitle": "GL_DEBT_onboarded_title",
+        "keyTitle": "goal_debt"
+      },
+      "imageUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/Debt.png",
+      "imageWebUrl": "https://storage.googleapis.com/paven-dev-visual-assets/Goals%20card_Onboarding/Debt_Onboardingcard.svg",
+      "keyDescription": "goal_descr_debt",
+      "keyDescriptionWeb": "goal_descr_debt_web",
+      "keyTitle": "goal_debt",
+      "landerThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/lander/debt.png",
+      "landerWebThumbnail": "https://paven-web-v3-dev.web.app/assets/main_menu_goal_debt.3f27e1c9.svg",
+      "tag": "goal-debt-management",
+      "v3GoalIndicator": false,
+      "video": "https://storage.googleapis.com/paven-common-public-assets-west1/video/paven_05_ali/manifest.m3u8"
+    }
+  },
+  {
+    "id": "G_EMFUND",
+    "data": {
+      "colors": {
+        "customStatusBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#D8ECE0"
+        },
+        "customStatusTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#275D4D"
+        },
+        "hoverColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#E2F7F0FC"
+        },
+        "progressProjectedColor": {
+          "darkModeHex": "#4A6877",
+          "lightModeHex": "#558EA4"
+        },
+        "progressProjectedTextBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#E8FBF5"
+        },
+        "progressProjectedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressSavedColor": {
+          "darkModeHex": "#6FCF97",
+          "lightModeHex": "#558EA4"
+        },
+        "progressSavedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#275D4D"
+        },
+        "progressStatusCompletedTitleColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressTotalColor": {
+          "darkModeHex": "#F2F2F2",
+          "lightModeHex": "#FFFFFF"
+        }
+      },
+      "goalCalculationOrder": 1,
+      "i18nKeys": {
+        "keyCustomStatusText": "GL_EMFUND_onboarded_eta_ios",
+        "keyDescription": "goal_descr_emergency_fund",
+        "keyDescriptionWeb": "goal_descr_emergency_fund_web",
+        "keyGoalCompletedMessage": "GL_EMFUND_completed_message",
+        "keyGoalCompletedProgress": "GL_EMFUND_completed_progress",
+        "keyGoalCompletedTitle": "GL_EMFUND_completed_title",
+        "keyGoalNotAddedDescription": "GL_EMFUND_not_added_description",
+        "keyGoalNotAddedTitle": "GL_EMFUND_not_added_title",
+        "keyGoalOnboardedActualProgress": "GL_EMFUND_onboarded_actual_progress",
+        "keyGoalOnboardedTitle": "GL_EMFUND_onboarded_title",
+        "keyTitle": "goal_emergency_fund"
+      },
+      "imageUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/Emergency_Fund.png",
+      "imageWebUrl": "https://storage.googleapis.com/paven-dev-visual-assets/Goals%20card_Onboarding/Fund_Onboardingcard.svg",
+      "keyDescription": "goal_descr_rainy_day",
+      "keyDescriptionWeb": "goal_descr_rainy_day_web",
+      "keyTitle": "goal_emergency_fund",
+      "landerThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/lander/emergency.png",
+      "landerWebThumbnail": "https://paven-web-v3-dev.web.app/assets/main_menu_goal_emergency.801b4e5a.svg",
+      "tag": "goal-emergency-fund",
+      "v3GoalIndicator": true,
+      "vehicleDisplayOrder": [
+        "CHK",
+        "SAV"
+      ],
+      "vehiclePriorities": [
+        {
+          "type": "CHK"
+        },
+        {
+          "type": "SAV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "G_KIDSED",
+    "data": {
+      "colors": {
+        "customStatusBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "customStatusTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "hoverColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFF1D7FC"
+        },
+        "progressProjectedColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressProjectedTextBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFF1DB"
+        },
+        "progressProjectedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#2C36A7"
+        },
+        "progressSavedColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#F2994A"
+        },
+        "progressSavedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#A7540C"
+        },
+        "progressStatusCompletedTitleColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressTotalColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#E0E0E0"
+        }
+      },
+      "i18nKeys": {
+        "keyCustomStatusText": "",
+        "keyDescription": "goal_descr_kids_educaction",
+        "keyDescriptionWeb": "goal_descr_kids_education_web",
+        "keyGoalCompletedMessage": "GL_KIDSED_completed_progress",
+        "keyGoalCompletedProgress": "GL_KIDSED_completed_progress",
+        "keyGoalCompletedTitle": "GL_KIDSED_completed_title",
+        "keyGoalNotAddedDescription": "GL_KIDSED_not_added_description",
+        "keyGoalNotAddedTitle": "GL_KIDSED_not_added_title",
+        "keyGoalOnboardedActualProgress": "GL_KIDSED_onboarded_actual_progress",
+        "keyGoalOnboardedTitle": "GL_KIDSED_onboarded_title",
+        "keyTitle": "goal_kids_education"
+      },
+      "imageUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/Kids_Education.png",
+      "imageWebUrl": "https://storage.googleapis.com/paven-dev-visual-assets/Goals%20card_Onboarding/Kids_Onboardingcard.svg",
+      "keyDescription": "goal_descr_kids_educaction",
+      "keyDescriptionWeb": "goal_descr_kids_education_web",
+      "keyTitle": "goal_kids_education",
+      "landerThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/lander/kids.png",
+      "landerWebThumbnail": "https://paven-web-v3-dev.web.app/assets/main_menu_goal_kids.78a22391.svg",
+      "tag": "goal-kids-education",
+      "v3GoalIndicator": false
+    }
+  },
+  {
+    "id": "G_RETIRE",
+    "data": {
+      "colors": {
+        "customStatusBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "customStatusTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "hoverColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#CFF4FFFC"
+        },
+        "progressProjectedColor": {
+          "darkModeHex": "#4A6877",
+          "lightModeHex": "#4A6877"
+        },
+        "progressProjectedTextBackgroundColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#E8F6FD"
+        },
+        "progressProjectedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressSavedColor": {
+          "darkModeHex": "#56CCF2",
+          "lightModeHex": "#56CCF2"
+        },
+        "progressSavedTextColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#13799A"
+        },
+        "progressStatusCompletedTitleColor": {
+          "darkModeHex": "#FFFFFF",
+          "lightModeHex": "#FFFFFF"
+        },
+        "progressTotalColor": {
+          "darkModeHex": "#F2F2F2",
+          "lightModeHex": "#FFFFFF"
+        }
+      },
+      "goalCalculationOrder": 4,
+      "i18nKeys": {
+        "keyCustomStatusText": "",
+        "keyDescription": "goal_descr_retirement",
+        "keyDescriptionWeb": "goal_descr_retirement_web",
+        "keyGoalCompletedMessage": "GL_RETIRE_completed_message",
+        "keyGoalCompletedProgress": "GL_RETIRE_completed_progress",
+        "keyGoalCompletedTitle": "GL_RETIRE_completed_title",
+        "keyGoalNotAddedDescription": "GL_RETIRE_not_added_description",
+        "keyGoalNotAddedTitle": "GL_RETIRE_not_added_title",
+        "keyGoalOnboardedActualProgress": "GL_RETIRE_onboarded_actual_progress",
+        "keyGoalOnboardedTitle": "GL_RETIRE_onboarded_title",
+        "keyTitle": "goal_retirement"
+      },
+      "imageUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/Retirement.png",
+      "imageWebUrl": "https://storage.googleapis.com/paven-dev-visual-assets/Goals%20card_Onboarding/Retirement_Onboardingcard.svg",
+      "keyDescription": "goal_descr_retirement",
+      "keyDescriptionWeb": "goal_descr_retirement_web",
+      "keyTitle": "goal_retirement",
+      "landerThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/lander/retirement.png",
+      "landerWebThumbnail": "https://paven-web-v3-dev.web.app/assets/main_menu_goal_retirement.56d98605.svg",
+      "tag": "goal-retirement",
+      "v3GoalIndicator": true,
+      "vehicleDisplayOrder": [
+        "401",
+        "IRA",
+        "IVT",
+        "PRT",
+        "CHK",
+        "SAV"
+      ],
+      "vehiclePriorities": [
+        {
+          "type": "PRT"
+        },
+        {
+          "subType": "preTax",
+          "type": "401"
+        },
+        {
+          "subType": "traditionalIRA",
+          "type": "IRA"
+        },
+        {
+          "subType": "roth",
+          "type": "401"
+        },
+        {
+          "subType": "afterTax",
+          "type": "401"
+        },
+        {
+          "subType": "rothIRA",
+          "type": "IRA"
+        },
+        {
+          "type": "IVT"
+        },
+        {
+          "type": "CHK"
+        },
+        {
+          "type": "SAV"
+        }
+      ]
+    }
+  }
+]

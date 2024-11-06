@@ -1,0 +1,1244 @@
+[
+  {
+    "journeyId": "journey_caring_for_your_family",
+    "shareAlias": "caringForYourFamily",
+
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/48H9TRCqzRoo9obxxzJybJ/704abdc13a245d34e212326efbf608da/Caring_for_your_family-Web_Icon__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/48H9TRCqzRoo9obxxzJybJ/704abdc13a245d34e212326efbf608da/Caring_for_your_family-Web_Icon__1_.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/WjBFtoHrUlXeZ7el0fx6X/52a9f17b0155ce67838c95e13d2a0ab2/Caring_for_your_family-Mobile___web__1_.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_cfyf_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_cfyf_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_cfyf_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_cfyf_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_cfyf_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_cfyf_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "orchid",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_caring_for_your_family",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": true,
+    "done": false
+  },
+  {
+    "journeyId": "journey_planning_for_retirement",
+    "shareAlias": "planningForRetirement",
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/bDWvNB8vtFxOTHTPhKOSN/9351aee265a92de409456a223a1253c8/Retirement_planning-Web_Icon.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/bDWvNB8vtFxOTHTPhKOSN/9351aee265a92de409456a223a1253c8/Retirement_planning-Web_Icon.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_pfr_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_pfr_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_pfr_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_pfr_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_pfr_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_pfr_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "steelBlue",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_planning_for_retirement",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": true,
+    "done": false
+  },
+  {
+    "journeyId": "journey_paven_101",
+    "shareAlias": "paven101",
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/hvfV2aTIDS6iQeUyloS34/4541fd09ede8f1a3469e44f3d6cee772/Paven_101-Mobile___Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/hvfV2aTIDS6iQeUyloS34/4541fd09ede8f1a3469e44f3d6cee772/Paven_101-Mobile___Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/hvfV2aTIDS6iQeUyloS34/4541fd09ede8f1a3469e44f3d6cee772/Paven_101-Mobile___Web__1_.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/4IYL8mtgX5oXx5m9c8RnjK/64e60cadff0d8758da12a4f9f154ce9e/Paven_101-Web_Icon.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/4IYL8mtgX5oXx5m9c8RnjK/64e60cadff0d8758da12a4f9f154ce9e/Paven_101-Web_Icon.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/hvfV2aTIDS6iQeUyloS34/4541fd09ede8f1a3469e44f3d6cee772/Paven_101-Mobile___Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/hvfV2aTIDS6iQeUyloS34/4541fd09ede8f1a3469e44f3d6cee772/Paven_101-Mobile___Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/hvfV2aTIDS6iQeUyloS34/4541fd09ede8f1a3469e44f3d6cee772/Paven_101-Mobile___Web__1_.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_p101_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_p101_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_p101_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_p101_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_p101_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_p101_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "sandyBrown",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_paven101",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": false,
+    "done": false
+  },
+  {
+    "journeyId": "journey_building_resilience",
+    "shareAlias": "buildingResilience",
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/2rQUP0tLPLLBfSYj5u9BsK/7cc34e7d0cdf557f4a903ae5af5e9e0b/Building_resilience-Mobile___Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/2rQUP0tLPLLBfSYj5u9BsK/7cc34e7d0cdf557f4a903ae5af5e9e0b/Building_resilience-Mobile___Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/2rQUP0tLPLLBfSYj5u9BsK/7cc34e7d0cdf557f4a903ae5af5e9e0b/Building_resilience-Mobile___Web__1_.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/7tgWuqRVYsrUIDCdmgNn9f/0f8aa0d6adaef02e2b3e013825588e27/Building_resilience-_Web_Icon.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/7tgWuqRVYsrUIDCdmgNn9f/0f8aa0d6adaef02e2b3e013825588e27/Building_resilience-_Web_Icon.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/2rQUP0tLPLLBfSYj5u9BsK/7cc34e7d0cdf557f4a903ae5af5e9e0b/Building_resilience-Mobile___Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/2rQUP0tLPLLBfSYj5u9BsK/7cc34e7d0cdf557f4a903ae5af5e9e0b/Building_resilience-Mobile___Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/2rQUP0tLPLLBfSYj5u9BsK/7cc34e7d0cdf557f4a903ae5af5e9e0b/Building_resilience-Mobile___Web__1_.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_br_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_br_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_br_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_br_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_br_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_br_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "seaGreen",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_building_resilience",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": true,
+    "done": false
+  },
+  {
+    "journeyId": "journey_estate_planning_life_insurance",
+    "shareAlias": "estatePlanningLifeInsurance",
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/26G6UZZET7S8U6JW2RXl8W/896f2cad9f203410611e590e50865ba1/Estate_planning_and_life_insurance-Mobile___Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/26G6UZZET7S8U6JW2RXl8W/896f2cad9f203410611e590e50865ba1/Estate_planning_and_life_insurance-Mobile___Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/26G6UZZET7S8U6JW2RXl8W/896f2cad9f203410611e590e50865ba1/Estate_planning_and_life_insurance-Mobile___Web__1_.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/4aJk50w7htlYgYU3ZXMsI6/855abffcf943ffa2aac0a54832e24627/Estate_planning_and_life_insurance-Web_Icon.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/4aJk50w7htlYgYU3ZXMsI6/855abffcf943ffa2aac0a54832e24627/Estate_planning_and_life_insurance-Web_Icon.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/26G6UZZET7S8U6JW2RXl8W/896f2cad9f203410611e590e50865ba1/Estate_planning_and_life_insurance-Mobile___Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/26G6UZZET7S8U6JW2RXl8W/896f2cad9f203410611e590e50865ba1/Estate_planning_and_life_insurance-Mobile___Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/26G6UZZET7S8U6JW2RXl8W/896f2cad9f203410611e590e50865ba1/Estate_planning_and_life_insurance-Mobile___Web__1_.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_epli_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_epli_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_epli_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_epli_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_epli_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_epli_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "coral",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_estate_planning_life_insurance",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": true,
+    "done": false
+  },
+  {
+    "journeyId": "journey_first_time_homebuyers",
+    "shareAlias": "firstTimeHomebuyers",
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/17hb3f5EitF1oeWr8va9y2/1b68d4c3be42e3823266655645c79b20/Buying_a_home-Mobile_and_Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/17hb3f5EitF1oeWr8va9y2/1b68d4c3be42e3823266655645c79b20/Buying_a_home-Mobile_and_Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/17hb3f5EitF1oeWr8va9y2/1b68d4c3be42e3823266655645c79b20/Buying_a_home-Mobile_and_Web__1_.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/1me45S98zIS6n7vhY6krU0/43e4980eab5f05cc9ef659e40d278db0/Buying_a_home-Web_Icon__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/1me45S98zIS6n7vhY6krU0/43e4980eab5f05cc9ef659e40d278db0/Buying_a_home-Web_Icon__1_.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/17hb3f5EitF1oeWr8va9y2/1b68d4c3be42e3823266655645c79b20/Buying_a_home-Mobile_and_Web__1_.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/17hb3f5EitF1oeWr8va9y2/1b68d4c3be42e3823266655645c79b20/Buying_a_home-Mobile_and_Web__1_.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/17hb3f5EitF1oeWr8va9y2/1b68d4c3be42e3823266655645c79b20/Buying_a_home-Mobile_and_Web__1_.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_fthb_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_fthb_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_fthb_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_fthb_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_fthb_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_fthb_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "mediumPurple",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_first_time_homebuyers",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": true,
+    "done": false
+  },
+  {
+    "journeyId": "journey_combining_finances",
+    "shareAlias": "combiningFinances",
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/5R5Wmn25mQNXBXS0wNKBDc/f5f3d5029a9dd522b53b1cab94244edd/Combining_Finances_Journeys_Hi_02.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/5R5Wmn25mQNXBXS0wNKBDc/f5f3d5029a9dd522b53b1cab94244edd/Combining_Finances_Journeys_Hi_02.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/5R5Wmn25mQNXBXS0wNKBDc/f5f3d5029a9dd522b53b1cab94244edd/Combining_Finances_Journeys_Hi_02.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/2bV24oqm6QFjrCg8lgZhV9/492923e68a33561b8662db6ac0c0ff64/Combining_Finances_Low_01.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/2bV24oqm6QFjrCg8lgZhV9/492923e68a33561b8662db6ac0c0ff64/Combining_Finances_Low_01.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/736SU2R1hCfeJXzYcpSRiR/eb81a52d8b9087b6f3cc61a13ac05248/Combining_Finances_Journeys_Hi_01.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/736SU2R1hCfeJXzYcpSRiR/eb81a52d8b9087b6f3cc61a13ac05248/Combining_Finances_Journeys_Hi_01.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/736SU2R1hCfeJXzYcpSRiR/eb81a52d8b9087b6f3cc61a13ac05248/Combining_Finances_Journeys_Hi_01.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_cf_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_cf_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_cf_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_cf_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_cf_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_cf_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "indianRed",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_combining_finances",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": true,
+    "done": false
+  },
+  {
+    "journeyId": "journey_planning_for_a_baby",
+    "shareAlias": "planningForABaby",
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/1bPXIEt39WZX60stjp24n6/4b9f00ea052def22d5197b9f8c1e290f/Planning_Kids_Journeys_Hi_02.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/1bPXIEt39WZX60stjp24n6/4b9f00ea052def22d5197b9f8c1e290f/Planning_Kids_Journeys_Hi_02.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/1bPXIEt39WZX60stjp24n6/4b9f00ea052def22d5197b9f8c1e290f/Planning_Kids_Journeys_Hi_02.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/7enUII1Xl2UUkkFrqLH2yU/6ffaa6e524c013b6f3ac83332e2ca7e0/Planning_Kids_Low_01.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/7enUII1Xl2UUkkFrqLH2yU/6ffaa6e524c013b6f3ac83332e2ca7e0/Planning_Kids_Low_01.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/1f0FmEPvoFGmKrw5wnAYUM/5e43dc3b6354809d53dccaed35a6afa2/Planning_Kids_Journeys_Hi_01.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/1f0FmEPvoFGmKrw5wnAYUM/5e43dc3b6354809d53dccaed35a6afa2/Planning_Kids_Journeys_Hi_01.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/1f0FmEPvoFGmKrw5wnAYUM/5e43dc3b6354809d53dccaed35a6afa2/Planning_Kids_Journeys_Hi_01.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_pfab_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_pfab_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_pfab_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_pfab_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_pfab_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_pfab_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "darkKhaki",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_planning_for_a_baby",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": true,
+    "done": false
+  },
+  {
+    "journeyId": "journey_raising_kids",
+    "shareAlias": "raisingKids",
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/2GrrQ16aQmo6Ys3YIKtJLq/ee22dbd2e8de8bc3376e7de5922cd016/Raising_kids_Journeys_Hi_02.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/2GrrQ16aQmo6Ys3YIKtJLq/ee22dbd2e8de8bc3376e7de5922cd016/Raising_kids_Journeys_Hi_02.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/2GrrQ16aQmo6Ys3YIKtJLq/ee22dbd2e8de8bc3376e7de5922cd016/Raising_kids_Journeys_Hi_02.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/5PCGOefw9PzvfywhzOZUBl/d266578ab314a89eaf078f3b3f494ead/Raising_Kids_Low_01.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/5PCGOefw9PzvfywhzOZUBl/d266578ab314a89eaf078f3b3f494ead/Raising_Kids_Low_01.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/2sEaogg1pjprX1qJ9wM5eQ/e5aeb690669dd30290036d9ecfb180b6/Raising_kids_Journeys_Hi_01.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/2sEaogg1pjprX1qJ9wM5eQ/e5aeb690669dd30290036d9ecfb180b6/Raising_kids_Journeys_Hi_01.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/2sEaogg1pjprX1qJ9wM5eQ/e5aeb690669dd30290036d9ecfb180b6/Raising_kids_Journeys_Hi_01.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_rk_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_rk_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_rk_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_rk_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_rk_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_rk_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "lightSeaGreen",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_raising_kids",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": true,
+    "done": false
+  },
+  {
+    "journeyId": "journey_aging_parents",
+    "shareAlias": "agingParents",
+    "images": {
+      "icon": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+      },
+      "preview": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "previewHighlighted": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "introBackground": {
+        "web": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "tablet": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+      },
+      "finishedBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/Dt5ACM10om4SpvaRoWihB/f68402b7416a42e35ff0703c4fe1a0c4/Aging_Parents_Hi_02.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/Dt5ACM10om4SpvaRoWihB/f68402b7416a42e35ff0703c4fe1a0c4/Aging_Parents_Hi_02.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/Dt5ACM10om4SpvaRoWihB/f68402b7416a42e35ff0703c4fe1a0c4/Aging_Parents_Hi_02.json"
+      },
+      "headerBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/5yOSsaovn6yE1arrsRvOts/41d99c7e5db6d34a8a857e8318135c02/Aging_Parents_Low_01.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/5yOSsaovn6yE1arrsRvOts/41d99c7e5db6d34a8a857e8318135c02/Aging_Parents_Low_01.json",
+        "mobile": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+      },
+      "bottomBackground": {
+        "web": "https://assets.ctfassets.net/pmoql4aw53io/3cKyEjWFtglQbO727brXaw/0629fa7aa7dec99257b68ddca48b75d3/Aging_Parents_Hi_01.json",
+        "tablet": "https://assets.ctfassets.net/pmoql4aw53io/3cKyEjWFtglQbO727brXaw/0629fa7aa7dec99257b68ddca48b75d3/Aging_Parents_Hi_01.json",
+        "mobile": "https://assets.ctfassets.net/pmoql4aw53io/3cKyEjWFtglQbO727brXaw/0629fa7aa7dec99257b68ddca48b75d3/Aging_Parents_Hi_01.json"
+      }
+    },
+    "i18n": {
+      "title": {
+        "text": "journey_ap_title",
+        "fontColor": "#ffffff"
+      },
+      "description": {
+        "text": "journey_ap_description",
+        "fontColor": "#ffffff"
+      },
+      "progress": {
+        "text": "journey_progress",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmark": {
+        "text": "journey_done_checkmark",
+        "fontColor": "#ffffff"
+      },
+      "doneCheckmarkChecked": {
+        "text": "journey_done_checkmark_checked",
+        "fontColor": "#ffffff"
+      },
+      "previewTitle": {
+        "text": "journey_ap_preview_title",
+        "fontColor": "#ffffff"
+      },
+      "previewDescription": {
+        "text": "journey_ap_preview_description",
+        "fontColor": "#ffffff"
+      },
+      "previewProgress": {
+        "text": "journey_preview_progress",
+        "fontColor": "#ffffff"
+      },
+      "finishedTitle": {
+        "text": "journey_ap_finished_title",
+        "fontColor": "#ffffff"
+      },
+      "finishedDescription": {
+        "text": "journey_ap_finished_description",
+        "fontColor": "#ffffff"
+      }
+    },
+    "theme": "cadetBlue",
+    "cta": [
+      {
+        "type": "button",
+        "action": "DEEP_LINK",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_preview_btn",
+        "textDesktop": "journey_preview_btn",
+        "textTablet": "journey_preview_btn",
+        "url": "/journey_aging_parents",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "next",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_next_btn",
+        "textDesktop": "journey_next_btn",
+        "textTablet": "journey_next_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "backgroundColor": "#141414",
+        "fontColor": "#FFFFFF",
+        "text": "journey_close_btn",
+        "textDesktop": "journey_close_btn",
+        "textTablet": "journey_close_btn",
+        "url": "",
+        "disabledBackgroundColor": "#ffaaff",
+        "disabledFontColor": "#ffffff"
+      }
+    ],
+    "highlighted": true,
+    "done": false
+  }
+
+]

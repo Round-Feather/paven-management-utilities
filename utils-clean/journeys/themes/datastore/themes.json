@@ -1,0 +1,301 @@
+{
+  "properties": {
+    "default": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#B771B1"
+          },
+          "cardOverlay": {
+            "stringValue": "#885491"
+          },
+          "previewOverlay": {
+            "stringValue": "#9B579D"
+          },
+          "finishedBackground": {
+            "stringValue": "#B771B1"
+          },
+          "hintBackground": {
+            "stringValue": "#734B7D"
+          },
+          "path": {
+            "stringValue": "#C982C3"
+          },
+          "highlightedStep": {
+            "stringValue": "#C982C3"
+          }
+        }
+      }
+    },
+    "orchid": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#B771B1"
+          },
+          "finishedBackground": {
+            "stringValue": "#B771B1"
+          },
+          "cardOverlay": {
+            "stringValue": "#995DA6"
+          },
+          "previewOverlay": {
+            "stringValue": "#995DA6"
+          },
+          "path": {
+            "stringValue": "#C982C3"
+          },
+          "highlightedStep": {
+            "stringValue": "#C982C3"
+          },
+          "hintBackground": {
+            "stringValue": "#734B7D"
+          }
+        }
+      }
+    },
+    "mediumPurple": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#8971AF"
+          },
+          "finishedBackground": {
+            "stringValue": "#8971AF"
+          },
+          "cardOverlay": {
+            "stringValue": "#6D62AA"
+          },
+          "previewOverlay": {
+            "stringValue": "#6D62AA"
+          },
+          "path": {
+            "stringValue": "#A086C7"
+          },
+          "highlightedStep": {
+            "stringValue": "#A086C7"
+          },
+          "hintBackground": {
+            "stringValue": "#524673"
+          }
+        }
+      }
+    },
+    "steelBlue": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#627CA9"
+          },
+          "finishedBackground": {
+            "stringValue": "#627CA9"
+          },
+          "cardOverlay": {
+            "stringValue": "#476DAF"
+          },
+          "previewOverlay": {
+            "stringValue": "#476DAF"
+          },
+          "path": {
+            "stringValue": "#728CBC"
+          },
+          "highlightedStep": {
+            "stringValue": "#728CBC"
+          },
+          "hintBackground": {
+            "stringValue": "#464D73"
+          }
+        }
+      }
+    },
+    "cadetBlue": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#6290AB"
+          },
+          "finishedBackground": {
+            "stringValue": "#6290AB"
+          },
+          "cardOverlay": {
+            "stringValue": "#337295"
+          },
+          "previewOverlay": {
+            "stringValue": "#337295"
+          },
+          "path": {
+            "stringValue": "#73A7C4"
+          },
+          "highlightedStep": {
+            "stringValue": "#73A7C4"
+          },
+          "hintBackground": {
+            "stringValue": "#465B73"
+          }
+        }
+      }
+    },
+    "lightSeaGreen": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#5AA3A3"
+          },
+          "finishedBackground": {
+            "stringValue": "#5AA3A3"
+          },
+          "cardOverlay": {
+            "stringValue": "#407F90"
+          },
+          "previewOverlay": {
+            "stringValue": "#407F90"
+          },
+          "path": {
+            "stringValue": "#6BB8B8"
+          },
+          "highlightedStep": {
+            "stringValue": "#6BB8B8"
+          },
+          "hintBackground": {
+            "stringValue": "#466573"
+          }
+        }
+      }
+    },
+    "seaGreen": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#61AC6D"
+          },
+          "finishedBackground": {
+            "stringValue": "#61AC6D"
+          },
+          "cardOverlay": {
+            "stringValue": "#468667"
+          },
+          "previewOverlay": {
+            "stringValue": "#468667"
+          },
+          "path": {
+            "stringValue": "#6FC07C"
+          },
+          "highlightedStep": {
+            "stringValue": "#6FC07C"
+          },
+          "hintBackground": {
+            "stringValue": "#3F5B50"
+          }
+        }
+      }
+    },
+    "darkKhaki": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#99AB66"
+          },
+          "finishedBackground": {
+            "stringValue": "#99AB66"
+          },
+          "cardOverlay": {
+            "stringValue": "#728E5E"
+          },
+          "previewOverlay": {
+            "stringValue": "#728E5E"
+          },
+          "path": {
+            "stringValue": "#AFC17B"
+          },
+          "highlightedStep": {
+            "stringValue": "#AFC17B"
+          },
+          "hintBackground": {
+            "stringValue": "#51654B"
+          }
+        }
+      }
+    },
+    "sandyBrown": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#AA8D63"
+          },
+          "finishedBackground": {
+            "stringValue": "#AA8D63"
+          },
+          "cardOverlay": {
+            "stringValue": "#877653"
+          },
+          "previewOverlay": {
+            "stringValue": "#877653"
+          },
+          "path": {
+            "stringValue": "#BB9D72"
+          },
+          "highlightedStep": {
+            "stringValue": "#BB9D72"
+          },
+          "hintBackground": {
+            "stringValue": "#5E5643"
+          }
+        }
+      }
+    },
+    "coral": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#D5945B"
+          },
+          "finishedBackground": {
+            "stringValue": "#D5945B"
+          },
+          "cardOverlay": {
+            "stringValue": "#986C4E"
+          },
+          "previewOverlay": {
+            "stringValue": "#986C4E"
+          },
+          "path": {
+            "stringValue": "#DEA06A"
+          },
+          "highlightedStep": {
+            "stringValue": "#DEA06A"
+          },
+          "hintBackground": {
+            "stringValue": "#6C5344"
+          }
+        }
+      }
+    },
+    "indianRed": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#CB6064"
+          },
+          "finishedBackground": {
+            "stringValue": "#CB6064"
+          },
+          "cardOverlay": {
+            "stringValue": "#9E515C"
+          },
+          "previewOverlay": {
+            "stringValue": "#9E515C"
+          },
+          "path": {
+            "stringValue": "#E07377"
+          },
+          "highlightedStep": {
+            "stringValue": "#E07377"
+          },
+          "hintBackground": {
+            "stringValue": "#7A404D"
+          }
+        }
+      }
+    }
+  }
+}

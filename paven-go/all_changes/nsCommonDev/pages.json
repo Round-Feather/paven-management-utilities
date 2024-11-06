@@ -1,0 +1,3216 @@
+[
+  {
+    "id": "4595990438871040",
+    "parent": "goalsConfig,5241022988681216",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_EMFUND_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_EMFUND_onb_emfCheckingExpenses_title",
+          "type": "title"
+        },
+        {
+          "text": "G_EMFUND_onb_emfCheckingExpenses_desc",
+          "type": "description"
+        },
+        {
+          "text": "G_EMFUND_onb_emfCheckingExpenses_tip",
+          "tip": {
+            "description": "G_EMFUND_onb_emfCheckingExpenses_tip_description",
+            "href": "G_EMFUND_onb_emfCheckingExpenses_tip_CTA",
+            "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/iconTip.png",
+            "title": "G_EMFUND_onb_emfCheckingExpenses_tip",
+            "type": "modal"
+          },
+          "type": "tip"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfCheckingExpenses_mobile.json",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfCheckingExpenses_phone.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfCheckingExpenses_tablet.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfCheckingExpenses_desktop.svg"
+      },
+      "page": "emfCheckingExpenses",
+      "type": "content",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "4790578361401344",
+    "parent": "goalsConfig,5241022988681216",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_EMFUND_onb_emfLander_title",
+          "type": "title"
+        },
+        {
+          "text": "G_EMFUND_onb_emfLander_desc",
+          "type": "description"
+        },
+        {
+          "mediaUrl": "",
+          "text": "G_EMFUND_onb_emfLander_video_btn",
+          "type": "CTA_video"
+        },
+        {
+          "text": "G_EMFUND_onb_emfLander_setup_btn",
+          "type": "CTA_primary"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfLander_mobile.json",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfLander_phone.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfLander_tablet.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfLander_desktop.svg"
+      },
+      "page": "emfLander",
+      "type": "lander",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5916478268243968",
+    "parent": "goalsConfig,5241022988681216",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_EMFUND_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_EMFUND_onb_emfHowItWorks_title",
+          "type": "title"
+        },
+        {
+          "text": "G_EMFUND_onb_emfHowItWorks_desc",
+          "type": "description"
+        },
+        {
+          "listElements": [
+            {
+              "bulletColor": "#9B6D94",
+              "description": "G_EMFUND_onb_emfHowItWorks_bullet1_desc",
+              "title": "G_EMFUND_onb_emfHowItWorks_bullet1_title"
+            },
+            {
+              "bulletColor": "#9B6D94",
+              "description": "G_EMFUND_onb_emfHowItWorks_bullet2_desc",
+              "title": "G_EMFUND_onb_emfHowItWorks_bullet2_title"
+            },
+            {
+              "bulletColor": "#9B6D94",
+              "description": "G_EMFUND_onb_emfHowItWorks_bullet3_desc",
+              "title": "G_EMFUND_onb_emfHowItWorks_bullet3_title"
+            }
+          ],
+          "listType": "number",
+          "type": "bulletList"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfHowItWorks_mobile.json",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfHowItWorks_phone.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfHowItWorks_tablet.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfHowItWorks_desktop.svg"
+      },
+      "page": "emfHowItWorks",
+      "type": "bulletNotes",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5998223709700096",
+    "parent": "goalsConfig,5241022988681216",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_EMFUND_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_EMFUND_onb_emfSetExpenses_title",
+          "type": "title"
+        },
+        {
+          "text": "G_EMFUND_onb_emfSetExpenses_desc",
+          "type": "description"
+        },
+        {
+          "componentTitle": "G_EMFUND_onb_emfSetExpenses_expenses",
+          "represents": "money",
+          "type": "numberPicker",
+          "validation": {
+            "messages": {
+              "android": "G_EMFUND_onb_emfSetExpenses_expenses_error_android",
+              "ios": "G_EMFUND_onb_emfSetExpenses_expenses_error_ios",
+              "web": "G_EMFUND_onb_emfSetExpenses_expenses_error_web"
+            },
+            "required": true
+          },
+          "variable": "totalExpenses"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfHowItWorks_mobile.json",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfHowItWorks_phone.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfHowItWorks_tablet.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_EMFUND/emfHowItWorks_desktop.svg"
+      },
+      "page": "emfSetExpenses",
+      "type": "inputPage",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5221918789599232",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F0FA",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_BUYCAR_onb_page6_title",
+          "type": "title"
+        },
+        {
+          "componentTitle": "G_BUYCAR_onb_page6_slider_title",
+          "represents": "year",
+          "type": "numberSlider",
+          "variable": "purchaseInYears"
+        },
+        {
+          "descriptionSteps": [
+            {
+              "description": "G_BUYCAR_onb_page6_box_asap_desc",
+              "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/ASAP.png",
+              "maxValue": 0,
+              "title": "G_BUYCAR_onb_page6_box_asap_title",
+              "variable": "purchaseInYears",
+              "webIcon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/ASAP.png"
+            },
+            {
+              "description": "G_BUYCAR_onb_page6_box_fut_desc",
+              "maxValue": 25,
+              "title": "G_BUYCAR_onb_page6_box_fut_title",
+              "variable": "downPaymentPercentage"
+            }
+          ],
+          "type": "descriptionBox",
+          "variable": "purchaseInYears"
+        }
+      ],
+      "images": {
+        "backgroundType": "image",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/When-to-Buy.png",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/When-to-Buy.png",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-02.png",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-02.png"
+      },
+      "page": "purchaseInYears",
+      "type": "inputPage",
+      "webBackgroundColor": "#F9F0FA"
+    }
+  },
+  {
+    "id": "5227417673138176",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_BUYCAR_onb_page4_title",
+          "type": "title"
+        },
+        {
+          "text": "G_BUYCAR_onb_page4_desc",
+          "type": "description"
+        },
+        {
+          "componentTitle": "G_BUYCAR_onb_page4_purchase_price",
+          "represents": "money",
+          "type": "numberPicker",
+          "validation": {
+            "messages": {
+              "android": "G_BUYCAR_onb_page4_purchase_price_error_android",
+              "ios": "G_BUYCAR_onb_page4_purchase_price_error_ios",
+              "web": "G_BUYCAR_onb_page4_purchase_price_error_web"
+            },
+            "required": true
+          },
+          "variable": "purchasePrice"
+        },
+        {
+          "text": "G_BUYCAR_onb_page2_tip",
+          "tip": {
+            "description": "G_BUYCAR_onb_page2_tip_description",
+            "href": "G_BUYCAR_onb_page2_tip_CTA",
+            "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/iconTip.png",
+            "title": "G_BUYCAR_onb_page2_tip",
+            "type": "modal"
+          },
+          "type": "tip"
+        }
+      ],
+      "images": {
+        "backgroundType": "image",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchasePrice/background.png",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchasePrice/webBackground.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchasePrice/webBackground.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchasePrice/webBackground.svg"
+      },
+      "page": "purchasePrice",
+      "type": "inputPage",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5227946910416896",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_BUYCAR_onb_page3_title",
+          "type": "title"
+        },
+        {
+          "text": "G_BUYCAR_onb_page3_desc",
+          "type": "description"
+        },
+        {
+          "listElements": [
+            {
+              "bulletColor": "#9B6D94",
+              "description": "G_BUYCAR_onb_page3_bullet1_desc",
+              "title": "G_BUYCAR_onb_page3_bullet1_title"
+            },
+            {
+              "bulletColor": "#9B6D94",
+              "description": "G_BUYCAR_onb_page3_bullet2_desc",
+              "title": "G_BUYCAR_onb_page3_bullet2_title"
+            },
+            {
+              "bulletColor": "#9B6D94",
+              "description": "G_BUYCAR_onb_page3_bullet3_desc",
+              "title": "G_BUYCAR_onb_page3_bullet3_title"
+            }
+          ],
+          "listType": "number",
+          "type": "bulletList"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/bulletNotes/bulletNotes.json",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/bulletNotes/bulletNotesPhone.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/bulletNotes/bulletNotesTablet.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/bulletNotes/bulletNotesDesktop.svg"
+      },
+      "page": "bulletNotes",
+      "type": "bulletNotes",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5251538679234560",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "type": "visionLabel",
+          "variableElements": [
+            {
+              "componentTitle": "G_BUYCAR_onb_page8_purchase_price",
+              "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/Purchase.png",
+              "variable": "purchasePrice",
+              "webIcon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/Purchase.png"
+            },
+            {
+              "componentTitle": "G_BUYCAR_onb_page8_upfront_costs",
+              "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/Upfront.png",
+              "variable": "totalUpfront",
+              "webIcon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/Upfront.png"
+            }
+          ]
+        },
+        {
+          "chartElements": [
+            {
+              "color": "#595582",
+              "text": "G_BUYCAR_onb_page8_investment",
+              "variable": "totalInvestment"
+            },
+            {
+              "color": "#F6E6F8",
+              "text": "G_BUYCAR_onb_page8_cost",
+              "variable": "totalCost"
+            }
+          ],
+          "text": "G_BUYCAR_onb_page8_chart_title",
+          "type": "chart",
+          "variable": "totalUpfront"
+        },
+        {
+          "body": [
+            {
+              "listElements": [
+                {
+                  "color": "#595582",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "text": "G_BUYCAR_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_BUYCAR_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_BUYCAR_onb_page8_addedit_desc_downpayment",
+                    "inputElements": [
+                      {
+                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "defaultValue": true,
+                        "disabled": true,
+                        "text": "G_BUYCAR_onb_page8_addedit_investment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_BUYCAR_onb_page8_cost_opt1",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Down-Payment-additem.png",
+                    "title": "G_BUYCAR_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Down-Payments-Web.png"
+                  },
+                  "fixed": true,
+                  "isCustom": false,
+                  "represents": "money",
+                  "title": "G_BUYCAR_onb_page8_cost_opt1",
+                  "type": "investment",
+                  "variable": "downPayment"
+                },
+                {
+                  "color": "#595582",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "innerPage": {
+                          "content": [
+                            {
+                              "description": "G_BUYCAR_onb_page8_addedit_salestax_tip_desc",
+                              "headerSection": true,
+                              "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_title"
+                            },
+                            {
+                              "description": "G_BUYCAR_onb_page8_addedit_salestax_tip_subdesc1",
+                              "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_subtitle1"
+                            },
+                            {
+                              "description": "G_BUYCAR_onb_page8_addedit_salestax_tip_subdesc2",
+                              "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_subtitle2"
+                            },
+                            {
+                              "description": "G_BUYCAR_onb_page8_addedit_salestax_tip_subdesc3",
+                              "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_subtitle3"
+                            }
+                          ],
+                          "saveOnClose": false,
+                          "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_title",
+                          "type": "info"
+                        },
+                        "text": "G_BUYCAR_onb_page8_addedit_salestax_tip",
+                        "type": "CTA_secondary_info_page"
+                      },
+                      {
+                        "text": "G_BUYCAR_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_BUYCAR_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_BUYCAR_onb_page8_addedit_desc_salestax",
+                    "inputElements": [
+                      {
+                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "defaultValue": false,
+                        "disabled": true,
+                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_BUYCAR_onb_page8_cost_opt2",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Sales-tax.png",
+                    "title": "G_BUYCAR_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Sales-tax-Web.png"
+                  },
+                  "fixed": true,
+                  "isCustom": false,
+                  "represents": "money",
+                  "title": "G_BUYCAR_onb_page8_cost_opt2",
+                  "type": "investment",
+                  "variable": "salesTax"
+                },
+                {
+                  "color": "#F6E6F8",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "text": "G_BUYCAR_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_BUYCAR_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_BUYCAR_onb_page8_addedit_desc_destinationfee",
+                    "inputElements": [
+                      {
+                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "defaultValue": false,
+                        "disabled": true,
+                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_BUYCAR_onb_page8_cost_opt3",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/Destination-fee.png",
+                    "title": "G_BUYCAR_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Destination-fee-web.png"
+                  },
+                  "fixed": false,
+                  "isCustom": false,
+                  "represents": "money",
+                  "title": "G_BUYCAR_onb_page8_cost_opt3",
+                  "type": "cost",
+                  "variable": "destinationFee"
+                },
+                {
+                  "color": "#F6E6F8",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "text": "G_BUYCAR_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_BUYCAR_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_BUYCAR_onb_page8_addedit_desc_registration",
+                    "inputElements": [
+                      {
+                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "defaultValue": false,
+                        "disabled": true,
+                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_BUYCAR_onb_page8_cost_opt4",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Registration.png",
+                    "title": "G_BUYCAR_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Registration-web.png"
+                  },
+                  "fixed": false,
+                  "isCustom": false,
+                  "represents": "money",
+                  "title": "G_BUYCAR_onb_page8_cost_opt4",
+                  "type": "cost",
+                  "variable": "registration"
+                },
+                {
+                  "color": "#F6E6F8",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "text": "G_BUYCAR_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_BUYCAR_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_BUYCAR_onb_page8_addedit_desc_documentation_fees",
+                    "inputElements": [
+                      {
+                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "defaultValue": false,
+                        "disabled": true,
+                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_BUYCAR_onb_page8_cost_opt5",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Documentation-fees.png",
+                    "title": "G_BUYCAR_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Documentation-fees-web.png"
+                  },
+                  "fixed": false,
+                  "isCustom": false,
+                  "represents": "money",
+                  "title": "G_BUYCAR_onb_page8_cost_opt5",
+                  "type": "cost",
+                  "variable": "documentationFees"
+                },
+                {
+                  "color": "#F6E6F8",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "text": "G_BUYCAR_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_BUYCAR_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_BUYCAR_onb_page8_addedit_desc_inspection_and_emission_fee",
+                    "inputElements": [
+                      {
+                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "defaultValue": false,
+                        "disabled": true,
+                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_BUYCAR_onb_page8_cost_opt6",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Inspection-and-emission-fee.png",
+                    "title": "G_BUYCAR_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Inspection-and-emission-fee-web.png"
+                  },
+                  "fixed": false,
+                  "isCustom": false,
+                  "represents": "money",
+                  "title": "G_BUYCAR_onb_page8_cost_opt6",
+                  "type": "cost",
+                  "variable": "inspectionEmissionFee"
+                },
+                {
+                  "color": "#F6E6F8",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "text": "G_BUYCAR_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_BUYCAR_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_BUYCAR_onb_page8_addedit_desc_customcost",
+                    "inputElements": [
+                      {
+                        "customFieldToMap": "name",
+                        "placeholderText": "G_BUYCAR_onb_page8_addedit_name",
+                        "type": "text"
+                      },
+                      {
+                        "customFieldToMap": "value",
+                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "customFieldToMap": "type",
+                        "defaultValue": true,
+                        "disabled": false,
+                        "disclaimer": {
+                          "description": "G_BUYCAR_onb_page8_addedit_investment_ie_description",
+                          "subTitle": "G_BUYCAR_onb_page8_addedit_investment_ie",
+                          "title": "G_BUYCAR_onb_page8_addedit_investment_question",
+                          "type": "disclaimer"
+                        },
+                        "text": "G_BUYCAR_onb_page8_addedit_investment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_BUYCAR_onb_page8_cost_opt7",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Custom-costs.png",
+                    "title": "G_BUYCAR_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Custom-costs-web.png"
+                  },
+                  "fixed": false,
+                  "isCustom": true,
+                  "represents": "money",
+                  "title": "#replaceWithVariableCustomTitleLabel",
+                  "type": "investment",
+                  "variable": "custom"
+                }
+              ],
+              "type": "elements"
+            }
+          ],
+          "type": "list"
+        },
+        {
+          "innerPage": {
+            "description": "G_BUYCAR_onb_page8_addtype_subtitle",
+            "listElements": [
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_downpayment",
+                  "inputElements": [
+                    {
+                      "customFieldToMap": "value",
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number"
+                    },
+                    {
+                      "defaultValue": true,
+                      "disabled": true,
+                      "text": "G_BUYCAR_onb_page8_addedit_investment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt1",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Down-Payment.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Down-Payment-Web.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "text": "G_BUYCAR_onb_page8_cost_opt1",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Down-Payment.png",
+                "type": "investment",
+                "variable": "downPayment",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Down-Payment-Web.png"
+              },
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_salestax",
+                  "inputElements": [
+                    {
+                      "customFieldToMap": "value",
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt2",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Sales-tax.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Sales-tax-Web.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "text": "G_BUYCAR_onb_page8_cost_opt2",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Sales-tax.png",
+                "type": "investment",
+                "variable": "salesTax",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Sales-tax-Web.png"
+              },
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "innerPage": {
+                        "content": [
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_destinationfee_tip_desc",
+                            "headerSection": true,
+                            "title": "G_BUYCAR_onb_page8_addedit_destinationfee_tip_title"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_destinationfee_tip_subdesc1",
+                            "title": "G_BUYCAR_onb_page8_addedit_destinationfee_tip_subtitle1"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_destinationfee_tip_subdesc2",
+                            "title": "G_BUYCAR_onb_page8_addedit_destinationfee_tip_subtitle2"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_destinationfee_tip_subdesc3",
+                            "title": "G_BUYCAR_onb_page8_addedit_destinationfee_tip_subtitle3"
+                          }
+                        ],
+                        "saveOnClose": false,
+                        "title": "G_BUYCAR_onb_page5_programs_tab",
+                        "type": "info"
+                      },
+                      "text": "G_BUYCAR_onb_page8_addedit_destinationfee_tip",
+                      "type": "CTA_secondary_info_page"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_destinationfee",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "destinationFee"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt3",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/Destination-fee.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Destination-fee-web.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "text": "G_BUYCAR_onb_page8_cost_opt3",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/Destination-fee.png",
+                "type": "cost",
+                "variable": "destinationFee",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Destination-fee-web.png"
+              },
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "innerPage": {
+                        "content": [
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_registration_tip_desc",
+                            "headerSection": true,
+                            "title": "G_BUYCAR_onb_page8_addedit_registration_tip_title"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_registration_tip_subdesc1",
+                            "title": "G_BUYCAR_onb_page8_addedit_registration_tip_subtitle1"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_registration_tip_subdesc2",
+                            "title": "G_BUYCAR_onb_page8_addedit_registration_tip_subtitle2"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_registration_tip_subdesc3",
+                            "title": "G_BUYCAR_onb_page8_addedit_registration_tip_subtitle3"
+                          }
+                        ],
+                        "saveOnClose": false,
+                        "title": "G_BUYCAR_onb_page5_programs_tab",
+                        "type": "info"
+                      },
+                      "text": "G_BUYCAR_onb_page8_addedit_registration_tip",
+                      "type": "CTA_secondary_info_page"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_registration",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "registration"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt4",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Registration.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Registration-web.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "text": "G_BUYCAR_onb_page8_cost_opt4",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Registration.png",
+                "type": "cost",
+                "variable": "registration",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Registration-web.png"
+              },
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "innerPage": {
+                        "content": [
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_documentationfees_tip_desc",
+                            "headerSection": true,
+                            "title": "G_BUYCAR_onb_page8_addedit_documentationfees_tip_title"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_documentationfees_tip_subdesc1",
+                            "title": "G_BUYCAR_onb_page8_addedit_documentationfees_tip_subtitle1"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_documentationfees_tip_subdesc2",
+                            "title": "G_BUYCAR_onb_page8_addedit_documentationfees_tip_subtitle2"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_documentationfees_tip_subdesc3",
+                            "title": "G_BUYCAR_onb_page8_addedit_documentationfees_tip_subtitle3"
+                          }
+                        ],
+                        "saveOnClose": false,
+                        "title": "G_BUYCAR_onb_page5_programs_tab",
+                        "type": "info"
+                      },
+                      "text": "G_BUYCAR_onb_page8_addedit_documentationfees_tip",
+                      "type": "CTA_secondary_info_page"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_documentationfees",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "documentationFees"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt5",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Documentation-fees.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Documentation-fees-web.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "text": "G_BUYCAR_onb_page8_cost_opt5",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Documentation-fees.png",
+                "type": "cost",
+                "variable": "documentationFees",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Documentation-fees-web.png"
+              },
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "innerPage": {
+                        "content": [
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_inspectionemissionfee_tip_desc",
+                            "headerSection": true,
+                            "title": "G_BUYCAR_onb_page8_addeditinspectionemissionfee_tip_title"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_inspectionemissionfee_tip_subdesc1",
+                            "title": "G_BUYCAR_onb_page8_addedit_inspectionemissionfee_tip_subtitle1"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_inspectionemissionfee_tip_subdesc2",
+                            "title": "G_BUYCAR_onb_page8_addedit_inspectionemissionfee_tip_subtitle2"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_inspectionemissionfee_tip_subdesc3",
+                            "title": "G_BUYCAR_onb_page8_addedit_inspectionemissionfee_tip_subtitle3"
+                          }
+                        ],
+                        "saveOnClose": false,
+                        "title": "G_BUYCAR_onb_page5_programs_tab",
+                        "type": "info"
+                      },
+                      "text": "G_BUYCAR_onb_page8_addedit_documentationfees_tip",
+                      "type": "CTA_secondary_info_page"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_inspectionemissionfee",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "inspectionEmissionFee"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt6",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Inspection-and-emission-fee.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Inspection-and-emission-fee-web.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "text": "G_BUYCAR_onb_page8_cost_opt6",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Inspection-and-emission-fee.png",
+                "type": "cost",
+                "variable": "inspectionEmissionFee",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Inspection-and-emission-fee-web.png"
+              },
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_customcost",
+                  "inputElements": [
+                    {
+                      "customFieldToMap": "name",
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_name",
+                      "type": "text"
+                    },
+                    {
+                      "customFieldToMap": "value",
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number"
+                    },
+                    {
+                      "customFieldToMap": "type",
+                      "defaultValue": false,
+                      "disabled": true,
+                      "disclaimer": {
+                        "description": "G_BUYCAR_onb_page8_addedit_investment_ie_description",
+                        "subTitle": "G_BUYCAR_onb_page8_addedit_investment_ie",
+                        "title": "G_BUYCAR_onb_page8_addedit_investment_question",
+                        "type": "disclaimer"
+                      },
+                      "text": "G_BUYCAR_onb_page8_addedit_investment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt7",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Custom-costs.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Custom-costs-web.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "isCustom": true,
+                "text": "G_BUYCAR_onb_page8_cost_opt7",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Custom-costs.png",
+                "type": "investment",
+                "variable": "custom",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Custom-costs-web.png"
+              }
+            ],
+            "title": "G_BUYCAR_onb_page8_addtype_title",
+            "type": "addMenuPage"
+          },
+          "text": "G_BUYCAR_onb_page8_add_other_CTA",
+          "type": "CTA_add"
+        },
+        {
+          "actions": [
+            {
+              "text": "G_BUYCAR_onb_page1_setup_bttn",
+              "type": "CTA_primary"
+            }
+          ],
+          "text": "G_BUYCAR_onb_page8_editplan_title",
+          "type": "editPlan",
+          "variableElements": [
+            {
+              "componentTitle": "G_BUYCAR_onb_page8_update_purchase_price",
+              "represents": "money",
+              "type": "numberPicker",
+              "variable": "purchasePrice"
+            },
+            {
+              "componentTitle": "G_BUYCAR_onb_page8_update_timeline",
+              "descriptionSteps": [
+                {
+                  "description": "G_BUYCAR_onb_page6_box_asap_desc",
+                  "maxValue": 0,
+                  "title": "G_BUYCAR_onb_page6_box_asap_title",
+                  "variable": "purchaseInYears"
+                },
+                {
+                  "description": "G_BUYCAR_onb_page6_box_fut_desc",
+                  "maxValue": 15,
+                  "title": "G_BUYCAR_onb_page6_box_fut_title",
+                  "variable": "purchaseInYears"
+                }
+              ],
+              "represents": "year",
+              "type": "numberSlider",
+              "variable": "purchaseInYears"
+            }
+          ]
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntro.json",
+        "webBackgroundPhoneType": "lottie",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntro.json",
+        "webBackgroundTabletType": "lottie",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntro.json",
+        "webBackgroundType": "lottie",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntro.json"
+      },
+      "page": "upfrontCost",
+      "type": "summary",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5266221763133440",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F0FA",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_BUYCAR_onb_page5_title",
+          "type": "title"
+        },
+        {
+          "componentTitle": "G_BUYCAR_onb_page5_slider_title",
+          "represents": "percentage",
+          "type": "numberSlider",
+          "variable": "downPaymentPercentage"
+        },
+        {
+          "descriptionSteps": [
+            {
+              "description": "G_BUYCAR_onb_page5_box_desc_op1",
+              "maxValue": 19,
+              "variable": "downPaymentPercentage"
+            },
+            {
+              "description": "G_BUYCAR_onb_page5_box_desc_op2",
+              "maxValue": 25,
+              "variable": "downPaymentPercentage"
+            },
+            {
+              "description": "G_BUYCAR_onb_page5_box_desc_op3",
+              "maxValue": 100,
+              "variable": "downPaymentPercentage"
+            }
+          ],
+          "type": "descriptionBox",
+          "variable": "downPayment"
+        },
+        {
+          "text": "G_BUYCAR_onb_page5_tip_learn_more",
+          "tip": {
+            "tabs": [
+              {
+                "content": [
+                  {
+                    "description": "G_BUYCAR_onb_page5_piggyback_description",
+                    "image": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/downPayment/piggybackMortgage.png",
+                    "title": "G_BUYCAR_onb_page5_piggyback_title"
+                  }
+                ],
+                "tabTitle": "G_BUYCAR_onb_page5_piggyback_tab"
+              },
+              {
+                "content": [
+                  {
+                    "description": "G_BUYCAR_onb_page5_programs_description",
+                    "headerSection": true,
+                    "title": "G_BUYCAR_onb_page5_programs_title"
+                  },
+                  {
+                    "description": "G_BUYCAR_onb_page5_programs_subdescription1",
+                    "title": "G_BUYCAR_onb_page5_programs_subtitle1"
+                  },
+                  {
+                    "description": "G_BUYCAR_onb_page5_programs_subdescription2",
+                    "title": "G_BUYCAR_onb_page5_programs_subtitle2"
+                  },
+                  {
+                    "description": "G_BUYCAR_onb_page5_programs_subdescription3",
+                    "title": "G_BUYCAR_onb_page5_programs_subtitle3"
+                  }
+                ],
+                "tabTitle": "G_BUYCAR_onb_page5_programs_tab"
+              },
+              {
+                "content": [
+                  {
+                    "description": "G_BUYCAR_onb_page5_401k_description",
+                    "headerSection": true,
+                    "title": "G_BUYCAR_onb_page5_401k_title"
+                  },
+                  {
+                    "description": "G_BUYCAR_onb_page5_401k_subdescription1"
+                  },
+                  {
+                    "description": "G_BUYCAR_onb_page5_401k_subdescription2"
+                  },
+                  {
+                    "description": "G_BUYCAR_onb_page5_401k_subdescription3"
+                  }
+                ],
+                "tabTitle": "G_BUYCAR_onb_page5_401k_tab"
+              }
+            ],
+            "title": "G_BUYCAR_onb_page5_tip_learn_more",
+            "type": "tabbed"
+          },
+          "type": "tip"
+        }
+      ],
+      "images": {
+        "backgroundType": "image",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Down-Payment.png",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Down-Payment.png",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-02.png",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-02.png"
+      },
+      "page": "downpayment",
+      "type": "inputPage",
+      "webBackgroundColor": "#F9F0FA"
+    }
+  },
+  {
+    "id": "5275335348191232",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F0FA",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_BUYCAR_onb_page7_title",
+          "type": "title"
+        },
+        {
+          "text": "G_BUYCAR_onb_page7_desc",
+          "type": "description"
+        },
+        {
+          "listElements": [
+            {
+              "bulletColor": "#A38DB2",
+              "description": "G_BUYCAR_onb_page7_subdesc1",
+              "title": "G_BUYCAR_onb_page7_subtitle1"
+            },
+            {
+              "bulletColor": "#A38DB2",
+              "description": "G_BUYCAR_onb_page7_subdesc2",
+              "title": "G_BUYCAR_onb_page7_subtitle2"
+            },
+            {
+              "bulletColor": "#A38DB2",
+              "description": "G_BUYCAR_onb_page7_subdesc3",
+              "title": "G_BUYCAR_onb_page7_subtitle3"
+            }
+          ],
+          "listType": "none",
+          "type": "bulletList"
+        }
+      ],
+      "images": {
+        "backgroundType": "image",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Upfont-Cost.png",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Upfont-Cost.png",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-02.png",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-02.png"
+      },
+      "page": "upfrontIntro",
+      "type": "bulletNotes",
+      "webBackgroundColor": "#F9F0FA"
+    }
+  },
+  {
+    "id": "5307633502257152",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F0FA",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_BUYCAR_onb_page4_title",
+          "type": "title"
+        },
+        {
+          "text": "G_BUYCAR_onb_page4_desc",
+          "type": "description"
+        },
+        {
+          "componentTitle": "G_BUYCAR_onb_page4_purchase_price",
+          "represents": "money",
+          "type": "numberPicker",
+          "validation": {
+            "messages": {
+              "android": "G_BUYCAR_onb_page4_purchase_price_error_android",
+              "ios": "G_BUYCAR_onb_page4_purchase_price_error_ios",
+              "web": "G_BUYCAR_onb_page4_purchase_price_error_web"
+            },
+            "required": true
+          },
+          "variable": "purchasePrice"
+        },
+        {
+          "text": "G_BUYCAR_onb_page2_tip",
+          "tip": {
+            "description": "G_BUYCAR_onb_page2_tip_description",
+            "href": "G_BUYCAR_onb_page2_tip_CTA",
+            "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/iconTip.png",
+            "title": "G_BUYCAR_onb_page2_tip",
+            "type": "modal"
+          },
+          "type": "tip"
+        }
+      ],
+      "images": {
+        "backgroundType": "image",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Purchase-Price.png",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Purchase-Price.png",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-02.png",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-02.png"
+      },
+      "page": "purchasePrice",
+      "type": "inputPage",
+      "webBackgroundColor": "#F9F0FA"
+    }
+  },
+  {
+    "id": "5319822082572288",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_page8_add_other_CTA",
+          "type": "title"
+        },
+        {
+          "innerPage": {
+            "description": "G_BUYCAR_onb_page8_addtype_subtitle",
+            "listElements": [
+              {
+                "editItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "text": "G_BUYCAR_onb_remove_bttn",
+                      "type": "CTA_secondary_cancel"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_downpayment",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "downPayment"
+                    },
+                    {
+                      "defaultValue": true,
+                      "disabled": true,
+                      "text": "G_BUYCAR_onb_page8_addedit_investment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt1",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditDownPayments.png",
+                  "title": "G_BUYCAR_onb_page8_editpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditDownPayments.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "text": "G_BUYCAR_onb_page8_cost_opt1",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/downPayments.png",
+                "type": "investment",
+                "variable": "downPayment",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/downPayments.png"
+              },
+              {
+                "editItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "text": "G_BUYCAR_onb_remove_bttn",
+                      "type": "CTA_secondary_cancel"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_salestax",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "downPayment"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt2",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditClosingCosts.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditClosingCosts.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "text": "G_BUYCAR_onb_page8_cost_opt2",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditClosingCosts.png",
+                "type": "cost",
+                "variable": "closingCosts",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditClosingCosts.png"
+              },
+              {
+                "editItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "text": "G_BUYCAR_onb_remove_bttn",
+                      "type": "CTA_secondary_cancel"
+                    },
+                    {
+                      "innerPage": {
+                        "content": [
+                          {
+                            "description": "G_BUYCAR_onb_page5_programs_description",
+                            "headerSection": true,
+                            "title": "G_BUYCAR_onb_page5_programs_title"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_closingcost_tip_subdesc1",
+                            "title": "G_BUYCAR_onb_page8_addedit_closingcost_tip_subtitle1"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_closingcost_tip_subdesc2",
+                            "title": "G_BUYCAR_onb_page8_addedit_closingcost_tip_subtitle2"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page8_addedit_closingcost_tip_subdesc3",
+                            "title": "G_BUYCAR_onb_page8_addedit_closingcost_tip_subtitle3"
+                          }
+                        ],
+                        "saveOnClose": false,
+                        "title": "G_BUYCAR_onb_page5_programs_tab",
+                        "type": "info"
+                      },
+                      "text": "G_BUYCAR_onb_page8_addedit_closingcost_tip",
+                      "type": "CTA_secondary_info_page"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_movingcost",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "downPayment"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt3",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditMovingCosts.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditMovingCosts.png"
+                },
+                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "text": "G_BUYCAR_onb_page8_cost_opt3",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/movingCosts.png",
+                "type": "cost",
+                "variable": "movingCosts",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/movingCosts.png"
+              },
+              {
+                "editItem": {
+                  "actions": [
+                    {
+                      "text": "G_BUYCAR_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "text": "G_BUYCAR_onb_remove_bttn",
+                      "type": "CTA_secondary_cancel"
+                    }
+                  ],
+                  "description": "G_BUYCAR_onb_page8_addedit_desc_customcost",
+                  "inputElements": [
+                    {
+                      "customFieldToMap": "name",
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_name",
+                      "type": "text"
+                    },
+                    {
+                      "customFieldToMap": "value",
+                      "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
+                      "type": "number"
+                    },
+                    {
+                      "customFieldToMap": "type",
+                      "defaultValue": true,
+                      "disabled": false,
+                      "disclaimer": {
+                        "description": "G_BUYCAR_onb_page8_addedit_investment_ie_desc",
+                        "subTitle": "G_BUYCAR_onb_page8_addedit_investment_ie",
+                        "title": "G_BUYCAR_onb_page8_addedit_investment_question",
+                        "type": "disclaimer"
+                      },
+                      "text": "G_BUYCAR_onb_page8_addedit_investment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_BUYCAR_onb_page8_cost_opt3",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditCustomCosts.png",
+                  "title": "G_BUYCAR_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditCustomCosts.png"
+                },
+                "isCustom": true,
+                "text": "G_BUYCAR_onb_page8_cost_opt4",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/customCosts.png",
+                "type": "investment",
+                "variable": "custom",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/customCosts.png"
+              }
+            ],
+            "title": "G_BUYCAR_onb_page8_addtype_title",
+            "type": "addMenuPage"
+          },
+          "text": "G_BUYCAR_onb_page8_addtype_subtitle",
+          "type": "innerPage"
+        }
+      ],
+      "page": "editUpfrontCosts",
+      "type": "editPage"
+    }
+  },
+  {
+    "id": "5332055021846528",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "elements": [
+        {
+          "actions": [
+            {
+              "text": "G_BUYCAR_onb_save_bttn",
+              "type": "CTA_primary"
+            },
+            {
+              "opensPage": "editUpfront",
+              "text": "Edit upfront",
+              "type": "CTA_secondary_edit"
+            }
+          ],
+          "tabs": [
+            {
+              "content": [
+                {
+                  "text": "G_BUYCAR_onb_page4_desc",
+                  "type": "description"
+                },
+                {
+                  "componentTitle": "G_BUYCAR_onb_page4_purchase_price",
+                  "represents": "money",
+                  "type": "numberPicker",
+                  "validation": {
+                    "messages": {
+                      "android": "G_BUYCAR_onb_page4_purchase_price_error_android",
+                      "ios": "G_BUYCAR_onb_page4_purchase_price_error_ios",
+                      "web": "G_BUYCAR_onb_page4_purchase_price_error_web"
+                    },
+                    "required": true
+                  },
+                  "variable": "purchasePrice"
+                }
+              ],
+              "tabTitle": "G_BUYCAR_onb_page4_purchase_price"
+            },
+            {
+              "content": [
+                {
+                  "componentTitle": "G_BUYCAR_onb_page5_slider_title",
+                  "represents": "percentage",
+                  "type": "numberSlider",
+                  "variable": "downPaymentPercentage"
+                },
+                {
+                  "descriptionSteps": [
+                    {
+                      "description": "G_BUYCAR_onb_page5_box_desc_op1",
+                      "maxValue": 19,
+                      "variable": "downPaymentPercentage"
+                    },
+                    {
+                      "description": "G_BUYCAR_onb_page5_box_desc_op2",
+                      "maxValue": 25,
+                      "variable": "downPaymentPercentage"
+                    },
+                    {
+                      "description": "G_BUYCAR_onb_page5_box_desc_op3",
+                      "maxValue": 100,
+                      "variable": "downPaymentPercentage"
+                    }
+                  ],
+                  "type": "descriptionBox",
+                  "variable": "downPayment"
+                },
+                {
+                  "text": "G_BUYCAR_onb_page5_list_tip_title",
+                  "tip": {
+                    "tabs": [
+                      {
+                        "content": [
+                          {
+                            "description": "G_BUYCAR_onb_page5_piggyback_description",
+                            "image": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/downPayment/piggybackMortgage.png",
+                            "title": "G_BUYCAR_onb_page5_piggyback_title"
+                          }
+                        ],
+                        "tabTitle": "G_BUYCAR_onb_page5_piggyback_tab"
+                      },
+                      {
+                        "content": [
+                          {
+                            "description": "G_BUYCAR_onb_page5_programs_description",
+                            "headerSection": true,
+                            "title": "G_BUYCAR_onb_page5_programs_title"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page5_programs_subdescription1",
+                            "title": "G_BUYCAR_onb_page5_programs_subtitle1"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page5_programs_subdescription2",
+                            "title": "G_BUYCAR_onb_page5_programs_subtitle2"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page5_programs_subdescription3",
+                            "title": "G_BUYCAR_onb_page5_programs_subtitle3"
+                          }
+                        ],
+                        "tabTitle": "G_BUYCAR_onb_page5_programs_tab"
+                      },
+                      {
+                        "content": [
+                          {
+                            "description": "G_BUYCAR_onb_page5_401k_description",
+                            "headerSection": true,
+                            "title": "G_BUYCAR_onb_page5_401k_title"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page5_401k_subdescription1"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page5_401k_subdescription2"
+                          },
+                          {
+                            "description": "G_BUYCAR_onb_page5_401k_subdescription3"
+                          }
+                        ],
+                        "tabTitle": "G_BUYCAR_onb_page5_401k_tab"
+                      }
+                    ],
+                    "title": "G_BUYCAR_onb_page5_list_tip_title",
+                    "type": "tabbed"
+                  },
+                  "type": "tip"
+                }
+              ],
+              "tabTitle": "G_BUYCAR_onb_page5_title"
+            }
+          ],
+          "text": "Description",
+          "title": "Edit Plan",
+          "type": "tabbed"
+        }
+      ],
+      "page": "editPlan",
+      "type": "editPlan"
+    }
+  },
+  {
+    "id": "6417776918921216",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F0FA",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_page1_title",
+          "type": "title"
+        },
+        {
+          "text": "G_BUYCAR_onb_page1_desc",
+          "type": "description"
+        },
+        {
+          "mediaUrl": "",
+          "text": "G_BUYCAR_onb_page1_video_bttn",
+          "type": "CTA_video"
+        },
+        {
+          "text": "G_BUYCAR_onb_page1_setup_bttn",
+          "type": "CTA_primary"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Setup-01.json",
+        "webBackgroundPhoneType": "lottie",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Setup-01.json",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-01.png",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-01.png"
+      },
+      "page": "lander",
+      "type": "lander",
+      "webBackgroundColor": "#F9F0FA"
+    }
+  },
+  {
+    "id": "6430844709240832",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F0FA",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_title",
+          "type": "title"
+        },
+        {
+          "text": "G_BUYCAR_onb_desc",
+          "type": "description"
+        },
+        {
+          "chartElements": [
+            {
+              "color": "#FBDAA1",
+              "lottieUrl": "TODO",
+              "text": "G_HOUSE_onb_page8_investment",
+              "variable": "totalInvestment"
+            },
+            {
+              "color": "#9B6D94",
+              "text": "G_HOUSE_onb_page8_cost",
+              "variable": "totalCost"
+            }
+          ],
+          "colors": {
+            "defaultColor": "#5577F1",
+            "primaryColor": "#2C36A7",
+            "quaternaryColor": "#97ABF6",
+            "quintenaryColor": "#E0E6FC",
+            "secondaryColor": "#EF436C",
+            "tertiaryColor": "#5577F1"
+          },
+          "iconUrl": "TODO",
+          "text": "G_BUYCAR_chart_title",
+          "type": "chart",
+          "variable": "totalUpfront"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "TODO",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "TODO",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "TODO",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "TODO"
+      },
+      "page": "buyCarCrunchingNumbers",
+      "type": "crunchingNumbers",
+      "webBackgroundColor": "#F9F0FA"
+    }
+  },
+  {
+    "id": "",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F0FA",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_title",
+          "type": "title"
+        },
+        {
+          "text": "G_BUYCAR_onb_desc",
+          "type": "description"
+        },
+        {
+          "chartElements": [
+            {
+              "color": "#FBDAA1",
+              "lottieUrl": "TODO",
+              "text": "G_HOUSE_onb_page8_investment",
+              "variable": "totalInvestment"
+            },
+            {
+              "color": "#9B6D94",
+              "text": "G_HOUSE_onb_page8_cost",
+              "variable": "totalCost"
+            }
+          ],
+          "colors": {
+            "defaultColor": "#5577F1",
+            "primaryColor": "#2C36A7",
+            "quaternaryColor": "#97ABF6",
+            "quintenaryColor": "#E0E6FC",
+            "secondaryColor": "#EF436C",
+            "tertiaryColor": "#5577F1"
+          },
+          "iconUrl": "TODO",
+          "text": "G_BUYCAR_chart_title",
+          "type": "chart",
+          "variable": "totalUpfront"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "TODO",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "TODO",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "TODO",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "TODO"
+      },
+      "page": "buyCarMagicNumber",
+      "type": "magicNumber",
+      "webBackgroundColor": "#F9F0FA"
+    }
+  },
+  {
+    "id": "6457954928689152",
+    "parent": "goalsConfig,5346946210332672",
+    "data": {
+      "backgroundColor": "#F9F0FA",
+      "elements": [
+        {
+          "text": "G_BUYCAR_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_BUYCAR_onb_page2_title",
+          "type": "title"
+        },
+        {
+          "text": "G_BUYCAR_onb_page2_desc",
+          "type": "description"
+        },
+        {
+          "text": "G_BUYCAR_onb_page2_tip",
+          "tip": {
+            "description": "G_BUYCAR_onb_page2_tip_description",
+            "href": "G_BUYCAR_onb_page2_tip_CTA",
+            "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/iconTip.png",
+            "title": "G_BUYCAR_onb_page2_tip",
+            "type": "modal"
+          },
+          "type": "tip"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Setup-02.json",
+        "webBackgroundPhoneType": "lottie",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Setup-02.json",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-01.png",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Buying-a-car-setup-01.png"
+      },
+      "page": "dilemma",
+      "type": "content",
+      "webBackgroundColor": "#F9F0FA"
+    }
+  },
+  {
+    "id": "4592528544235520",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_HOUSE_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_HOUSE_onb_page4_title",
+          "type": "title"
+        },
+        {
+          "text": "G_HOUSE_onb_page4_desc",
+          "type": "description"
+        },
+        {
+          "componentTitle": "G_HOUSE_onb_page4_purchase_price",
+          "represents": "money",
+          "type": "numberPicker",
+          "validation": {
+            "messages": {
+              "android": "G_HOUSE_onb_page4_purchase_price_error_android",
+              "ios": "G_HOUSE_onb_page4_purchase_price_error_ios",
+              "web": "G_HOUSE_onb_page4_purchase_price_error_web"
+            },
+            "required": true
+          },
+          "variable": "purchasePrice"
+        },
+        {
+          "text": "G_HOUSE_onb_page2_tip",
+          "tip": {
+            "description": "G_HOUSE_onb_page2_tip_description",
+            "href": "G_HOUSE_onb_page2_tip_CTA",
+            "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/iconTip.png",
+            "title": "G_HOUSE_onb_page2_tip",
+            "type": "modal"
+          },
+          "type": "tip"
+        }
+      ],
+      "images": {
+        "backgroundType": "image",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchasePrice/background.png",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchasePrice/webBackground.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchasePrice/webBackground.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchasePrice/webBackground.svg"
+      },
+      "page": "purchasePrice",
+      "type": "inputPage",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "4957362561482752",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_HOUSE_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_HOUSE_onb_page3_title",
+          "type": "title"
+        },
+        {
+          "text": "G_HOUSE_onb_page3_desc",
+          "type": "description"
+        },
+        {
+          "listElements": [
+            {
+              "bulletColor": "#9B6D94",
+              "description": "G_HOUSE_onb_page3_bullet1_desc",
+              "title": "G_HOUSE_onb_page3_bullet1_title"
+            },
+            {
+              "bulletColor": "#9B6D94",
+              "description": "G_HOUSE_onb_page3_bullet2_desc",
+              "title": "G_HOUSE_onb_page3_bullet2_title"
+            },
+            {
+              "bulletColor": "#9B6D94",
+              "description": "G_HOUSE_onb_page3_bullet3_desc",
+              "title": "G_HOUSE_onb_page3_bullet3_title"
+            }
+          ],
+          "listType": "number",
+          "type": "bulletList"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/bulletNotes/bulletNotes.json",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/bulletNotes/bulletNotesPhone.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/bulletNotes/bulletNotesTablet.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/bulletNotes/bulletNotesDesktop.svg"
+      },
+      "page": "bulletNotes",
+      "type": "bulletNotes",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5276783876243456",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_HOUSE_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_HOUSE_onb_page5_title",
+          "type": "title"
+        },
+        {
+          "componentTitle": "G_HOUSE_onb_page5_slider_title",
+          "represents": "percentage",
+          "type": "numberSlider",
+          "variable": "downPaymentPercentage"
+        },
+        {
+          "descriptionSteps": [
+            {
+              "description": "G_HOUSE_onb_page5_box_desc_op1",
+              "maxValue": 19,
+              "variable": "downPaymentPercentage"
+            },
+            {
+              "description": "G_HOUSE_onb_page5_box_desc_op2",
+              "maxValue": 25,
+              "variable": "downPaymentPercentage"
+            },
+            {
+              "description": "G_HOUSE_onb_page5_box_desc_op3",
+              "maxValue": 100,
+              "variable": "downPaymentPercentage"
+            }
+          ],
+          "type": "descriptionBox",
+          "variable": "downPayment"
+        },
+        {
+          "text": "G_HOUSE_onb_page5_tip_learn_more",
+          "tip": {
+            "tabs": [
+              {
+                "content": [
+                  {
+                    "description": "G_HOUSE_onb_page5_piggyback_description",
+                    "image": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/downPayment/piggybackMortgage.png",
+                    "title": "G_HOUSE_onb_page5_piggyback_title"
+                  }
+                ],
+                "tabTitle": "G_HOUSE_onb_page5_piggyback_tab"
+              },
+              {
+                "content": [
+                  {
+                    "description": "G_HOUSE_onb_page5_programs_description",
+                    "headerSection": true,
+                    "title": "G_HOUSE_onb_page5_programs_title"
+                  },
+                  {
+                    "description": "G_HOUSE_onb_page5_programs_subdescription1",
+                    "title": "G_HOUSE_onb_page5_programs_subtitle1"
+                  },
+                  {
+                    "description": "G_HOUSE_onb_page5_programs_subdescription2",
+                    "title": "G_HOUSE_onb_page5_programs_subtitle2"
+                  },
+                  {
+                    "description": "G_HOUSE_onb_page5_programs_subdescription3",
+                    "title": "G_HOUSE_onb_page5_programs_subtitle3"
+                  }
+                ],
+                "tabTitle": "G_HOUSE_onb_page5_programs_tab"
+              },
+              {
+                "content": [
+                  {
+                    "description": "G_HOUSE_onb_page5_401k_description",
+                    "headerSection": true,
+                    "title": "G_HOUSE_onb_page5_401k_title"
+                  },
+                  {
+                    "description": "G_HOUSE_onb_page5_401k_subdescription1"
+                  },
+                  {
+                    "description": "G_HOUSE_onb_page5_401k_subdescription2"
+                  },
+                  {
+                    "description": "G_HOUSE_onb_page5_401k_subdescription3"
+                  }
+                ],
+                "tabTitle": "G_HOUSE_onb_page5_401k_tab"
+              }
+            ],
+            "title": "G_HOUSE_onb_page5_tip_learn_more",
+            "type": "tabbed"
+          },
+          "type": "tip"
+        }
+      ],
+      "images": {
+        "backgroundType": "image",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/downPayment/background.png",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/downPayment/webBackground.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/downPayment/webBackground.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/downPayment/webBackground.svg"
+      },
+      "page": "downpayment",
+      "type": "inputPage",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5277011207520256",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_HOUSE_onb_page1_title",
+          "type": "title"
+        },
+        {
+          "text": "G_HOUSE_onb_page1_desc",
+          "type": "description"
+        },
+        {
+          "mediaUrl": "",
+          "text": "G_HOUSE_onb_page1_video_bttn",
+          "type": "CTA_video"
+        },
+        {
+          "text": "G_HOUSE_onb_page1_setup_bttn",
+          "type": "CTA_primary"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/lander/lander.json",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/lander/landerPhone.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/lander/landerTablet.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/lander/landerDesktop.svg"
+      },
+      "page": "lander",
+      "type": "lander",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5311279140962304",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_HOUSE_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "type": "visionLabel",
+          "variableElements": [
+            {
+              "componentTitle": "G_HOUSE_onb_page8_purchase_price",
+              "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/iconPurchasePrice.png",
+              "variable": "purchasePrice",
+              "webIcon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webIconPurchasePrice.png"
+            },
+            {
+              "componentTitle": "G_HOUSE_onb_page8_upfront_costs",
+              "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/iconUpfront.png",
+              "variable": "totalUpfront",
+              "webIcon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webIconUpfront.png"
+            }
+          ]
+        },
+        {
+          "chartElements": [
+            {
+              "color": "#FBDAA1",
+              "text": "G_HOUSE_onb_page8_investment",
+              "variable": "totalInvestment"
+            },
+            {
+              "color": "#9B6D94",
+              "text": "G_HOUSE_onb_page8_cost",
+              "variable": "totalCost"
+            }
+          ],
+          "text": "G_HOUSE_onb_page8_chart_title",
+          "type": "chart",
+          "variable": "totalUpfront"
+        },
+        {
+          "body": [
+            {
+              "listElements": [
+                {
+                  "color": "#9B6D94",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "text": "G_HOUSE_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_HOUSE_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_HOUSE_onb_page8_addedit_desc_downpayment",
+                    "inputElements": [
+                      {
+                        "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "defaultValue": true,
+                        "disabled": true,
+                        "text": "G_HOUSE_onb_page8_addedit_investment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_HOUSE_onb_page8_cost_opt1",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditDownPayments.png",
+                    "title": "G_HOUSE_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditDownPayments.png"
+                  },
+                  "fixed": true,
+                  "isCustom": false,
+                  "represents": "money",
+                  "title": "G_HOUSE_onb_page8_cost_opt1",
+                  "type": "investment",
+                  "variable": "downPayment"
+                },
+                {
+                  "color": "#FBDAA1 ",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "innerPage": {
+                          "content": [
+                            {
+                              "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_desc",
+                              "headerSection": true,
+                              "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_title"
+                            },
+                            {
+                              "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_subdesc1",
+                              "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_subtitle1"
+                            },
+                            {
+                              "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_subdesc2",
+                              "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_subtitle2"
+                            },
+                            {
+                              "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_subdesc3",
+                              "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_subtitle3"
+                            }
+                          ],
+                          "saveOnClose": false,
+                          "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_title",
+                          "type": "info"
+                        },
+                        "text": "G_HOUSE_onb_page8_addedit_closingcost_tip",
+                        "type": "CTA_secondary_info_page"
+                      },
+                      {
+                        "text": "G_HOUSE_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_HOUSE_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_HOUSE_onb_page8_addedit_desc_closingcost",
+                    "inputElements": [
+                      {
+                        "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "defaultValue": false,
+                        "disabled": true,
+                        "text": "G_HOUSE_onb_page8_addedit_notinvestment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_HOUSE_onb_page8_cost_opt2",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditClosingCosts.png",
+                    "title": "G_HOUSE_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditClosingCosts.png"
+                  },
+                  "fixed": true,
+                  "isCustom": false,
+                  "represents": "money",
+                  "title": "G_HOUSE_onb_page8_cost_opt2",
+                  "type": "cost",
+                  "variable": "closingCosts"
+                },
+                {
+                  "color": "#FBDAA1 ",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "text": "G_HOUSE_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_HOUSE_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_HOUSE_onb_page8_addedit_desc_movingcost",
+                    "inputElements": [
+                      {
+                        "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "defaultValue": false,
+                        "disabled": true,
+                        "text": "G_HOUSE_onb_page8_addedit_notinvestment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_HOUSE_onb_page8_cost_opt3",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditMovingCosts.png",
+                    "title": "G_HOUSE_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditMovingCosts.png"
+                  },
+                  "fixed": true,
+                  "isCustom": false,
+                  "represents": "money",
+                  "title": "G_HOUSE_onb_page8_cost_opt3",
+                  "type": "cost",
+                  "variable": "movingCost"
+                },
+                {
+                  "color": "#9B6D94",
+                  "editItem": {
+                    "actions": [
+                      {
+                        "text": "G_HOUSE_onb_save_bttn",
+                        "type": "CTA_primary"
+                      },
+                      {
+                        "text": "G_HOUSE_onb_remove_bttn",
+                        "type": "CTA_secondary_cancel"
+                      }
+                    ],
+                    "description": "G_HOUSE_onb_page8_addedit_desc_customcost",
+                    "inputElements": [
+                      {
+                        "customFieldToMap": "name",
+                        "placeholderText": "G_HOUSE_onb_page8_addedit_name",
+                        "type": "text"
+                      },
+                      {
+                        "customFieldToMap": "value",
+                        "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                        "type": "number"
+                      },
+                      {
+                        "customFieldToMap": "type",
+                        "defaultValue": true,
+                        "disabled": false,
+                        "disclaimer": {
+                          "description": "G_HOUSE_onb_page8_addedit_investment_ie_description",
+                          "subTitle": "G_HOUSE_onb_page8_addedit_investment_ie",
+                          "title": "G_HOUSE_onb_page8_addedit_investment_question",
+                          "type": "disclaimer"
+                        },
+                        "text": "G_HOUSE_onb_page8_addedit_investment",
+                        "type": "radio"
+                      }
+                    ],
+                    "subTitle": "G_HOUSE_onb_page8_cost_opt4",
+                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditCustomCosts.png",
+                    "title": "G_HOUSE_onb_page8_editpage_title",
+                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditCustomCosts.png"
+                  },
+                  "fixed": false,
+                  "isCustom": true,
+                  "represents": "money",
+                  "title": "#replaceWithVariableCustomTitleLabel",
+                  "type": "investment",
+                  "variable": "custom"
+                }
+              ],
+              "type": "elements"
+            }
+          ],
+          "type": "list"
+        },
+        {
+          "innerPage": {
+            "description": "G_HOUSE_onb_page8_addtype_subtitle",
+            "listElements": [
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_HOUSE_onb_save_bttn",
+                      "type": "CTA_primary"
+                    }
+                  ],
+                  "description": "G_HOUSE_onb_page8_addedit_desc_downpayment",
+                  "inputElements": [
+                    {
+                      "customFieldToMap": "value",
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                      "type": "number"
+                    },
+                    {
+                      "defaultValue": true,
+                      "disabled": true,
+                      "text": "G_HOUSE_onb_page8_addedit_investment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_HOUSE_onb_page8_cost_opt1",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditDownPayments.png",
+                  "title": "G_HOUSE_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditDownPayments.png"
+                },
+                "ifAddedText": "G_HOUSE_onb_page8_addtype_alreadyadded",
+                "text": "G_HOUSE_onb_page8_cost_opt1",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/downPayments.png",
+                "type": "investment",
+                "variable": "downPayment",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/downPayments.png"
+              },
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_HOUSE_onb_save_bttn",
+                      "type": "CTA_primary"
+                    }
+                  ],
+                  "description": "G_HOUSE_onb_page8_addedit_desc_closingcost",
+                  "inputElements": [
+                    {
+                      "customFieldToMap": "value",
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                      "type": "number"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_HOUSE_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_HOUSE_onb_page8_cost_opt2",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditClosingCosts.png",
+                  "title": "G_HOUSE_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditClosingCosts.png"
+                },
+                "ifAddedText": "G_HOUSE_onb_page8_addtype_alreadyadded",
+                "text": "G_HOUSE_onb_page8_cost_opt2",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/closingCosts.png",
+                "type": "cost",
+                "variable": "closingCosts",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/closingCosts.png"
+              },
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_HOUSE_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "innerPage": {
+                        "content": [
+                          {
+                            "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_desc",
+                            "headerSection": true,
+                            "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_title"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_subdesc1",
+                            "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_subtitle1"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_subdesc2",
+                            "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_subtitle2"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_subdesc3",
+                            "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_subtitle3"
+                          }
+                        ],
+                        "saveOnClose": false,
+                        "title": "G_HOUSE_onb_page5_programs_tab",
+                        "type": "info"
+                      },
+                      "text": "G_HOUSE_onb_page8_addedit_closingcost_tip",
+                      "type": "CTA_secondary_info_page"
+                    }
+                  ],
+                  "description": "G_HOUSE_onb_page8_addedit_desc_movingcost",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "downPayment"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_HOUSE_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_HOUSE_onb_page8_cost_opt3",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditMovingCosts.png",
+                  "title": "G_HOUSE_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditMovingCosts.png"
+                },
+                "ifAddedText": "G_HOUSE_onb_page8_addtype_alreadyadded",
+                "text": "G_HOUSE_onb_page8_cost_opt3",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/movingCosts.png",
+                "type": "cost",
+                "variable": "movingCost",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/movingCosts.png"
+              },
+              {
+                "addItem": {
+                  "actions": [
+                    {
+                      "text": "G_HOUSE_onb_save_bttn",
+                      "type": "CTA_primary"
+                    }
+                  ],
+                  "description": "G_HOUSE_onb_page8_addedit_desc_customcost",
+                  "inputElements": [
+                    {
+                      "customFieldToMap": "name",
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_name",
+                      "type": "text"
+                    },
+                    {
+                      "customFieldToMap": "value",
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                      "type": "number"
+                    },
+                    {
+                      "customFieldToMap": "type",
+                      "defaultValue": false,
+                      "disabled": true,
+                      "disclaimer": {
+                        "description": "G_HOUSE_onb_page8_addedit_investment_ie_description",
+                        "subTitle": "G_HOUSE_onb_page8_addedit_investment_ie",
+                        "title": "G_HOUSE_onb_page8_addedit_investment_question",
+                        "type": "disclaimer"
+                      },
+                      "text": "G_HOUSE_onb_page8_addedit_investment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_HOUSE_onb_page8_cost_opt4",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditCustomCosts.png",
+                  "title": "G_HOUSE_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditCustomCosts.png"
+                },
+                "ifAddedText": "G_HOUSE_onb_page8_addtype_alreadyadded",
+                "isCustom": true,
+                "text": "G_HOUSE_onb_page8_cost_opt4",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/customCosts.png",
+                "type": "investment",
+                "variable": "custom",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/customCosts.png"
+              }
+            ],
+            "title": "G_HOUSE_onb_page8_addtype_title",
+            "type": "addMenuPage"
+          },
+          "text": "G_HOUSE_onb_page8_add_other_CTA",
+          "type": "CTA_add"
+        },
+        {
+          "actions": [
+            {
+              "text": "G_HOUSE_onb_page1_setup_bttn",
+              "type": "CTA_primary"
+            }
+          ],
+          "text": "G_HOUSE_onb_page8_editplan_title",
+          "type": "editPlan",
+          "variableElements": [
+            {
+              "componentTitle": "G_HOUSE_onb_page8_update_purchase_price",
+              "represents": "money",
+              "type": "numberPicker",
+              "variable": "purchasePrice"
+            },
+            {
+              "componentTitle": "G_HOUSE_onb_page8_update_timeline",
+              "descriptionSteps": [
+                {
+                  "description": "G_HOUSE_onb_page6_box_asap_desc",
+                  "maxValue": 0,
+                  "title": "G_HOUSE_onb_page6_box_asap_title",
+                  "variable": "purchaseInYears"
+                },
+                {
+                  "description": "G_HOUSE_onb_page6_box_fut_desc",
+                  "maxValue": 15,
+                  "title": "G_HOUSE_onb_page6_box_fut_title",
+                  "variable": "purchaseInYears"
+                }
+              ],
+              "represents": "year",
+              "type": "numberSlider",
+              "variable": "purchaseInYears"
+            }
+          ]
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntro.json",
+        "webBackgroundPhoneType": "lottie",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntro.json",
+        "webBackgroundTabletType": "lottie",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntro.json",
+        "webBackgroundType": "lottie",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntro.json"
+      },
+      "page": "upfrontCost",
+      "type": "summary",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "5337379120349184",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "elements": [
+        {
+          "actions": [
+            {
+              "text": "G_HOUSE_onb_save_bttn",
+              "type": "CTA_primary"
+            },
+            {
+              "opensPage": "editUpfront",
+              "text": "Edit upfront",
+              "type": "CTA_secondary_edit"
+            }
+          ],
+          "tabs": [
+            {
+              "content": [
+                {
+                  "text": "G_HOUSE_onb_page4_desc",
+                  "type": "description"
+                },
+                {
+                  "componentTitle": "G_HOUSE_onb_page4_purchase_price",
+                  "represents": "money",
+                  "type": "numberPicker",
+                  "validation": {
+                    "messages": {
+                      "android": "G_HOUSE_onb_page4_purchase_price_error_android",
+                      "ios": "G_HOUSE_onb_page4_purchase_price_error_ios",
+                      "web": "G_HOUSE_onb_page4_purchase_price_error_web"
+                    },
+                    "required": true
+                  },
+                  "variable": "purchasePrice"
+                }
+              ],
+              "tabTitle": "G_HOUSE_onb_page4_purchase_price"
+            },
+            {
+              "content": [
+                {
+                  "componentTitle": "G_HOUSE_onb_page5_slider_title",
+                  "represents": "percentage",
+                  "type": "numberSlider",
+                  "variable": "downPaymentPercentage"
+                },
+                {
+                  "descriptionSteps": [
+                    {
+                      "description": "G_HOUSE_onb_page5_box_desc_op1",
+                      "maxValue": 19,
+                      "variable": "downPaymentPercentage"
+                    },
+                    {
+                      "description": "G_HOUSE_onb_page5_box_desc_op2",
+                      "maxValue": 25,
+                      "variable": "downPaymentPercentage"
+                    },
+                    {
+                      "description": "G_HOUSE_onb_page5_box_desc_op3",
+                      "maxValue": 100,
+                      "variable": "downPaymentPercentage"
+                    }
+                  ],
+                  "type": "descriptionBox",
+                  "variable": "downPayment"
+                },
+                {
+                  "text": "G_HOUSE_onb_page5_list_tip_title",
+                  "tip": {
+                    "tabs": [
+                      {
+                        "content": [
+                          {
+                            "description": "G_HOUSE_onb_page5_piggyback_description",
+                            "image": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/downPayment/piggybackMortgage.png",
+                            "title": "G_HOUSE_onb_page5_piggyback_title"
+                          }
+                        ],
+                        "tabTitle": "G_HOUSE_onb_page5_piggyback_tab"
+                      },
+                      {
+                        "content": [
+                          {
+                            "description": "G_HOUSE_onb_page5_programs_description",
+                            "headerSection": true,
+                            "title": "G_HOUSE_onb_page5_programs_title"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page5_programs_subdescription1",
+                            "title": "G_HOUSE_onb_page5_programs_subtitle1"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page5_programs_subdescription2",
+                            "title": "G_HOUSE_onb_page5_programs_subtitle2"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page5_programs_subdescription3",
+                            "title": "G_HOUSE_onb_page5_programs_subtitle3"
+                          }
+                        ],
+                        "tabTitle": "G_HOUSE_onb_page5_programs_tab"
+                      },
+                      {
+                        "content": [
+                          {
+                            "description": "G_HOUSE_onb_page5_401k_description",
+                            "headerSection": true,
+                            "title": "G_HOUSE_onb_page5_401k_title"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page5_401k_subdescription1"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page5_401k_subdescription2"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page5_401k_subdescription3"
+                          }
+                        ],
+                        "tabTitle": "G_HOUSE_onb_page5_401k_tab"
+                      }
+                    ],
+                    "title": "G_HOUSE_onb_page5_list_tip_title",
+                    "type": "tabbed"
+                  },
+                  "type": "tip"
+                }
+              ],
+              "tabTitle": "G_HOUSE_onb_page5_title"
+            }
+          ],
+          "text": "Description",
+          "title": "Edit Plan",
+          "type": "tabbed"
+        }
+      ],
+      "page": "editPlan",
+      "type": "editPage"
+    }
+  },
+  {
+    "id": "5337519176548352",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_HOUSE_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_HOUSE_onb_page7_title",
+          "type": "title"
+        },
+        {
+          "text": "G_HOUSE_onb_page7_desc",
+          "type": "description"
+        },
+        {
+          "listElements": [
+            {
+              "bulletColor": "#D1A1D1",
+              "description": "G_HOUSE_onb_page7_subdesc1",
+              "title": "G_HOUSE_onb_page7_subtitle1"
+            },
+            {
+              "bulletColor": "#D1A1D1",
+              "description": "G_HOUSE_onb_page7_subdesc2",
+              "title": "G_HOUSE_onb_page7_subtitle2"
+            },
+            {
+              "bulletColor": "#D1A1D1",
+              "description": "G_HOUSE_onb_page7_subdesc3",
+              "title": "G_HOUSE_onb_page7_subtitle3"
+            }
+          ],
+          "listType": "none",
+          "type": "bulletList"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntro.json",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntroPhone.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntroTablet.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/upfrontIntroDesktop.svg"
+      },
+      "page": "upfrontIntro",
+      "type": "bulletNotes",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "6396017020764160",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_HOUSE_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_HOUSE_onb_page6_title",
+          "type": "title"
+        },
+        {
+          "componentTitle": "G_HOUSE_onb_page6_slider_title",
+          "represents": "year",
+          "type": "numberSlider",
+          "variable": "purchaseInYears"
+        },
+        {
+          "descriptionSteps": [
+            {
+              "description": "G_HOUSE_onb_page6_box_asap_desc",
+              "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchaseInYears/iconAsap.png",
+              "maxValue": 0,
+              "title": "G_HOUSE_onb_page6_box_asap_title",
+              "variable": "purchaseInYears",
+              "webIcon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchaseInYears/iconWebAsap.png"
+            },
+            {
+              "description": "G_HOUSE_onb_page6_box_fut_desc",
+              "maxValue": 25,
+              "title": "G_HOUSE_onb_page6_box_fut_title",
+              "variable": "downPaymentPercentage"
+            }
+          ],
+          "type": "descriptionBox",
+          "variable": "purchaseInYears"
+        }
+      ],
+      "images": {
+        "backgroundType": "image",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchaseInYears/background.png",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchaseInYears/webBackground.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchaseInYears/webBackground.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/purchaseInYears/webBackground.svg"
+      },
+      "page": "purchaseInYears",
+      "type": "inputPage",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  },
+  {
+    "id": "6398699395612672",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "elements": [
+        {
+          "text": "G_HOUSE_onb_page8_add_other_CTA",
+          "type": "title"
+        },
+        {
+          "innerPage": {
+            "description": "G_HOUSE_onb_page8_addtype_subtitle",
+            "listElements": [
+              {
+                "editItem": {
+                  "actions": [
+                    {
+                      "text": "G_HOUSE_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "text": "G_HOUSE_onb_remove_bttn",
+                      "type": "CTA_secondary_cancel"
+                    }
+                  ],
+                  "description": "G_HOUSE_onb_page8_addedit_desc_downpayment",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "downPayment"
+                    },
+                    {
+                      "defaultValue": true,
+                      "disabled": true,
+                      "text": "G_HOUSE_onb_page8_addedit_investment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_HOUSE_onb_page8_cost_opt1",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditDownPayments.png",
+                  "title": "G_HOUSE_onb_page8_editpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditDownPayments.png"
+                },
+                "ifAddedText": "G_HOUSE_onb_page8_addtype_alreadyadded",
+                "text": "G_HOUSE_onb_page8_cost_opt1",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/downPayments.png",
+                "type": "investment",
+                "variable": "downPayment",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/downPayments.png"
+              },
+              {
+                "editItem": {
+                  "actions": [
+                    {
+                      "text": "G_HOUSE_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "text": "G_HOUSE_onb_remove_bttn",
+                      "type": "CTA_secondary_cancel"
+                    }
+                  ],
+                  "description": "G_HOUSE_onb_page8_addedit_desc_closingcost",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "downPayment"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_HOUSE_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_HOUSE_onb_page8_cost_opt2",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditClosingCosts.png",
+                  "title": "G_HOUSE_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditClosingCosts.png"
+                },
+                "ifAddedText": "G_HOUSE_onb_page8_addtype_alreadyadded",
+                "text": "G_HOUSE_onb_page8_cost_opt2",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditClosingCosts.png",
+                "type": "cost",
+                "variable": "closingCosts",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditClosingCosts.png"
+              },
+              {
+                "editItem": {
+                  "actions": [
+                    {
+                      "text": "G_HOUSE_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "text": "G_HOUSE_onb_remove_bttn",
+                      "type": "CTA_secondary_cancel"
+                    },
+                    {
+                      "innerPage": {
+                        "content": [
+                          {
+                            "description": "G_HOUSE_onb_page5_programs_description",
+                            "headerSection": true,
+                            "title": "G_HOUSE_onb_page5_programs_title"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_subdesc1",
+                            "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_subtitle1"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_subdesc2",
+                            "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_subtitle2"
+                          },
+                          {
+                            "description": "G_HOUSE_onb_page8_addedit_closingcost_tip_subdesc3",
+                            "title": "G_HOUSE_onb_page8_addedit_closingcost_tip_subtitle3"
+                          }
+                        ],
+                        "saveOnClose": false,
+                        "title": "G_HOUSE_onb_page5_programs_tab",
+                        "type": "info"
+                      },
+                      "text": "G_HOUSE_onb_page8_addedit_closingcost_tip",
+                      "type": "CTA_secondary_info_page"
+                    }
+                  ],
+                  "description": "G_HOUSE_onb_page8_addedit_desc_movingcost",
+                  "inputElements": [
+                    {
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                      "type": "number",
+                      "updatesVariable": "downPayment"
+                    },
+                    {
+                      "defaultValue": false,
+                      "disabled": true,
+                      "text": "G_HOUSE_onb_page8_addedit_notinvestment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_HOUSE_onb_page8_cost_opt3",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditMovingCosts.png",
+                  "title": "G_HOUSE_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditMovingCosts.png"
+                },
+                "ifAddedText": "G_HOUSE_onb_page8_addtype_alreadyadded",
+                "text": "G_HOUSE_onb_page8_cost_opt3",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/movingCosts.png",
+                "type": "cost",
+                "variable": "movingCosts",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/movingCosts.png"
+              },
+              {
+                "editItem": {
+                  "actions": [
+                    {
+                      "text": "G_HOUSE_onb_save_bttn",
+                      "type": "CTA_primary"
+                    },
+                    {
+                      "text": "G_HOUSE_onb_remove_bttn",
+                      "type": "CTA_secondary_cancel"
+                    }
+                  ],
+                  "description": "G_HOUSE_onb_page8_addedit_desc_customcost",
+                  "inputElements": [
+                    {
+                      "customFieldToMap": "name",
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_name",
+                      "type": "text"
+                    },
+                    {
+                      "customFieldToMap": "value",
+                      "placeholderText": "G_HOUSE_onb_page8_addedit_amount",
+                      "type": "number"
+                    },
+                    {
+                      "customFieldToMap": "type",
+                      "defaultValue": true,
+                      "disabled": false,
+                      "disclaimer": {
+                        "description": "G_HOUSE_onb_page8_addedit_investment_ie_desc",
+                        "subTitle": "G_HOUSE_onb_page8_addedit_investment_ie",
+                        "title": "G_HOUSE_onb_page8_addedit_investment_question",
+                        "type": "disclaimer"
+                      },
+                      "text": "G_HOUSE_onb_page8_addedit_investment",
+                      "type": "radio"
+                    }
+                  ],
+                  "subTitle": "G_HOUSE_onb_page8_cost_opt3",
+                  "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/addEditCustomCosts.png",
+                  "title": "G_HOUSE_onb_page8_addpage_title",
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditCustomCosts.png"
+                },
+                "isCustom": true,
+                "text": "G_HOUSE_onb_page8_cost_opt4",
+                "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/customCosts.png",
+                "type": "investment",
+                "variable": "custom",
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/customCosts.png"
+              }
+            ],
+            "title": "G_HOUSE_onb_page8_addtype_title",
+            "type": "addMenuPage"
+          },
+          "text": "G_HOUSE_onb_page8_addtype_subtitle",
+          "type": "innerPage"
+        }
+      ],
+      "page": "editUpfrontCosts",
+      "type": "editPage"
+    }
+  },
+  {
+    "id": "6442145808384000",
+    "parent": "goalsConfig,6416700073312256",
+    "data": {
+      "backgroundColor": "#F9F9F9",
+      "elements": [
+        {
+          "text": "G_HOUSE_onb_layout_title",
+          "type": "flowTitle"
+        },
+        {
+          "text": "G_HOUSE_onb_page2_title",
+          "type": "title"
+        },
+        {
+          "text": "G_HOUSE_onb_page2_desc",
+          "type": "description"
+        },
+        {
+          "text": "G_HOUSE_onb_page2_tip",
+          "tip": {
+            "description": "G_HOUSE_onb_page2_tip_description",
+            "href": "G_HOUSE_onb_page2_tip_CTA",
+            "icon": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/iconTip.png",
+            "title": "G_HOUSE_onb_page2_tip",
+            "type": "modal"
+          },
+          "type": "tip"
+        }
+      ],
+      "images": {
+        "backgroundType": "lottie",
+        "backgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/dilemma.json",
+        "webBackgroundPhoneType": "image",
+        "webBackgroundPhoneUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/dilemmaPhone.svg",
+        "webBackgroundTabletType": "image",
+        "webBackgroundTabletUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/dilemmaTablet.svg",
+        "webBackgroundType": "image",
+        "webBackgroundUrl": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/dilemma/dilemmaDesktop.svg"
+      },
+      "page": "dilemma",
+      "type": "content",
+      "webBackgroundColor": "#F9F9F9"
+    }
+  }
+]

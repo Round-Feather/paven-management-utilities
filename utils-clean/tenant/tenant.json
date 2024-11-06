@@ -1,0 +1,43 @@
+{
+  "images": {
+    "icon": {
+      "web": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+      "tablet": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg",
+      "mobile": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+    },
+    "background": {
+      "web": "https://images.ctfassets.net/pmoql4aw53io/1BtiknLQ6p9yzpD1ElmWXv/f1bf9f81ad7b787de4f5af3eb05a6b71/Modal-journeys.png",
+      "tablet": "https://images.ctfassets.net/pmoql4aw53io/1BtiknLQ6p9yzpD1ElmWXv/f1bf9f81ad7b787de4f5af3eb05a6b71/Modal-journeys.png",
+      "mobile": "https://images.ctfassets.net/pmoql4aw53io/1BtiknLQ6p9yzpD1ElmWXv/f1bf9f81ad7b787de4f5af3eb05a6b71/Modal-journeys.png"
+    }
+  },
+  "color": {
+    "background": "#FFFFFF"
+  },
+  "i18n": {
+    "header": {
+      "text": "tutorial_header2",
+      "fontColor": "#FFFFFF"
+    },
+    "title": {
+      "text": "tutorial_title",
+      "fontColor": "#FFFFFF"
+    },
+    "description": {
+      "text": "tutorial_description",
+      "fontColor": "#FFFFFF"
+    }
+  },
+  "cta": {
+    "type": "button",
+    "action": "DEEP_LINK",
+    "backgroundColor": "#141414",
+    "fontColor": "#FFFFFF",
+    "text": "tutorial_btn_journey",
+    "textDesktop": "tutorial_btn_journey",
+    "textTablet": "tutorial_btn_journey",
+    "url": "content/journeys",
+    "disabledBackgroundColor": "#ffaaff",
+    "disabledFontColor": "#ffffff"
+  }
+}

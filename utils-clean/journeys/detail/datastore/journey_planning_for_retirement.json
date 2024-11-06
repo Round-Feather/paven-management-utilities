@@ -1,0 +1,1127 @@
+{
+  "properties": {
+    "journeyId": {
+      "stringValue": "journey_planning_for_retirement"
+    },
+    "i18n": {
+      "entityValue": {
+        "properties": {
+          "title": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_pfr_title"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "description": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_pfr_description"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "progress": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_progress"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "doneCheckmark": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_done_checkmark"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "doneCheckmarkChecked": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_done_checkmark_checked"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "previewTitle": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_pfr_preview_title"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "previewDescription": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_pfr_preview_description"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "previewProgress": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_preview_progress"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "finishedTitle": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_pfr_finished_title"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          },
+          "finishedDescription": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journey_pfr_finished_description"
+                },
+                "fontColor": {
+                  "stringValue": "#ffffff"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "images": {
+      "entityValue": {
+        "properties": {
+          "icon": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg"
+                },
+                "tablet": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+                }
+              }
+            }
+          },
+          "preview": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/78g7ywZ2TEzpUrmFZzecYP/b8a229d7662964ab5594bed6add43f94/journey-background.png"
+                },
+                "tablet": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+                }
+              }
+            }
+          },
+          "previewHighlighted": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                },
+                "tablet": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                }
+              }
+            }
+          },
+          "introBackground": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                },
+                "tablet": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6cUQ7bil5pSosaPgu7mogF/64a78ab5ac6cc4f7c173a111ebbf1bb9/highcard_journeys.png"
+                }
+              }
+            }
+          },
+          "finishedBackground": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json"
+                },
+                "tablet": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json"
+                },
+                "mobile": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json"
+                }
+              }
+            }
+          },
+          "headerBackground": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/bDWvNB8vtFxOTHTPhKOSN/9351aee265a92de409456a223a1253c8/Retirement_planning-Web_Icon.json"
+                },
+                "tablet": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/bDWvNB8vtFxOTHTPhKOSN/9351aee265a92de409456a223a1253c8/Retirement_planning-Web_Icon.json"
+                },
+                "mobile": {
+                  "stringValue": "https://images.ctfassets.net/pmoql4aw53io/63asqXEShccMhhMFoV6Sqy/1a7fb284b3e9eac873373453d4035189/header-generic.png"
+                }
+              }
+            }
+          },
+          "bottomBackground": {
+            "entityValue": {
+              "properties": {
+                "web": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json"
+                },
+                "tablet": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json"
+                },
+                "mobile": {
+                  "stringValue": "https://assets.ctfassets.net/pmoql4aw53io/3q1GAzcG4Rg861Pz8vs43G/d213925e53cb564a7bc659c455e143ef/Retirement_planning-Mobile___Web__1_.json"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "highlighted": {
+      "booleanValue": true
+    },
+    "done": {
+      "booleanValue": false
+    },
+    "cta": {
+      "arrayValue": {
+        "values": [
+          [
+            {
+              "entityValue": {
+                "properties": {
+                  "type": {
+                    "stringValue": "button"
+                  },
+                  "action": {
+                    "stringValue": "DEEP_LINK"
+                  },
+                  "backgroundColor": {
+                    "stringValue": "#141414"
+                  },
+                  "fontColor": {
+                    "stringValue": "#FFFFFF"
+                  },
+                  "text": {
+                    "stringValue": "journey_preview_btn"
+                  },
+                  "textDesktop": {
+                    "stringValue": "journey_preview_btn"
+                  },
+                  "textTablet": {
+                    "stringValue": "journey_preview_btn"
+                  },
+                  "disabledBackgroundColor": {
+                    "stringValue": "#ffaaff"
+                  },
+                  "disabledFontColor": {
+                    "stringValue": "#ffffff"
+                  },
+                  "url": {
+                    "stringValue": "/journey_planning_for_retirement"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "type": {
+                    "stringValue": "button"
+                  },
+                  "action": {
+                    "stringValue": "next"
+                  },
+                  "backgroundColor": {
+                    "stringValue": "#141414"
+                  },
+                  "fontColor": {
+                    "stringValue": "#FFFFFF"
+                  },
+                  "text": {
+                    "stringValue": "journey_next_btn"
+                  },
+                  "textDesktop": {
+                    "stringValue": "journey_next_btn"
+                  },
+                  "textTablet": {
+                    "stringValue": "journey_next_btn"
+                  },
+                  "disabledBackgroundColor": {
+                    "stringValue": "#ffaaff"
+                  },
+                  "disabledFontColor": {
+                    "stringValue": "#ffffff"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "type": {
+                    "stringValue": "button"
+                  },
+                  "action": {
+                    "stringValue": "close"
+                  },
+                  "backgroundColor": {
+                    "stringValue": "#141414"
+                  },
+                  "fontColor": {
+                    "stringValue": "#FFFFFF"
+                  },
+                  "text": {
+                    "stringValue": "journey_close_btn"
+                  },
+                  "textDesktop": {
+                    "stringValue": "journey_close_btn"
+                  },
+                  "textTablet": {
+                    "stringValue": "journey_close_btn"
+                  },
+                  "disabledBackgroundColor": {
+                    "stringValue": "#ffaaff"
+                  },
+                  "disabledFontColor": {
+                    "stringValue": "#ffffff"
+                  }
+                }
+              }
+            }
+          ]
+        ]
+      }
+    },
+    "theme": {
+      "stringValue": "steelBlue"
+    },
+    "steps": {
+      "arrayValue": {
+        "values": [
+          [
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content1_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content1_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content1_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content1_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "read"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "content/article/47QR0n9uXSwDxxjlubB371"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "47QR0n9uXSwDxxjlubB371"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action1_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action1_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action1_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action1_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "action"
+                  },
+                  "canSkip": {
+                    "booleanValue": false
+                  },
+                  "url": {
+                    "stringValue": "/goal/retirement/onboarding"
+                  },
+                  "type": {
+                    "stringValue": "goal"
+                  },
+                  "id": {
+                    "stringValue": "retirementSetup"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content2_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content2_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content2_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content2_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "read"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/538vC9iVAtSJ7UjPXfbobj"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "538vC9iVAtSJ7UjPXfbobj"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action2_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action2_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action2_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action2_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "action"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/budget"
+                  },
+                  "type": {
+                    "stringValue": "budget"
+                  },
+                  "id": {
+                    "stringValue": "budget1"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_benefit1_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_benefit1_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_benefit1_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_benefit1_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "benefit"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/simulator/article/4m9ObHleGYAHetpJwNzLRF"
+                  },
+                  "type": {
+                    "stringValue": "simulator"
+                  },
+                  "id": {
+                    "stringValue": "4m9ObHleGYAHetpJwNzLRF"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action3_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action3_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action3_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action3_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "action"
+                  },
+                  "canSkip": {
+                    "booleanValue": false
+                  },
+                  "url": {
+                    "stringValue": "/goal/retirement/vehicle/401/pretax"
+                  },
+                  "type": {
+                    "stringValue": "vehicle"
+                  },
+                  "id": {
+                    "stringValue": "401kvehicle"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content3_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content3_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content3_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content3_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "simulator"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/simulator/article/6RCplWXPy3wJ3UMlPOBXr4"
+                  },
+                  "type": {
+                    "stringValue": "simulator"
+                  },
+                  "id": {
+                    "stringValue": "6RCplWXPy3wJ3UMlPOBXr4"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action4_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action4_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action4_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_action4_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "action"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/goal/retirement/vehicle/ira/traditional"
+                  },
+                  "type": {
+                    "stringValue": "vehicle"
+                  },
+                  "id": {
+                    "stringValue": "iraVehicle"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content4_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content4_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content4_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_content4_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "read"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "/content/article/4h0YqeMkXe0K25pSD5ldlq"
+                  },
+                  "type": {
+                    "stringValue": "content"
+                  },
+                  "id": {
+                    "stringValue": "4h0YqeMkXe0K25pSD5ldlq"
+                  }
+                }
+              }
+            },
+            {
+              "entityValue": {
+                "properties": {
+                  "i18n": {
+                    "entityValue": {
+                      "properties": {
+                        "stepText": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_extlink1_step_text"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintTitle": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_extlink1_step_hint_title"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "hintDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_extlink1_step_hint_desc"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        },
+                        "toastDescription": {
+                          "entityValue": {
+                            "properties": {
+                              "text": {
+                                "stringValue": "journey_prf_extlink1_step_toast"
+                              },
+                              "fontColor": {
+                                "stringValue": "#ffffff"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "icons": {
+                    "stringValue": "link"
+                  },
+                  "canSkip": {
+                    "booleanValue": true
+                  },
+                  "url": {
+                    "stringValue": "https://short.paven.io/e/fidelity"
+                  },
+                  "type": {
+                    "stringValue": "link"
+                  },
+                  "id": {
+                    "stringValue": "https://short.paven.io/e/fidelity"
+                  }
+                }
+              }
+            }
+          ]
+        ]
+      }
+    },
+    "date": {
+      "stringValue": "1724333159462"
+    },
+    "shareAlias": {
+      "stringValue": "planningForRetirement"
+    }
+  }
+}

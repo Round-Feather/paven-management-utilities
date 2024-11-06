@@ -1,0 +1,132 @@
+{
+  "entityValue": {
+    "properties": {
+      "i18n": {
+        "entityValue": {
+          "properties": {
+            "header": {
+              "entityValue": {
+                "properties": {
+                  "text": {
+                    "stringValue": "tutorial_header2"
+                  },
+                  "fontColor": {
+                    "stringValue": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "title": {
+              "entityValue": {
+                "properties": {
+                  "text": {
+                    "stringValue": "tutorial_title"
+                  },
+                  "fontColor": {
+                    "stringValue": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "description": {
+              "entityValue": {
+                "properties": {
+                  "text": {
+                    "stringValue": "tutorial_description"
+                  },
+                  "fontColor": {
+                    "stringValue": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "images": {
+        "entityValue": {
+          "properties": {
+            "icon": {
+              "entityValue": {
+                "properties": {
+                  "web": {
+                    "stringValue": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg"
+                  },
+                  "tablet": {
+                    "stringValue": "https://images.ctfassets.net/pmoql4aw53io/5Zh9IAMtSA3qf5dB9PYk2J/c934d01da28f75c22bd830981933e3a2/journey_icon.svg"
+                  },
+                  "mobile": {
+                    "stringValue": "https://images.ctfassets.net/pmoql4aw53io/6aPND9dIZETLK9275SRscj/7d098ce604dabd9af9b8a69776adb5b0/journey_icon.png"
+                  }
+                }
+              }
+            },
+            "background": {
+              "entityValue": {
+                "properties": {
+                  "web": {
+                    "stringValue": "https://images.ctfassets.net/pmoql4aw53io/1BtiknLQ6p9yzpD1ElmWXv/f1bf9f81ad7b787de4f5af3eb05a6b71/Modal-journeys.png"
+                  },
+                  "tablet": {
+                    "stringValue": "https://images.ctfassets.net/pmoql4aw53io/1BtiknLQ6p9yzpD1ElmWXv/f1bf9f81ad7b787de4f5af3eb05a6b71/Modal-journeys.png"
+                  },
+                  "mobile": {
+                    "stringValue": "https://images.ctfassets.net/pmoql4aw53io/1BtiknLQ6p9yzpD1ElmWXv/f1bf9f81ad7b787de4f5af3eb05a6b71/Modal-journeys.png"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "color": {
+        "entityValue": {
+          "properties": {
+            "background": {
+              "stringValue": "#FFFFFF"
+            }
+          }
+        }
+      },
+      "added": {
+        "stringValue": "1716320007964"
+      },
+      "cta": {
+        "entityValue": {
+          "properties": {
+            "type": {
+              "stringValue": "button"
+            },
+            "action": {
+              "stringValue": "DEEP_LINK"
+            },
+            "backgroundColor": {
+              "stringValue": "#141414"
+            },
+            "fontColor": {
+              "stringValue": "#FFFFFF"
+            },
+            "text": {
+              "stringValue": "tutorial_btn_journey"
+            },
+            "textDesktop": {
+              "stringValue": "tutorial_btn_journey"
+            },
+            "textTablet": {
+              "stringValue": "tutorial_btn_journey"
+            },
+            "disabledBackgroundColor": {
+              "stringValue": "#ffaaff"
+            },
+            "disabledFontColor": {
+              "stringValue": "#ffffff"
+            },
+            "url": {
+              "stringValue": "content/journeys"
+            }
+          }
+        }
+      }
+    }
+  }
+}

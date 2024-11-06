@@ -1,0 +1,108 @@
+{
+  "properties": {
+    "i18n": {
+      "entityValue": {
+        "properties": {
+          "title": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journeys_list_title"
+                },
+                "fontColor": {
+                  "stringValue": "#333333"
+                }
+              }
+            }
+          },
+          "description": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journeys_list_description"
+                },
+                "fontColor": {
+                  "stringValue": "#333333"
+                }
+              }
+            }
+          },
+          "inProgress": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journeys_list_in_progress"
+                },
+                "fontColor": {
+                  "stringValue": "#333333"
+                }
+              }
+            }
+          },
+          "completed": {
+            "entityValue": {
+              "properties": {
+                "text": {
+                  "stringValue": "journeys_list_completed"
+                },
+                "fontColor": {
+                  "stringValue": "#333333"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "colors": {
+      "entityValue": {
+        "properties": {
+          "background": {
+            "stringValue": "#ffffff"
+          }
+        }
+      }
+    },
+    "cta": {
+      "arrayValue": {
+        "values": [
+          [
+            {
+              "entityValue": {
+                "properties": {
+                  "type": {
+                    "stringValue": "button"
+                  },
+                  "action": {
+                    "stringValue": "ADD"
+                  },
+                  "backgroundColor": {
+                    "stringValue": "#E0E6FC"
+                  },
+                  "fontColor": {
+                    "stringValue": "#5577F1"
+                  },
+                  "text": {
+                    "stringValue": "journeys_list_btn_add"
+                  },
+                  "textDesktop": {
+                    "stringValue": "journeys_list_btn_add"
+                  },
+                  "textTablet": {
+                    "stringValue": "journeys_list_btn_add"
+                  },
+                  "disabledBackgroundColor": {
+                    "stringValue": "#ffaaff"
+                  },
+                  "disabledFontColor": {
+                    "stringValue": "#ffffff"
+                  }
+                }
+              }
+            }
+          ]
+        ]
+      }
+    }
+  }
+}

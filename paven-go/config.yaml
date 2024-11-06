@@ -1,0 +1,8 @@
+projectID: "base-dev-v3"
+kinds:
+  - name: "goalsConfig"
+    namespace: "nsCommonDev"
+  - name: "pages"
+    namespace: "nsCommonDev"
+  - name: "variables"
+    namespace: "nsCommonDev"
