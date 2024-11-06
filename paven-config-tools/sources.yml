@@ -1,0 +1,80 @@
+---
+env:
+  dev:
+    project: base-dev-v3
+    config-tables:
+      - namespace: nsGlobalPavenDev
+        kind: goals
+        config-id: key
+      - namespace: nsGlobalPavenDev
+        kind: vehicles
+        config-id: key
+      - namespace: nsCommonDev
+        kind: vehicleConfig
+        config-id: "property:type"
+#      - namespace: nsCommonDev
+#        kind: goalsConfig
+#        config-id: "parent:goals"
+#      - namespace: nsGlobalPavenDev
+#        kind: careerStages
+#        config-id: key
+#      - namespace: nsGlobalPavenDev
+#        kind: journeys
+#        config-id: key
+#      - namespace: nsGlobalPavenDev
+#        kind: lifeMoments
+#        config-id: key
+#      - namespace: nsGlobalPavenDev
+#        kind: lifePath
+#        config-id: key
+#      - namespace: nsGlobalPavenDev
+#        kind: onboarding
+#        config-id: key
+#      - namespace: nsCommonDev
+#        kind: tenant
+#        config-id: key
+  qa:
+    project: base-testing-v3
+    config-tables:
+      - namespace: nsGlobalPavenQA
+        kind: goals
+        config-id: key
+      - namespace: nsGlobalPavenQA
+        kind: vehicles
+        config-id: key
+      - namespace: nsCommonQA
+        kind: vehicleConfig
+        config-id: "property:type"
+#      - namespace: nsCommonQA
+#        kind: goalsConfig
+#        config-id: "parent:goals"
+#      - namespace: nsGlobalPavenQA
+#        kind: careerStages
+#        config-id: key
+#      - namespace: nsGlobalPavenPRD
+#        kind: journeys
+#        config-id: key
+#      - namespace: nsGlobalPavenQA
+#        kind: lifeMoments
+#        config-id: key
+#      - namespace: nsGlobalPavenQA
+#        kind: lifePath
+#        config-id: key
+#      - namespace: nsGlobalPavenQA
+#        kind: onboarding
+#        config-id: key
+#      - namespace: nsCommonQA
+#        kind: tenant
+#        config-id: key
+  staging:
+    project: base-staging-v3
+    config-tables:
+      - namespace: nsGlobalPavenSTG
+        kind: goals
+        config-id: key
+      - namespace: nsGlobalPavenSTG
+        kind: vehicles
+        config-id: key
+      - namespace: nsCommonSTG
+        kind: vehicleConfig
+        config-id: "property:type"
