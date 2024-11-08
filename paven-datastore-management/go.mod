@@ -1,4 +1,4 @@
-module paven-go
+module paven-datastore-management
 
 go 1.23.2
 

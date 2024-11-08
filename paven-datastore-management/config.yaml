@@ -6,3 +6,5 @@ kinds:
     namespace: "nsCommonDev"
   - name: "variables"
     namespace: "nsCommonDev"
+  - name: "onboarding"
+    namespace: "nsGlobalPavenDev"

@@ -382,275 +382,6 @@
                   "title": "G_BUYCAR_onb_page8_cost_opt1",
                   "type": "investment",
                   "variable": "downPayment"
-                },
-                {
-                  "color": "#595582",
-                  "editItem": {
-                    "actions": [
-                      {
-                        "innerPage": {
-                          "content": [
-                            {
-                              "description": "G_BUYCAR_onb_page8_addedit_salestax_tip_desc",
-                              "headerSection": true,
-                              "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_title"
-                            },
-                            {
-                              "description": "G_BUYCAR_onb_page8_addedit_salestax_tip_subdesc1",
-                              "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_subtitle1"
-                            },
-                            {
-                              "description": "G_BUYCAR_onb_page8_addedit_salestax_tip_subdesc2",
-                              "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_subtitle2"
-                            },
-                            {
-                              "description": "G_BUYCAR_onb_page8_addedit_salestax_tip_subdesc3",
-                              "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_subtitle3"
-                            }
-                          ],
-                          "saveOnClose": false,
-                          "title": "G_BUYCAR_onb_page8_addedit_salestax_tip_title",
-                          "type": "info"
-                        },
-                        "text": "G_BUYCAR_onb_page8_addedit_salestax_tip",
-                        "type": "CTA_secondary_info_page"
-                      },
-                      {
-                        "text": "G_BUYCAR_onb_save_bttn",
-                        "type": "CTA_primary"
-                      },
-                      {
-                        "text": "G_BUYCAR_onb_remove_bttn",
-                        "type": "CTA_secondary_cancel"
-                      }
-                    ],
-                    "description": "G_BUYCAR_onb_page8_addedit_desc_salestax",
-                    "inputElements": [
-                      {
-                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
-                        "type": "number"
-                      },
-                      {
-                        "defaultValue": false,
-                        "disabled": true,
-                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
-                        "type": "radio"
-                      }
-                    ],
-                    "subTitle": "G_BUYCAR_onb_page8_cost_opt2",
-                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Sales-tax.png",
-                    "title": "G_BUYCAR_onb_page8_editpage_title",
-                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Sales-tax-Web.png"
-                  },
-                  "fixed": true,
-                  "isCustom": false,
-                  "represents": "money",
-                  "title": "G_BUYCAR_onb_page8_cost_opt2",
-                  "type": "investment",
-                  "variable": "salesTax"
-                },
-                {
-                  "color": "#F6E6F8",
-                  "editItem": {
-                    "actions": [
-                      {
-                        "text": "G_BUYCAR_onb_save_bttn",
-                        "type": "CTA_primary"
-                      },
-                      {
-                        "text": "G_BUYCAR_onb_remove_bttn",
-                        "type": "CTA_secondary_cancel"
-                      }
-                    ],
-                    "description": "G_BUYCAR_onb_page8_addedit_desc_destinationfee",
-                    "inputElements": [
-                      {
-                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
-                        "type": "number"
-                      },
-                      {
-                        "defaultValue": false,
-                        "disabled": true,
-                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
-                        "type": "radio"
-                      }
-                    ],
-                    "subTitle": "G_BUYCAR_onb_page8_cost_opt3",
-                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/Destination-fee.png",
-                    "title": "G_BUYCAR_onb_page8_editpage_title",
-                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Destination-fee-web.png"
-                  },
-                  "fixed": false,
-                  "isCustom": false,
-                  "represents": "money",
-                  "title": "G_BUYCAR_onb_page8_cost_opt3",
-                  "type": "cost",
-                  "variable": "destinationFee"
-                },
-                {
-                  "color": "#F6E6F8",
-                  "editItem": {
-                    "actions": [
-                      {
-                        "text": "G_BUYCAR_onb_save_bttn",
-                        "type": "CTA_primary"
-                      },
-                      {
-                        "text": "G_BUYCAR_onb_remove_bttn",
-                        "type": "CTA_secondary_cancel"
-                      }
-                    ],
-                    "description": "G_BUYCAR_onb_page8_addedit_desc_registration",
-                    "inputElements": [
-                      {
-                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
-                        "type": "number"
-                      },
-                      {
-                        "defaultValue": false,
-                        "disabled": true,
-                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
-                        "type": "radio"
-                      }
-                    ],
-                    "subTitle": "G_BUYCAR_onb_page8_cost_opt4",
-                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Registration.png",
-                    "title": "G_BUYCAR_onb_page8_editpage_title",
-                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Registration-web.png"
-                  },
-                  "fixed": false,
-                  "isCustom": false,
-                  "represents": "money",
-                  "title": "G_BUYCAR_onb_page8_cost_opt4",
-                  "type": "cost",
-                  "variable": "registration"
-                },
-                {
-                  "color": "#F6E6F8",
-                  "editItem": {
-                    "actions": [
-                      {
-                        "text": "G_BUYCAR_onb_save_bttn",
-                        "type": "CTA_primary"
-                      },
-                      {
-                        "text": "G_BUYCAR_onb_remove_bttn",
-                        "type": "CTA_secondary_cancel"
-                      }
-                    ],
-                    "description": "G_BUYCAR_onb_page8_addedit_desc_documentation_fees",
-                    "inputElements": [
-                      {
-                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
-                        "type": "number"
-                      },
-                      {
-                        "defaultValue": false,
-                        "disabled": true,
-                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
-                        "type": "radio"
-                      }
-                    ],
-                    "subTitle": "G_BUYCAR_onb_page8_cost_opt5",
-                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Documentation-fees.png",
-                    "title": "G_BUYCAR_onb_page8_editpage_title",
-                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Documentation-fees-web.png"
-                  },
-                  "fixed": false,
-                  "isCustom": false,
-                  "represents": "money",
-                  "title": "G_BUYCAR_onb_page8_cost_opt5",
-                  "type": "cost",
-                  "variable": "documentationFees"
-                },
-                {
-                  "color": "#F6E6F8",
-                  "editItem": {
-                    "actions": [
-                      {
-                        "text": "G_BUYCAR_onb_save_bttn",
-                        "type": "CTA_primary"
-                      },
-                      {
-                        "text": "G_BUYCAR_onb_remove_bttn",
-                        "type": "CTA_secondary_cancel"
-                      }
-                    ],
-                    "description": "G_BUYCAR_onb_page8_addedit_desc_inspection_and_emission_fee",
-                    "inputElements": [
-                      {
-                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
-                        "type": "number"
-                      },
-                      {
-                        "defaultValue": false,
-                        "disabled": true,
-                        "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
-                        "type": "radio"
-                      }
-                    ],
-                    "subTitle": "G_BUYCAR_onb_page8_cost_opt6",
-                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Inspection-and-emission-fee.png",
-                    "title": "G_BUYCAR_onb_page8_editpage_title",
-                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Inspection-and-emission-fee-web.png"
-                  },
-                  "fixed": false,
-                  "isCustom": false,
-                  "represents": "money",
-                  "title": "G_BUYCAR_onb_page8_cost_opt6",
-                  "type": "cost",
-                  "variable": "inspectionEmissionFee"
-                },
-                {
-                  "color": "#F6E6F8",
-                  "editItem": {
-                    "actions": [
-                      {
-                        "text": "G_BUYCAR_onb_save_bttn",
-                        "type": "CTA_primary"
-                      },
-                      {
-                        "text": "G_BUYCAR_onb_remove_bttn",
-                        "type": "CTA_secondary_cancel"
-                      }
-                    ],
-                    "description": "G_BUYCAR_onb_page8_addedit_desc_customcost",
-                    "inputElements": [
-                      {
-                        "customFieldToMap": "name",
-                        "placeholderText": "G_BUYCAR_onb_page8_addedit_name",
-                        "type": "text"
-                      },
-                      {
-                        "customFieldToMap": "value",
-                        "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
-                        "type": "number"
-                      },
-                      {
-                        "customFieldToMap": "type",
-                        "defaultValue": true,
-                        "disabled": false,
-                        "disclaimer": {
-                          "description": "G_BUYCAR_onb_page8_addedit_investment_ie_description",
-                          "subTitle": "G_BUYCAR_onb_page8_addedit_investment_ie",
-                          "title": "G_BUYCAR_onb_page8_addedit_investment_question",
-                          "type": "disclaimer"
-                        },
-                        "text": "G_BUYCAR_onb_page8_addedit_investment",
-                        "type": "radio"
-                      }
-                    ],
-                    "subTitle": "G_BUYCAR_onb_page8_cost_opt7",
-                    "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Custom-costs.png",
-                    "title": "G_BUYCAR_onb_page8_editpage_title",
-                    "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Custom-costs-web.png"
-                  },
-                  "fixed": false,
-                  "isCustom": true,
-                  "represents": "money",
-                  "title": "#replaceWithVariableCustomTitleLabel",
-                  "type": "investment",
-                  "variable": "custom"
                 }
               ],
               "type": "elements"
@@ -687,14 +418,14 @@
                   "subTitle": "G_BUYCAR_onb_page8_cost_opt1",
                   "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Down-Payment.png",
                   "title": "G_BUYCAR_onb_page8_addpage_title",
-                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Down-Payment-Web.png"
+                  "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Down-Payments-Web.png"
                 },
                 "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
                 "text": "G_BUYCAR_onb_page8_cost_opt1",
                 "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Down-Payment.png",
                 "type": "investment",
                 "variable": "downPayment",
-                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Down-Payment-Web.png"
+                "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Down-Payments-Web.png"
               },
               {
                 "addItem": {
@@ -724,6 +455,7 @@
                   "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Sales-tax-Web.png"
                 },
                 "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "isCustom": false,
                 "text": "G_BUYCAR_onb_page8_cost_opt2",
                 "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Sales-tax.png",
                 "type": "investment",
@@ -785,7 +517,7 @@
                   "title": "G_BUYCAR_onb_page8_addpage_title",
                   "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Destination-fee-web.png"
                 },
-                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "isCustom": false,
                 "text": "G_BUYCAR_onb_page8_cost_opt3",
                 "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/Destination-fee.png",
                 "type": "cost",
@@ -847,7 +579,7 @@
                   "title": "G_BUYCAR_onb_page8_addpage_title",
                   "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Registration-web.png"
                 },
-                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "isCustom": false,
                 "text": "G_BUYCAR_onb_page8_cost_opt4",
                 "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Registration.png",
                 "type": "cost",
@@ -909,7 +641,7 @@
                   "title": "G_BUYCAR_onb_page8_addpage_title",
                   "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Documentation-fees-web.png"
                 },
-                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "isCustom": false,
                 "text": "G_BUYCAR_onb_page8_cost_opt5",
                 "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Documentation-fees.png",
                 "type": "cost",
@@ -961,7 +693,7 @@
                     },
                     {
                       "defaultValue": false,
-                      "disabled": true,
+                      "disabled": false,
                       "text": "G_BUYCAR_onb_page8_addedit_notinvestment",
                       "type": "radio"
                     }
@@ -971,7 +703,7 @@
                   "title": "G_BUYCAR_onb_page8_addpage_title",
                   "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/web/Inspection-and-emission-fee-web.png"
                 },
-                "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "isCustom": false,
                 "text": "G_BUYCAR_onb_page8_cost_opt6",
                 "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYCAR/mobile/Inspection-and-emission-fee.png",
                 "type": "cost",
@@ -1134,53 +866,22 @@
               {
                 "content": [
                   {
-                    "description": "G_BUYCAR_onb_page5_piggyback_description",
-                    "image": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/downPayment/piggybackMortgage.png",
-                    "title": "G_BUYCAR_onb_page5_piggyback_title"
+                    "description": "G_BUYCAR_onb_page5_list_tip_description"
+                  },
+                  {
+                    "description": "G_BUYCAR_onb_page5_list_tip_subdescription1",
+                    "title": "G_BUYCAR_onb_page5_list_tip_subtitle1"
+                  },
+                  {
+                    "description": "G_BUYCAR_onb_page5_list_tip_subdescription2",
+                    "title": "G_BUYCAR_onb_page5_list_tip_subtitle2"
+                  },
+                  {
+                    "description": "G_BUYCAR_onb_page5_list_tip_subdescription3",
+                    "title": "G_BUYCAR_onb_page5_list_tip_subtitle3"
                   }
                 ],
-                "tabTitle": "G_BUYCAR_onb_page5_piggyback_tab"
-              },
-              {
-                "content": [
-                  {
-                    "description": "G_BUYCAR_onb_page5_programs_description",
-                    "headerSection": true,
-                    "title": "G_BUYCAR_onb_page5_programs_title"
-                  },
-                  {
-                    "description": "G_BUYCAR_onb_page5_programs_subdescription1",
-                    "title": "G_BUYCAR_onb_page5_programs_subtitle1"
-                  },
-                  {
-                    "description": "G_BUYCAR_onb_page5_programs_subdescription2",
-                    "title": "G_BUYCAR_onb_page5_programs_subtitle2"
-                  },
-                  {
-                    "description": "G_BUYCAR_onb_page5_programs_subdescription3",
-                    "title": "G_BUYCAR_onb_page5_programs_subtitle3"
-                  }
-                ],
-                "tabTitle": "G_BUYCAR_onb_page5_programs_tab"
-              },
-              {
-                "content": [
-                  {
-                    "description": "G_BUYCAR_onb_page5_401k_description",
-                    "headerSection": true,
-                    "title": "G_BUYCAR_onb_page5_401k_title"
-                  },
-                  {
-                    "description": "G_BUYCAR_onb_page5_401k_subdescription1"
-                  },
-                  {
-                    "description": "G_BUYCAR_onb_page5_401k_subdescription2"
-                  },
-                  {
-                    "description": "G_BUYCAR_onb_page5_401k_subdescription3"
-                  }
-                ],
-                "tabTitle": "G_BUYCAR_onb_page5_401k_tab"
+                "tabTitle": "G_BUYCAR_onb_page5_list_tip_tab_title"
               }
             ],
             "title": "G_BUYCAR_onb_page5_tip_learn_more",
@@ -1266,25 +967,41 @@
       "backgroundColor": "#F9F0FA",
       "elements": [
         {
-          "text": "G_BUYCAR_onb_title",
+          "section": 1,
+          "text": "G_BUYCAR_onb_page10_title",
           "type": "title"
         },
         {
-          "text": "G_BUYCAR_onb_desc",
+          "section": 1,
+          "text": "G_BUYCAR_onb_page10_subtitle",
+          "type": "description"
+        },
+        {
+          "section": 2,
+          "text": "G_BUYCAR_onb_page11_title",
+          "type": "title"
+        },
+        {
+          "section": 2,
+          "text": "G_BUYCAR_onb_page11_subtitle",
           "type": "description"
         },
         {
           "chartElements": [
             {
-              "color": "#FBDAA1",
-              "lottieUrl": "TODO",
-              "text": "G_HOUSE_onb_page8_investment",
-              "variable": "totalInvestment"
+              "color": "#518895",
+              "text": "G_BUYCAR_onb_page11_checking",
+              "variable": "CHK"
             },
             {
-              "color": "#9B6D94",
-              "text": "G_HOUSE_onb_page8_cost",
-              "variable": "totalCost"
+              "color": "#46A8AF",
+              "text": "G_BUYCAR_onb_page11_savings",
+              "variable": "SAV"
+            },
+            {
+              "color": "#4375B4",
+              "text": "G_BUYCAR_onb_page11_brokerage",
+              "variable": "IVT"
             }
           ],
           "colors": {
@@ -1295,21 +1012,22 @@
             "secondaryColor": "#EF436C",
             "tertiaryColor": "#5577F1"
           },
-          "iconUrl": "TODO",
-          "text": "G_BUYCAR_chart_title",
+          "iconUrl": "https://images.ctfassets.net/pmoql4aw53io/24FVmjDVHDdyxKIzHnM9hl/d6ad854bf1cfc6e1cac27c1b417a86b4/Magic-Number-Icon.png",
+          "mediaUrl": "https://assets.ctfassets.net/pmoql4aw53io/1Hr85eAioT6XURWDcIGKrQ/e92cfc8b9ef4ca9bf228036ee2075296/Chart-buying-car.json",
+          "text": "G_BUYCAR_onb_page11_chart_title",
           "type": "chart",
           "variable": "totalUpfront"
         }
       ],
       "images": {
         "backgroundType": "lottie",
-        "backgroundUrl": "TODO",
-        "webBackgroundPhoneType": "image",
-        "webBackgroundPhoneUrl": "TODO",
+        "backgroundUrl": "https://assets.ctfassets.net/pmoql4aw53io/5aPr7MDL3oCiNXnAqbJCAK/686403ed0edb295d816a580fb3f5964e/Magic-Number-buying-car.json",
+        "webBackgroundPhoneType": "lottie",
+        "webBackgroundPhoneUrl": "https://assets.ctfassets.net/pmoql4aw53io/5aPr7MDL3oCiNXnAqbJCAK/686403ed0edb295d816a580fb3f5964e/Magic-Number-buying-car.json",
         "webBackgroundTabletType": "image",
-        "webBackgroundTabletUrl": "TODO",
+        "webBackgroundTabletUrl": "https://images.ctfassets.net/pmoql4aw53io/3wLMK6pINpoWht7uOOv2gy/b293ce99c4f5ef1ebe933f54b8634c66/Magic-Tablet.png",
         "webBackgroundType": "image",
-        "webBackgroundUrl": "TODO"
+        "webBackgroundUrl": "https://images.ctfassets.net/pmoql4aw53io/1HqjvdHwipTiIMbfBI2ddV/e25790c6457ba313f8b4f0f79eecb996/Buying-a-car-Magic-Number__1_.png"
       },
       "page": "buyCarMagicNumber",
       "type": "magicNumber",
@@ -1460,7 +1178,7 @@
                     {
                       "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
                       "type": "number",
-                      "updatesVariable": "downPayment"
+                      "updatesVariable": "closingCosts"
                     },
                     {
                       "defaultValue": false,
@@ -1526,7 +1244,7 @@
                     {
                       "placeholderText": "G_BUYCAR_onb_page8_addedit_amount",
                       "type": "number",
-                      "updatesVariable": "downPayment"
+                      "updatesVariable": "movingCosts"
                     },
                     {
                       "defaultValue": false,
@@ -1541,6 +1259,7 @@
                   "webThumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/webAddEditMovingCosts.png"
                 },
                 "ifAddedText": "G_BUYCAR_onb_page8_addtype_alreadyadded",
+                "isCustom": true,
                 "text": "G_BUYCAR_onb_page8_cost_opt3",
                 "thumbnail": "https://storage.googleapis.com/paven-common-public-assets/visual-assets/goals/G_BUYHOME/upfrontCost/movingCosts.png",
                 "type": "cost",
@@ -1799,50 +1518,28 @@
       "backgroundColor": "#F9F0FA",
       "elements": [
         {
-          "text": "G_BUYCAR_onb_title",
+          "text": "G_BUYCAR_onb_page9_crunch_title",
           "type": "title"
         },
         {
-          "text": "G_BUYCAR_onb_desc",
+          "text": "G_BUYCAR_onb_page9_crunch_subtitle",
           "type": "description"
         },
         {
-          "chartElements": [
-            {
-              "color": "#FBDAA1",
-              "lottieUrl": "TODO",
-              "text": "G_HOUSE_onb_page8_investment",
-              "variable": "totalInvestment"
-            },
-            {
-              "color": "#9B6D94",
-              "text": "G_HOUSE_onb_page8_cost",
-              "variable": "totalCost"
-            }
-          ],
-          "colors": {
-            "defaultColor": "#5577F1",
-            "primaryColor": "#2C36A7",
-            "quaternaryColor": "#97ABF6",
-            "quintenaryColor": "#E0E6FC",
-            "secondaryColor": "#EF436C",
-            "tertiaryColor": "#5577F1"
-          },
-          "iconUrl": "TODO",
-          "text": "G_BUYCAR_chart_title",
-          "type": "chart",
-          "variable": "totalUpfront"
+          "mobileUrl": "https://assets.ctfassets.net/pmoql4aw53io/1Hr85eAioT6XURWDcIGKrQ/e92cfc8b9ef4ca9bf228036ee2075296/Chart-buying-car.json",
+          "type": "loadingLottie",
+          "webUrl": "https://assets.ctfassets.net/pmoql4aw53io/1Hr85eAioT6XURWDcIGKrQ/e92cfc8b9ef4ca9bf228036ee2075296/Chart-buying-car.json"
         }
       ],
       "images": {
         "backgroundType": "lottie",
-        "backgroundUrl": "TODO",
+        "backgroundUrl": "https://assets.ctfassets.net/pmoql4aw53io/5aPr7MDL3oCiNXnAqbJCAK/686403ed0edb295d816a580fb3f5964e/Magic-Number-buying-car.json",
         "webBackgroundPhoneType": "image",
-        "webBackgroundPhoneUrl": "TODO",
+        "webBackgroundPhoneUrl": "https://assets.ctfassets.net/pmoql4aw53io/5aPr7MDL3oCiNXnAqbJCAK/686403ed0edb295d816a580fb3f5964e/Magic-Number-buying-car.json",
         "webBackgroundTabletType": "image",
-        "webBackgroundTabletUrl": "TODO",
+        "webBackgroundTabletUrl": "https://images.ctfassets.net/pmoql4aw53io/41KJ8j6xPdATBcVlj1FKFi/a8db2a095c65738c10077e4791461ff4/Crunching-Tablet.png",
         "webBackgroundType": "image",
-        "webBackgroundUrl": "TODO"
+        "webBackgroundUrl": "https://images.ctfassets.net/pmoql4aw53io/SpWQE1m9qeEcdmeKTT7ym/c1f19d03fdfed214d3bf8e2ef87a9a5a/Buying-a-car-Crunching-Numbers.png"
       },
       "page": "buyCarCrunchingNumbers",
       "type": "crunchingNumbers",
