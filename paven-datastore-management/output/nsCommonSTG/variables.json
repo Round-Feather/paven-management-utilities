@@ -1,0 +1,183 @@
+[
+  {
+    "id": "5914469880299520",
+    "parent": "goalsConfig,5937621968617472",
+    "data": {
+      "decimals": false,
+      "type": "input",
+      "values": {
+        "defaultValue": 1500,
+        "maxValue": 20000,
+        "minValue": 500,
+        "quickSetupPrompt": false,
+        "quickSetupValue": 0,
+        "stepValue": 100
+      },
+      "variable": "totalExpenses"
+    }
+  },
+  {
+    "id": "5403186860916736",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "input",
+      "values": {
+        "defaultValue": 0,
+        "maxValue": 100000,
+        "minValue": 0,
+        "quickSetupPrompt": false,
+        "quickSetupValue": 0,
+        "stepValue": 1000
+      },
+      "variable": "reservesForMortgage"
+    }
+  },
+  {
+    "id": "5429539924606976",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "calculation",
+      "variable": "totalCost"
+    }
+  },
+  {
+    "id": "5929585703124992",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "input",
+      "values": {
+        "defaultValue": 0,
+        "maxValue": 100000,
+        "minValue": 0,
+        "quickSetupPrompt": false,
+        "quickSetupValue": 0,
+        "stepValue": 1000
+      },
+      "variable": "propertyUpgrades"
+    }
+  },
+  {
+    "id": "5943596423315456",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "input",
+      "values": {
+        "defaultValue": 4,
+        "maxValue": 100000,
+        "minValue": 0,
+        "quickSetupPrompt": false,
+        "quickSetupValue": 0,
+        "stepValue": 1000
+      },
+      "variable": "closingCostsPercentage"
+    }
+  },
+  {
+    "id": "5964470098591744",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "calculation",
+      "variable": "totalInvestment"
+    }
+  },
+  {
+    "id": "5992489878028288",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "calculation",
+      "variable": "closingCosts"
+    }
+  },
+  {
+    "id": "5998484763181056",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "calculation",
+      "variable": "totalUpfront"
+    }
+  },
+  {
+    "id": "6006187870912512",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "input",
+      "values": {
+        "defaultValue": 0,
+        "maxValue": 20000,
+        "minValue": 0,
+        "quickSetupPrompt": false,
+        "quickSetupValue": 0,
+        "stepValue": 1000
+      },
+      "variable": "movingCost"
+    }
+  },
+  {
+    "id": "6009223523598336",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "input",
+      "values": {
+        "defaultValue": 0,
+        "maxValue": 15,
+        "minValue": 0,
+        "quickSetupPrompt": true,
+        "quickSetupValue": 0,
+        "stepValue": 1
+      },
+      "variable": "purchaseInYears"
+    }
+  },
+  {
+    "id": "6021257485090816",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "input",
+      "values": {
+        "defaultValue": 20,
+        "maxValue": 100,
+        "minValue": 0,
+        "quickSetupPrompt": true,
+        "quickSetupValue": 20,
+        "stepValue": 1
+      },
+      "variable": "downPaymentPercentage"
+    }
+  },
+  {
+    "id": "6028466134712320",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "calculation",
+      "variable": "downPayment"
+    }
+  },
+  {
+    "id": "6039185618108416",
+    "parent": "goalsConfig,6006578226397184",
+    "data": {
+      "decimals": false,
+      "type": "input",
+      "values": {
+        "defaultValue": 400000,
+        "maxValue": 20000000,
+        "minValue": 50000,
+        "quickSetupPrompt": true,
+        "quickSetupValue": 400000,
+        "stepValue": 25000
+      },
+      "variable": "purchasePrice"
+    }
+  }
+]

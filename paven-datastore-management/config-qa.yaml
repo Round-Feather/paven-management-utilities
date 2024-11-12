@@ -1,0 +1,13 @@
+projectID: "base-testing-v3"
+kinds:
+  - name: "goalsConfig"
+    namespace: "nsCommonQA"
+  - name: "pages"
+    namespace: "nsCommonQA"
+  - name: "variables"
+    namespace: "nsCommonQA"
+  - name: "onboarding"
+    namespace: "nsGlobalPavenQA"
+  - name: "ratingOptions"
+    namespace: "nsGlobalPavenQA"
+    

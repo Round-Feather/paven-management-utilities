@@ -1,3 +1,6 @@
 .vscode
 bin/
 .idea
+dry_run/
+# Exclude generated executable
+paven-datastore-management/paven-datastore-management

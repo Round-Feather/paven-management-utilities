@@ -1,0 +1,112 @@
+[
+    {
+      "id": "default",
+      "data": {
+        "ratingOptions": [
+          {
+            "icon": "like-icon",
+            "name": "like",
+            "options": [
+              "content_rating_like_option_interests_me",
+              "content_rating_like_option_trustworthy",
+              "content_rating_like_option_good_info",
+              "content_rating_like_option_actionable",
+              "content_rating_like_option_nice_length",
+              "content_rating_like_option_easy_to_read"
+            ],
+            "order": 1
+          },
+          {
+            "icon": "dislike-icon",
+            "name": "dislike",
+            "options": [
+              "content_rating_dislike_option_boring",
+              "content_rating_dislike_option_dont_trust",
+              "content_rating_dislike_option_too_basic",
+              "content_rating_dislike_option_not_actionable",
+              "content_rating_dislike_option_too_long",
+              "content_rating_dislike_option_over_myhead"
+            ],
+            "order": 2
+          }
+        ],
+        "ratingOptionsLabel": "content_rating_default_component_title"
+      }
+    },
+    {
+      "id": "exploreArticleCard",
+      "data": {
+        "ratingOptions": [
+          {
+            "icon": "like-icon",
+            "name": "like",
+            "options": [
+              "content_rating_like_option_interests_me",
+              "content_rating_like_option_trustworthy",
+              "content_rating_like_option_good_info",
+              "content_rating_like_option_actionable",
+              "content_rating_like_option_nice_length",
+              "content_rating_like_option_easy_to_read"
+            ],
+            "order": 1
+          },
+          {
+            "icon": "dislike-icon",
+            "name": "dislike",
+            "options": [
+              "content_rating_dislike_option_boring",
+              "content_rating_dislike_option_dont_trust",
+              "content_rating_dislike_option_too_basic",
+              "content_rating_dislike_option_not_actionable",
+              "content_rating_dislike_option_too_long",
+              "content_rating_dislike_option_over_myhead"
+            ],
+            "order": 2
+          }
+        ],
+        "ratingOptions.icon": "",
+        "ratingOptions.name": "",
+        "ratingOptions.options": "",
+        "ratingOptions.order": 0,
+        "ratingOptionsLabel": "content_rating_article_component_title"
+      }
+    },
+    {
+      "id": "exploreBenefitCard",
+      "data": {
+        "ratingOptions": [
+          {
+            "icon": "like-icon",
+            "name": "like",
+            "options": [
+              "content_rating_like_option_new_to_me",
+              "content_rating_like_option_simplicity",
+              "content_rating_like_option_innovative",
+              "content_rating_like_option_actionable",
+              "content_rating_like_option_necessary",
+              "content_rating_like_option_relevant"
+            ],
+            "order": 1
+          },
+          {
+            "icon": "dislike-icon",
+            "name": "dislike",
+            "options": [
+              "content_rating_dislike_option_dont_trust",
+              "content_rating_dislike_option_limited_options",
+              "content_rating_dislike_option_not_relevant",
+              "content_rating_dislike_option_outdated",
+              "content_rating_dislike_option_high_costs",
+              "content_rating_dislike_option_complexity"
+            ],
+            "order": 2
+          }
+        ],
+        "ratingOptions.icon": "",
+        "ratingOptions.name": "",
+        "ratingOptions.options": "",
+        "ratingOptions.order": 0,
+        "ratingOptionsLabel": "content_rating_benefit_component_title"
+      }
+    }
+  ]

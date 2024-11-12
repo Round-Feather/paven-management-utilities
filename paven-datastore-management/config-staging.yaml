@@ -1,0 +1,13 @@
+projectID: "base-staging-v3"
+kinds:
+  - name: "goalsConfig"
+    namespace: "nsCommonSTG"
+  - name: "pages"
+    namespace: "nsCommonSTG"
+  - name: "variables"
+    namespace: "nsCommonSTG"
+  - name: "onboarding"
+    namespace: "nsGlobalPavenSTG"
+  - name: "ratingOptions"
+    namespace: "nsGlobalPavenSTG"
+    
